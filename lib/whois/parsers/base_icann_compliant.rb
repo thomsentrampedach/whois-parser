@@ -77,6 +77,8 @@ module Whois
             name:         node("Registrar"),
             organization: node("Registrar"),
             url:          node("Registrar URL"),
+            email:        node("Registrar Abuse Contact Email"),
+            phone:        node("Registrar Abuse Contact Phone")
         })
       end
 

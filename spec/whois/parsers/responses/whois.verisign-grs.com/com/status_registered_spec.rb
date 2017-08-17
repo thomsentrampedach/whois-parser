@@ -76,6 +76,8 @@ describe Whois::Parsers::WhoisVerisignGrsCom, "status_registered.expected" do
       expect(subject.registrar.name).to eq("MarkMonitor Inc.")
       expect(subject.registrar.organization).to eq(nil)
       expect(subject.registrar.url).to eq("http://www.markmonitor.com")
+      expect(subject.registrar.email).to eq("abusecomplaints@markmonitor.com")
+      expect(subject.registrar.phone).to eq("+1.2083895740")
     end
   end
   describe "#nameservers" do

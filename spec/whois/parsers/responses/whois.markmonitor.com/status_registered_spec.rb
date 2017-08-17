@@ -71,6 +71,8 @@ describe Whois::Parsers::WhoisMarkmonitorCom, "status_registered.expected" do
       expect(subject.registrar.name).to eq("MarkMonitor, Inc.")
       expect(subject.registrar.organization).to eq("MarkMonitor, Inc.")
       expect(subject.registrar.url).to eq("http://www.markmonitor.com")
+      expect(subject.registrar.email).to eq("compliance@markmonitor.com")
+      expect(subject.registrar.phone).to eq("+1.2083895740")
     end
   end
   describe "#registrant_contacts" do
