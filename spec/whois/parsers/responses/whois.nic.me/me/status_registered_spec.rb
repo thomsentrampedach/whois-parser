@@ -23,7 +23,7 @@ describe Whois::Parsers::WhoisNicMe, "status_registered.expected" do
 
   describe "#disclaimer" do
     it do
-      expect(subject.disclaimer).to eq("Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.")
+      expect(subject.disclaimer).to eq("Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.")
     end
   end
   describe "#domain" do
@@ -60,13 +60,13 @@ describe Whois::Parsers::WhoisNicMe, "status_registered.expected" do
   describe "#updated_on" do
     it do
       expect(subject.updated_on).to be_a(Time)
-      expect(subject.updated_on).to eq(Time.parse("2016-05-12 09:26:23 UTC"))
+      expect(subject.updated_on).to eq(Time.parse("2017-05-12 09:27:09 UTC"))
     end
   end
   describe "#expires_on" do
     it do
       expect(subject.expires_on).to be_a(Time)
-      expect(subject.expires_on).to eq(Time.parse("2017-06-13 17:17:40 UTC"))
+      expect(subject.expires_on).to eq(Time.parse("2018-06-13 17:17:40 UTC"))
     end
   end
   describe "#registrar" do
@@ -84,7 +84,7 @@ describe Whois::Parsers::WhoisNicMe, "status_registered.expected" do
       expect(subject.registrant_contacts.size).to eq(1)
       expect(subject.registrant_contacts[0]).to be_a(Whois::Parser::Contact)
       expect(subject.registrant_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_REGISTRANT)
-      expect(subject.registrant_contacts[0].id).to eq("a74791c75837f786")
+      expect(subject.registrant_contacts[0].id).to eq("C4422259-AGRS")
       expect(subject.registrant_contacts[0].name).to eq("DNS Admin")
       expect(subject.registrant_contacts[0].organization).to eq("Google Inc.")
       expect(subject.registrant_contacts[0].address).to eq("1600 Amphitheatre Parkway")
@@ -103,7 +103,7 @@ describe Whois::Parsers::WhoisNicMe, "status_registered.expected" do
       expect(subject.admin_contacts.size).to eq(1)
       expect(subject.admin_contacts[0]).to be_a(Whois::Parser::Contact)
       expect(subject.admin_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_ADMINISTRATIVE)
-      expect(subject.admin_contacts[0].id).to eq("a74791c75837f786")
+      expect(subject.admin_contacts[0].id).to eq("C4422259-AGRS")
       expect(subject.admin_contacts[0].name).to eq("DNS Admin")
       expect(subject.admin_contacts[0].organization).to eq("Google Inc.")
       expect(subject.admin_contacts[0].address).to eq("1600 Amphitheatre Parkway")
@@ -122,7 +122,7 @@ describe Whois::Parsers::WhoisNicMe, "status_registered.expected" do
       expect(subject.technical_contacts.size).to eq(1)
       expect(subject.technical_contacts[0]).to be_a(Whois::Parser::Contact)
       expect(subject.technical_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_TECHNICAL)
-      expect(subject.technical_contacts[0].id).to eq("a74791c75837f786")
+      expect(subject.technical_contacts[0].id).to eq("C4422259-AGRS")
       expect(subject.technical_contacts[0].name).to eq("DNS Admin")
       expect(subject.technical_contacts[0].organization).to eq("Google Inc.")
       expect(subject.technical_contacts[0].address).to eq("1600 Amphitheatre Parkway")
