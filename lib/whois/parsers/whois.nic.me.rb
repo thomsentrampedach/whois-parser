@@ -19,6 +19,10 @@ module Whois
 
       self.scanner = Scanners::WhoisNicMe
 
+      property_supported :domain_id do
+        node("Registry Domain ID")
+      end
+
       property_supported :status do
         Array.wrap(node("Domain Status"))
       end
@@ -43,10 +47,10 @@ module Whois
       end
 
       property_supported :registrar do
-        return unless node('Sponsoring Registrar')
+        return unless node('Registrar')
         Parser::Registrar.new(
-          id:   node('Sponsoring Registrar IANA ID'),
-          name: node('Sponsoring Registrar')
+          id:    node('Registrar IANA ID'),
+          name:  node('Registrar'),
         )
       end
 
@@ -56,14 +60,13 @@ module Whois
         end
       end
 
-
       private
 
       def build_contact(element, type)
-        node("#{element} ID") do
+        node("Registry #{element} ID") do
           Parser::Contact.new(
             type:         type,
-            id:           node("#{element} ID"),
+            id:           node("Registry #{element} ID"),
             name:         node("#{element} Name"),
             organization: node("#{element} Organization"),
             address:      node("#{element} Street"),
