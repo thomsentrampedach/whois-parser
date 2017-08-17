@@ -18,7 +18,7 @@ module Whois
     # @attr [String] organization
     # @attr [String] url
     #
-    class Registrar < SuperStruct.new(:id, :name, :organization, :url)
+    class Registrar < SuperStruct.new(:id, :name, :organization, :url, :email, :phone)
     end
 
   end

@@ -68,9 +68,11 @@ module Whois
       property_supported :registrar do
         node("Registrar") do |value|
           Parser::Registrar.new(
-              id:           last_useful_item(node("Registrar IANA ID")),
-              name:         last_useful_item(value),
-              url:          referral_url
+              id:    last_useful_item(node("Registrar IANA ID")),
+              name:  last_useful_item(value),
+              url:   referral_url,
+              email: last_useful_item(node("Registrar Abuse Contact Email")),
+              phone: last_useful_item(node("Registrar Abuse Contact Phone"))
           )
         end
       end
