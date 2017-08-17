@@ -51,6 +51,9 @@ module Whois
         Parser::Registrar.new(
           id:    node('Registrar IANA ID'),
           name:  node('Registrar'),
+          url:   node('Registrar URL'),
+          email: node('Registrar Abuse Contact Email'),
+          phone: node('Registrar Abuse Contact Phone'),
         )
       end
 

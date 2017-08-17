@@ -75,7 +75,7 @@ describe Whois::Parsers::WhoisNicMe, "status_registered.expected" do
       expect(subject.registrar.id).to eq("292")
       expect(subject.registrar.name).to eq("MarkMonitor Inc.")
       expect(subject.registrar.organization).to eq(nil)
-      expect(subject.registrar.url).to eq(nil)
+      expect(subject.registrar.url).to eq("http://www.markmonitor.com")
     end
   end
   describe "#registrant_contacts" do
