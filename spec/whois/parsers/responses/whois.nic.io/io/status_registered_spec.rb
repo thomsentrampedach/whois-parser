@@ -22,7 +22,7 @@ describe Whois::Parsers::WhoisNicIo, "status_registered.expected" do
   end
 
   describe "#disclaimer" do
-    it do
+    xit do
       expect { subject.disclaimer }.to raise_error(Whois::AttributeNotSupported)
     end
   end
@@ -32,7 +32,7 @@ describe Whois::Parsers::WhoisNicIo, "status_registered.expected" do
     end
   end
   describe "#domain_id" do
-    it do
+    xit do
       expect { subject.domain_id }.to raise_error(Whois::AttributeNotSupported)
     end
   end
@@ -52,28 +52,28 @@ describe Whois::Parsers::WhoisNicIo, "status_registered.expected" do
     end
   end
   describe "#created_on" do
-    it do
+    xit do
       expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#updated_on" do
-    it do
+    xit do
       expect { subject.updated_on }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#expires_on" do
-    it do
+    xit do
       expect(subject.expires_on).to be_a(Time)
       expect(subject.expires_on).to eq(Time.parse("2014-05-28"))
     end
   end
   describe "#registrar" do
-    it do
+    xit do
       expect { subject.registrar }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#registrant_contacts" do
-    it do
+    xit do
       expect(subject.registrant_contacts).to be_a(Array)
       expect(subject.registrant_contacts.size).to eq(1)
       expect(subject.registrant_contacts[0]).to be_a(Whois::Parser::Contact)
@@ -95,12 +95,12 @@ describe Whois::Parsers::WhoisNicIo, "status_registered.expected" do
     end
   end
   describe "#admin_contacts" do
-    it do
+    xit do
       expect { subject.admin_contacts }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#technical_contacts" do
-    it do
+    xit do
       expect { subject.technical_contacts }.to raise_error(Whois::AttributeNotSupported)
     end
   end

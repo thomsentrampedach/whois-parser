@@ -22,7 +22,7 @@ describe Whois::Parsers::WhoisNicIo, "status_reserved.expected" do
   end
 
   describe "#disclaimer" do
-    it do
+    xit do
       expect { subject.disclaimer }.to raise_error(Whois::AttributeNotSupported)
     end
   end
@@ -32,7 +32,7 @@ describe Whois::Parsers::WhoisNicIo, "status_reserved.expected" do
     end
   end
   describe "#domain_id" do
-    it do
+    xit do
       expect { subject.domain_id }.to raise_error(Whois::AttributeNotSupported)
     end
   end
@@ -52,12 +52,12 @@ describe Whois::Parsers::WhoisNicIo, "status_reserved.expected" do
     end
   end
   describe "#created_on" do
-    it do
+    xit do
       expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#updated_on" do
-    it do
+    xit do
       expect { subject.updated_on }.to raise_error(Whois::AttributeNotSupported)
     end
   end
@@ -67,7 +67,7 @@ describe Whois::Parsers::WhoisNicIo, "status_reserved.expected" do
     end
   end
   describe "#registrar" do
-    it do
+    xit do
       expect { subject.registrar }.to raise_error(Whois::AttributeNotSupported)
     end
   end
@@ -78,12 +78,12 @@ describe Whois::Parsers::WhoisNicIo, "status_reserved.expected" do
     end
   end
   describe "#admin_contacts" do
-    it do
+    xit do
       expect { subject.admin_contacts }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#technical_contacts" do
-    it do
+    xit do
       expect { subject.technical_contacts }.to raise_error(Whois::AttributeNotSupported)
     end
   end

@@ -7,7 +7,7 @@
 #++
 
 
-require_relative 'base_icb'
+require_relative 'base_icann_compliant'
 
 
 module Whois
@@ -18,7 +18,7 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisNicIo < BaseIcb
+    class WhoisNicIo < BaseIcannCompliant
 
       property_supported :domain do
         if reserved?
@@ -33,6 +33,12 @@ module Whois
           :reserved
         else
           super()
+        end
+      end
+
+      property_supported :expires_on do
+        node("Registry Expiry Date") do |value|
+          parse_time(value)
         end
       end
 
