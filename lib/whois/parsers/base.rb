@@ -205,7 +205,7 @@ module Whois
       #
       # @return [String] The part body.
       def content
-        part.body.force_encoding("UTF-8")
+        part.body.encode!("UTF-8", invalid: :replace, undef: :replace)
       end
 
       # Check if the parser respond to +symbol+
