@@ -1,10 +1,10 @@
 require 'spec_helper'
-require 'whois/parsers/whois.arin.net.rb'
+require 'whois/parsers/whois.ripe.net.rb'
 
-describe Whois::Parsers::WhoisArinNet, "status_registered.expected" do
+describe Whois::Parsers::WhoisRipeNet, "status_registered.expected" do
 
   subject do
-    file = fixture("responses", "whois.arin.net/status_registered.txt")
+    file = fixture("responses", "whois.ripe.net/status_registered.txt")
     part = Whois::Record::Part.new(body: File.read(file))
     described_class.new(part)
   end
@@ -29,13 +29,13 @@ describe Whois::Parsers::WhoisArinNet, "status_registered.expected" do
 
   describe "#created_on" do
     it do
-      expect(subject.created_on).to eq(Time.parse('2011-12-08'))
+      expect(subject.created_on).to eq(Time.parse('2012-10-17T15:07:44Z'))
     end
   end
 
   describe "#updated_on" do
     it do
-      expect(subject.updated_on).to eq(Time.parse('2017-1-28'))
+      expect(subject.updated_on).to eq(Time.parse('2016-04-14T10:59:03Z'))
     end
   end
 
@@ -47,7 +47,7 @@ describe Whois::Parsers::WhoisArinNet, "status_registered.expected" do
 
   describe "#nameservers" do
     it do
-      expect { subject.nameservers }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.nameservers).to eq([])
     end
   end
 
@@ -62,20 +62,18 @@ describe Whois::Parsers::WhoisArinNet, "status_registered.expected" do
       expect(subject.registrant_contacts).to be_a(Array)
       expect(subject.registrant_contacts[0].id).to eq(nil)
       expect(subject.registrant_contacts[0].type).to eq(1)
-      expect(subject.registrant_contacts[0].name)
-        .to eq('Amazon AWS Network Operations')
-      expect(subject.registrant_contacts[0].organization)
-        .to eq('Amazon Technologies Inc.')
-      expect(subject.registrant_contacts[0].address).to eq('410 Terry Ave N.')
-      expect(subject.registrant_contacts[0].city).to eq('Seattle')
-      expect(subject.registrant_contacts[0].zip).to eq('98109')
-      expect(subject.registrant_contacts[0].state).to eq('WA')
+      expect(subject.registrant_contacts[0].name).to eq(nil)
+      expect(subject.registrant_contacts[0].organization).to eq(nil)
+      expect(subject.registrant_contacts[0].address).to eq('')
+      expect(subject.registrant_contacts[0].city).to eq(nil)
+      expect(subject.registrant_contacts[0].zip).to eq(nil)
+      expect(subject.registrant_contacts[0].state).to eq(nil)
       expect(subject.registrant_contacts[0].country).to eq(nil)
-      expect(subject.registrant_contacts[0].country_code).to eq('US')
-      expect(subject.registrant_contacts[0].phone).to eq('+1-206-266-4064')
+      expect(subject.registrant_contacts[0].country_code).to eq('PS')
+      expect(subject.registrant_contacts[0].phone).to eq(nil)
       expect(subject.registrant_contacts[0].fax).to eq(nil)
       expect(subject.registrant_contacts[0].email)
-        .to eq('amzn-noc-contact@amazon.com')
+        .to eq('smansour@palestineix.com')
       expect(subject.registrant_contacts[0].url).to eq(nil)
       expect(subject.registrant_contacts[0].created_on).to eq(nil)
       expect(subject.registrant_contacts[0].updated_on).to eq(nil)
@@ -88,19 +86,16 @@ describe Whois::Parsers::WhoisArinNet, "status_registered.expected" do
       expect(subject.admin_contacts[0].id).to eq(nil)
       expect(subject.admin_contacts[0].type).to eq(2)
       expect(subject.admin_contacts[0].name)
-        .to eq('Amazon EC2 Abuse')
-      expect(subject.admin_contacts[0].organization)
-        .to eq('Amazon Technologies Inc.')
-      expect(subject.admin_contacts[0].address).to eq('410 Terry Ave N.')
-      expect(subject.admin_contacts[0].city).to eq('Seattle')
-      expect(subject.admin_contacts[0].zip).to eq('98109')
-      expect(subject.admin_contacts[0].state).to eq('WA')
+        .to eq('Saleh Mansour')
+      expect(subject.admin_contacts[0].organization).to eq(nil)
+      expect(subject.admin_contacts[0].address)
+        .to eq('NGN Palestine, Ramallah, Palestine <PS>, smansour@ngn.ps')
       expect(subject.admin_contacts[0].country).to eq(nil)
-      expect(subject.admin_contacts[0].country_code).to eq('US')
-      expect(subject.admin_contacts[0].phone).to eq('+1-206-266-4064')
-      expect(subject.admin_contacts[0].fax).to eq(nil)
+      expect(subject.admin_contacts[0].country_code).to eq('PS')
+      expect(subject.admin_contacts[0].phone).to eq('+970-59-9889919')
+      expect(subject.admin_contacts[0].fax).to eq('+970-2-2951182')
       expect(subject.admin_contacts[0].email)
-        .to eq('abuse@amazonaws.com')
+        .to eq('smansour@palestineix.com')
       expect(subject.admin_contacts[0].url).to eq(nil)
       expect(subject.admin_contacts[0].created_on).to eq(nil)
       expect(subject.admin_contacts[0].updated_on).to eq(nil)
@@ -113,19 +108,15 @@ describe Whois::Parsers::WhoisArinNet, "status_registered.expected" do
       expect(subject.technical_contacts[0].id).to eq(nil)
       expect(subject.technical_contacts[0].type).to eq(3)
       expect(subject.technical_contacts[0].name)
-        .to eq('Amazon EC2 Network Operations')
-      expect(subject.technical_contacts[0].organization)
-        .to eq('Amazon Technologies Inc.')
-      expect(subject.technical_contacts[0].address).to eq('410 Terry Ave N.')
-      expect(subject.technical_contacts[0].city).to eq('Seattle')
-      expect(subject.technical_contacts[0].zip).to eq('98109')
-      expect(subject.technical_contacts[0].state).to eq('WA')
-      expect(subject.technical_contacts[0].country).to eq(nil)
-      expect(subject.technical_contacts[0].country_code).to eq('US')
-      expect(subject.technical_contacts[0].phone).to eq('+1-206-266-4064')
-      expect(subject.technical_contacts[0].fax).to eq(nil)
+        .to eq('Saleh Mansour')
+      expect(subject.admin_contacts[0].organization).to eq(nil)
+      expect(subject.technical_contacts[0].address)
+        .to eq('NGN Palestine, Ramallah, Palestine <PS>, smansour@ngn.ps')
+      expect(subject.technical_contacts[0].country_code).to eq('PS')
+      expect(subject.technical_contacts[0].phone).to eq('+970-59-9889919')
+      expect(subject.technical_contacts[0].fax).to eq('+970-2-2951182')
       expect(subject.technical_contacts[0].email)
-        .to eq('amzn-noc-contact@amazon.com')
+        .to eq('smansour@palestineix.com')
       expect(subject.technical_contacts[0].url).to eq(nil)
       expect(subject.technical_contacts[0].created_on).to eq(nil)
       expect(subject.technical_contacts[0].updated_on).to eq(nil)

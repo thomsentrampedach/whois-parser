@@ -53,12 +53,6 @@ module Whois
          !registered?
       end
 
-      property_supported :response_throttled? do
-        node("Organization") do |value|
-          value.to_s.strip != ''
-        end
-      end
-
       property_supported :registrant_contacts do
         build_contact('NOC', Parser::Contact::TYPE_REGISTRANT)
       end
