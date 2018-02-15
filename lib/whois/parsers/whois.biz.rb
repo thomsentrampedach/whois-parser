@@ -7,7 +7,7 @@
 #++
 
 
-require_relative 'base_icann_compliant'
+require_relative 'base_shared2'
 
 
 module Whois
@@ -18,16 +18,7 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisBiz < BaseIcannCompliant
-      self.scanner = Scanners::BaseIcannCompliant, {
-          pattern_available: /^No Data Found\n/
-      }
-
-      property_supported :expires_on do
-        node("Registry Expiry Date") do |value|
-          parse_time(value)
-        end
-      end
+    class WhoisBiz < BaseShared2
     end
 
   end
