@@ -1,0 +1,74 @@
+% This is the RIPE Database query service.
+% The objects are in RPSL format.
+%
+% The RIPE Database is subject to Terms and Conditions.
+% See http://www.ripe.net/db/support/db-terms-conditions.pdf
+
+% Note: this output has been filtered.
+%       To receive output for a database update, use the "-B" flag.
+
+% Information related to '185.1.1.0 - 185.1.1.255'
+
+% Abuse contact for '185.1.1.0 - 185.1.1.255' is 'smansour@palestineix.com'
+
+inetnum:        185.1.1.0 - 185.1.1.255
+org:            ORG-PIEP1-RIPE
+netname:        PIX
+remarks:        operated by Internet Society Palestine
+country:        PS
+admin-c:        SALE7-RIPE
+tech-c:         SALE7-RIPE
+status:         ASSIGNED PI
+mnt-by:         RIPE-NCC-END-MNT
+mnt-by:         MNT-PIX
+mnt-by:         MNT-PIX
+mnt-routes:     MNT-PIX
+mnt-domains:    MNT-PIX
+created:        2012-10-17T15:07:44Z
+last-modified:  2016-04-14T10:59:03Z
+source:         RIPE # Filtered
+
+organisation:   ORG-PIEP1-RIPE
+org-name:       Palestine Internet Exchange Point
+org-type:       LIR
+address:        Al Irsal Street, Al-Masa Building Birzeit University Center for Continuing Education
+address:        Ramallah
+address:        PALESTINE, STATE OF
+phone:          +970599889919
+abuse-c:        AC28891-RIPE
+mnt-ref:        MNT-PIX
+mnt-ref:        RIPE-NCC-HM-MNT
+mnt-by:         RIPE-NCC-HM-MNT
+mnt-by:         MNT-PIX
+created:        2015-02-17T09:17:26Z
+last-modified:  2016-10-24T21:55:45Z
+source:         RIPE # Filtered
+
+person:         Saleh Mansour
+address:        NGN Palestine
+address:        Ramallah
+address:        Palestine <PS>
+remarks:        www.ngn.ps
+address:        smansour@ngn.ps
+phone:          +970-59-9889919
+fax-no:         +970-2-2951182
+nic-hdl:        SALE7-RIPE
+mnt-by:         NGN1-MNT
+created:        2010-10-23T09:55:47Z
+last-modified:  2017-10-30T22:11:23Z
+source:         RIPE # Filtered
+
+% Information related to '185.1.1.0/24AS61417'
+
+route:          185.1.1.0/24
+descr:          PIX-Route
+origin:         AS61417
+mnt-by:         MNT-PIX
+created:        2015-03-10T19:34:37Z
+last-modified:  2015-03-10T19:34:37Z
+source:         RIPE
+
+% This query was served by the RIPE Database Query Service version 1.90 (WAGYU)
+
+
+
