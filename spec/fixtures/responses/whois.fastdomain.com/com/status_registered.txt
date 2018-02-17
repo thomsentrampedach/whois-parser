@@ -1,0 +1,79 @@
+Domain Name: ETCUBE.COM
+Registry Domain ID: 1830745821_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.fastdomain.com
+Registrar URL: http://www.justhost.com/
+Updated Date: 2017-10-06T16:01:30Z
+Creation Date: 2013-10-11T16:28:58Z
+Registrar Registration Expiration Date: 2018-10-11T16:28:58Z
+Registrar: FastDomain Inc.
+Registrar IANA ID: 1154
+Registrar Abuse Contact Email: abuse@justhost.com
+Registrar Abuse Contact Phone: +1.8017659400
+Reseller: JustHost
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: FAST-20615691 
+Registrant Name: SURYA RAGHU
+Registrant Organization: ADVANCED FLUIDICS
+Registrant Street: 8860 COLUMBIA 100 PARKWAY, SUITE 204  
+Registrant City: COLUMBIA
+Registrant State/Province: MARYLAND
+Registrant Postal Code: 21045
+Registrant Country: US
+Registrant Phone: +1.4104999237
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: SRAGHU@ADVANCEDFLUIDICS.COM
+Registry Admin ID: FAST-20615691 
+Admin Name: SURYA RAGHU
+Admin Organization: ADVANCED FLUIDICS
+Admin Street: 8860 COLUMBIA 100 PARKWAY, SUITE 204  
+Admin City: COLUMBIA
+Admin State/Province: MARYLAND
+Admin Postal Code: 21045
+Admin Country: US
+Admin Phone: +1.4104999237
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: SRAGHU@ADVANCEDFLUIDICS.COM
+Registry Tech ID: FAST-15019575 
+Tech Name: JUST HOST HOSTING
+Tech Organization: JUSTHOST.COM
+Tech Street: 1958 SOUTH 950 EAST  
+Tech City: PROVO
+Tech State/Province: UTAH
+Tech Postal Code: 84606
+Tech Country: US
+Tech Phone: +1.8887557585
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: WHOIS@JUSTHOST.COM
+Name Server: NS1.JUSTHOST.COM
+Name Server: NS2.JUSTHOST.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-10-06T16:01:30Z <<<
+For more information on Whois status codes, please visit 
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data in the JustHost WHOIS database is provided
+to you by JustHost for information purposes only,
+that is, to assist you in obtaining information about or related to
+a domain name registration record. JustHost makes
+this information available "as is," and does not guarantee its
+accuracy.  By submitting a WHOIS query, you  agree that you will use
+this data only for lawful purposes and that, under no circumstances
+will you use this data to: (1) allow, enable, or otherwise support
+the transmission of mass unsolicited, commercial advertising or
+solicitations via direct mail, electronic mail, or by telephone; or
+(2) enable high volume, automated, electronic processes that apply
+to JustHost (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of
+JustHost. JustHost reserves the
+right to modify these terms at any time.  By submitting this query,
+you agree to abide by these terms.
+
+UNLIMITED storage, bandwidth and domains on one account. Also receive a *FREE* domain for one year when you host with http://www.justhost.com/
