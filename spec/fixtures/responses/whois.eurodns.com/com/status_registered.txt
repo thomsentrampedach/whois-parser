@@ -1,0 +1,71 @@
+Domain Name: canadavet.com
+Registry Domain ID: D15883293-COM
+Registrar WHOIS Server: whois.eurodns.com
+Registrar URL: http://www.eurodns.com
+Updated Date: 2017-11-09T12:23:40Z
+Creation Date: 2005-04-04T00:00:00Z
+Registrar Registration Expiration Date: 2022-04-03T00:00:00Z
+Registrar: Eurodns S.A.
+Registrar IANA ID: 1052
+Registrar Abuse Contact Email: legalservices[at]eurodns.com
+Registrar Abuse Contact Phone: +352.27220150
+Domain Status: clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Perissinotto Steven
+Registrant Organization: Ani Welf Int Pty Ltd
+Registrant Street: c/- Harney  Westwood  Riegels, Craigmuir Chambers, PO Box 71
+Registrant City: Road Town Tortola
+Registrant State/Province:
+Registrant Postal Code: VG1110
+Registrant Country: VG
+Registrant Phone: +61.407124605
+Registrant Fax: 
+Registrant Email: steven@vetshopgroup.com
+Registry Admin ID: 
+Admin Name: Perissinotto Steven
+Admin Organization: Ani Welf Int Pty Ltd
+Admin Street: c/- Harney  Westwood  Riegels, Craigmuir Chambers, PO Box 71
+Admin City: Road Town Tortola
+Admin State/Province:
+Admin Postal Code: VG1110
+Admin Country: VG
+Admin Phone: +61.407124605
+Admin Fax: 
+Admin Email: steven@vetshopgroup.com
+Registry Tech ID: 
+Tech Name: Perissinotto Steven
+Tech Organization: Ani Welf Int Pty Ltd
+Tech Street: c/- Harney  Westwood  Riegels, Craigmuir Chambers, PO Box 71
+Tech City: Road Town Tortola
+Tech State/Province:
+Tech Postal Code: VG1110
+Tech Country: VG
+Tech Phone: +61.407124605
+Tech Fax: 
+Tech Email: steven@vetshopgroup.com
+Name Server: chan.ns.cloudflare.com
+Name Server: darl.ns.cloudflare.com
+DNSSEC: unsigned
+ICANN WHOIS Data Problem Reporting System:  http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-02-17T03:39:06Z <<<
+
+Please email the listed admin email address if you wish to raise a legal issue.
+
+Whois History: 242 records have been archived since 2001-03-21
+http://www.domaintools.com/research/whois-history/?page=results&Affiliate_ID=1001861&q=canadavet.com
+
+The Data in EuroDNS WHOIS database is provided for information purposes only.
+The fact that EuroDNS display such information does not provide any guarantee
+expressed or implied on the purpose for which the database may be used, its
+accuracy or usefulness. By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no circumstances will
+you use this Data to:
+
+(1) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that apply to EuroDNS
+(or its systems). EuroDNS reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by the above policy.
+
+For more information on Whois status codes, please visit: https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
