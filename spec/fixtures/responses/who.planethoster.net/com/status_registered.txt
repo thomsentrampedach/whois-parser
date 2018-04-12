@@ -1,0 +1,54 @@
+Domain Name: everysens.com
+Registry Domain ID: 1848897998_DOMAIN_COM-VRSN
+Registrar Whois Server: whois.planethoster.net
+Registrar URL: https://www.planethoster.net
+Updated Date: 2018-04-11T08:46:19Z
+Creation Date: 2014-03-03T00:00:00Z
+Registrar Registration Expiration Date: 2020-03-03T00:00:00Z
+Registrar: PlanetHoster
+Registrar IANA ID: 2476
+Registrar Abuse Contact Email: abuse@support.planethoster.net
+Registrar Abuse Contact Phone: +1.8557744678
+Domain Status: ok
+Registry Registrant ID: vbzbthqzykdhbxz
+Registrant Name: youness lemrabet
+Registrant Organization: FleurAmbition
+Registrant Street: 4 rue Courmont, App 33, Bat G
+Registrant City: Lille
+Registrant State/Province: Nord
+Registrant Postal Code: 59000
+Registrant Country: FR
+Registrant Phone: +33.0671153355
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: youness_lemrabet@yahoo.fr
+Registry Admin ID: cmawwaenjesrhqq
+Admin Name: youness lemrabet
+Admin Organization: FleurAmbition
+Admin Street: 4 rue Courmont, App 33, Bat G
+Admin City: Lille
+Admin State/Province: Nord
+Admin Postal Code: 59000
+Admin Country: FR
+Admin Phone: +33.0671153355
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: transfer@icann.planethoster.net
+Registry Tech ID: cezwnwufuedpjus
+Tech Name: youness lemrabet
+Tech Organization: FleurAmbition
+Tech Street: 4 rue Courmont, App 33, Bat G
+Tech City: Lille
+Tech State/Province: Nord
+Tech Postal Code: 59000
+Tech Country: FR
+Tech Phone: +33.0671153355
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: transfer@icann.planethoster.net
+>>> Last update of WHOIS database <<<: 2018-04-12T02:17:19Z
+
+For more information on Whois status codes, please visit https://www.icann.org/epp

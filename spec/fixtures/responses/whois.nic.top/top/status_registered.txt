@@ -1,0 +1,67 @@
+Domain Name: megafilmeshd50.top
+Registry Domain ID: D20161022G10001G_86126880-top
+Registrar WHOIS Server: whois.publicdomainregistry.com
+Registrar URL: http://publicdomainregistry.com
+Updated Date: 2017-07-16T21:01:51Z
+Creation Date: 2016-10-22T09:52:57Z
+Registry Expiry Date: 2018-10-22T09:52:57Z
+Registrar: PDR Ltd
+Registrar IANA ID: 303
+Registrar Abuse Contact Email: abuse-contact@publicdomainregistry.com
+Registrar Abuse Contact Phone: +91.2013775952
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C20161022C_11009643-top
+Registrant Name: Diogo Barros
+Registrant Organization: Mega Filmes
+Registrant Street: Rua Isaura Parente - de 501 a 799 - lado impar,Bosque
+Registrant City: Rio Branco
+Registrant State/Province: AC
+Registrant Postal Code: 69900-493
+Registrant Country: BR
+Registrant Phone: +55.6829877795
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: megafilmeshd50@hotmail.com
+Registry Admin ID: C20161022C_11009644-top
+Admin Name: Diogo Barros
+Admin Organization: Mega Filmes
+Admin Street: AA
+Admin City: A
+Admin State/Province: A
+Admin Postal Code: 69900-493
+Admin Country: BR
+Admin Phone: +55.6829877795
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: megafilmeshd50@hotmail.com
+Registry Tech ID: C20161022C_11009645-top
+Tech Name: Diogo Barros
+Tech Organization: Mega Filmes
+Tech Street: Rua Isaura Parente - de 501 a 799 - lado impar,Bosque
+Tech City: Rio Branco
+Tech State/Province: AC
+Tech Postal Code: 69900-493
+Tech Country: BR
+Tech Phone: +55.6829877795
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: megafilmeshd50@hotmail.com
+Name Server: phil.ns.cloudflare.com
+Name Server: meera.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-04-12T03:37:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: The information in the Whois database is collected through ICANN-accredited registrars. Jiangsu bangning science & technology Co., Ltd(“BANGNING”) make this information available to you and do not guarantee its accuracy or completeness. By submitting a whois query, you agree to abide by the following terms of use: you agree that you may use this data only for lawful purposes and that under no circumstances will you use this data to:  (1) to allow， enable， or otherwise support the transmission of mass unsolicited， commercial advertising or solicitations via direct mail， electronic mail， or by telephone; (2) in contravention of any applicable data and privacy protection acts; or (3) to enable high volume， automated， electronic processes that apply to BANGNING (or its computer systems). Compilation， repackaging， dissemination， or other use of the WHOIS database in its entirety， or of a substantial portion thereof， is not allowed without BANGNING prior written permission. You agree not to use electronic processes that are automated and high-volume to access or query the whois database except as reasonably necessary to register domain names or modify existing registrations. BANGNING reserves the right to restrict your access to the whois database in its sole discretion to ensure operational stability.  BANGNING may restrict or terminate your access to the whois database for failure to abide by these terms of use. BANGNING reserves the right to modify these terms at any time without prior or subsequent notification of any kind. 

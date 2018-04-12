@@ -1,0 +1,31 @@
+There is no match for this domain name.
+
+###############################################################################
+#
+# Welcome to the Infomaniak Whois Server.
+#
+# whois.infomaniak.com
+#
+# The data in Infomaniak Network SA WHOIS database is provided
+# by Infomaniak Network SA for information purposes only. By submitting
+# a WHOIS query, you agree that you will use this data only for lawful
+# purpose. In addition, you agree not to:
+# (a) use the data to allow, enable, or otherwise support any marketing
+# activities, regardless of the medium used. Such media include but are
+# not limited to e-mail, telephone, facsimile, postal mail, SMS, and
+# wireless alerts; or
+# (b) use the data to enable high volume, automated, electronic processes
+# that send queries or data to the systems of any Registry Operator or
+# ICANN-Accredited registrar, except as reasonably necessary to register
+# domain names or modify existing registrations.
+# (c) sell or redistribute the data except insofar as it has been
+# incorporated into a value-added product or service that does not permit
+# the extraction of a substantial portion of the bulk data from the value-added
+# product or service for use by other parties.
+# Infomaniak Network SA reserves the right to modify these terms at any time.
+# Infomaniak Network SA cannot guarantee the accuracy of the data provided.
+# By accessing and using Infomaniak Network SA WHOIS service, you agree to these terms.
+#
+# local time : 2018-04-12T05:43:35+02:00
+# gmt time : 2018-04-12T03:43:35Z
+# request from : 2600:6c5e:127f:f1d9:39d7:a37e:bce9:f1d:53978

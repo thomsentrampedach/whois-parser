@@ -1,0 +1,77 @@
+Domain Name: neebal.com
+Registry Domain ID: 
+Registrar WHOIS Server: Whois.ownRegistrar.com
+Registrar URL: http://www.ownRegistrar.com
+Updated Date: 2018-04-12T18:30:00Z
+Creation Date:2010-12-10T18:30:00Z
+Registrar Registration Expiration Date: 2018-12-10T18:30:00Z
+Registrar: Trunkoz Technologies Pvt Ltd. d/b/a OwnRegistrar.com
+Registrar IANA ID: 1250
+Registrar Abuse Contact Email: compliance@ownRegistrar.com
+Registrar Abuse Contact Phone:+91.2261426042
+Reseller: Neebal Technologies
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited https://icann.org/epp#clientRenewProhibited
+Registry Registrant ID: OR_13630065
+Registrant Name: Vijay Agarwal
+Registrant Organization: Neebal Technologies Pvt. Ltd.
+Registrant Street: B1- 007, Boomerang,
+Registrant City: Mumbai
+Registrant State/Province: Maharashtra
+Registrant Postal Code: 400072
+Registrant Country: IN
+Registrant Phone:+91.2228574118
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: vijay.agarwal@neebal.com
+Registry Admin ID: OR_13630065
+Admin Name: Vijay Agarwal
+Admin Organization: Neebal Technologies Pvt. Ltd.
+Admin Street: B1- 007, Boomerang,
+Admin City: Mumbai
+Admin State/Province: Maharashtra
+Admin Postal Code: 400072
+Admin Country: IN
+Admin Phone:+91-2228574118
+Admin phone Ext:
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: vijay.agarwal@neebal.com
+Registry Tech ID: OR_13630065
+Tech Name: Vijay Agarwal
+Tech Organization: Neebal Technologies Pvt. Ltd.
+Tech Street: B1- 007, Boomerang,
+Tech City: Mumbai
+Tech State/Province: Maharashtra
+Tech Postal Code: 400072
+Tech Country: IN
+Tech Phone:+91-2228574118
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: vijay.agarwal@neebal.com
+Name Server: carl.ns.cloudflare.com
+Name Server: vera.ns.cloudflare.com
+Name Server: 
+Name Server: 
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit https://icann.org/epp
+>>>Last update of WHOIS database:2018-04-12T09:13:14Z<<<
+
+
+The data in this whois database is provided to you for information purposes only, that is, 
+to assist you in obtaining information about or related to a domain name registration record.
+We make this information available as is, and do not guarantee its accuracy. By submitting 
+a whois query, you agree that you will use this data only for lawful purposes and that, 
+under no circumstances will you use this data to:(1) enable high 
+volume, automated, electronic processes that stress or load this whois database 
+system providing you this information; or (2) allow, enable, or 
+otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or by telephone. 
+The compilation, repackaging, dissemination or other use of this data is expressly prohibited without 
+prior written consent from us. The Registrar of record is OwnRegistrar.com. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.

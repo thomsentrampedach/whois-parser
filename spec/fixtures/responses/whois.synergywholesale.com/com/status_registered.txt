@@ -1,0 +1,70 @@
+Domain Name: optal.com
+Registry Domain ID: 2124454_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.synergywholesale.com
+Registrar URL: http://whois.synergywholesale.com
+Updated Date: 2014-08-06 19:34:03
+Creation Date: 1998-10-07 04:00:00
+Registrar Registration Expiration Date: 2024-10-06 04:00:00
+Registrar: Synergy Wholesale
+Registrar IANA ID: 1609
+Registrar Abuse Contact Email: noc@synergywholesale.com
+Registrar Abuse Contact Phone: +61 3 8399 9483
+Reseller: VentraIP Australia
+Reseller: http://www.ventraip.com.au
+Reseller: noreply@ventraip.com.au
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Domain Privacy
+Registrant Organization: 
+Registrant Street: PO BOX 119
+Registrant Street: 
+Registrant Street: 
+Registrant City: Beaconsfield
+Registrant State/Province: VIC
+Registrant Postal Code: 3807
+Registrant Country: AU
+Registrant Phone: +61.385145121
+Registrant Fax: 
+Registrant Email: optalcom@obscure.me
+Registry Admin ID: Not Available From Registry
+Admin Name: Domain Privacy
+Admin Organization: 
+Admin Street: PO BOX 119
+Admin Street: 
+Admin Street: 
+Admin City: Beaconsfield
+Admin State/Province: VIC
+Admin Postal Code: 3807
+Admin Country: AU
+Admin Phone: +61.385145121
+Admin Fax: 
+Admin Email: optalcom@obscure.me
+Registry Tech ID: Not Available From Registry
+Tech Name: Domain Privacy
+Tech Organization: 
+Tech Street: PO BOX 119
+Tech Street: 
+Tech Street: 
+Tech City: Beaconsfield
+Tech State/Province: VIC
+Tech Postal Code: 3807
+Tech Country: AU
+Tech Phone: +61.385145121
+Tech Fax: 
+Tech Email: optalcom@obscure.me
+Name Server: bns1.ventraip.net.au
+Name Server: bns2.ventraip.net.au
+Name Server: bns3.ventraip.net.au
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit https://icann.org/epp
+>>> Last update of WHOIS database: 2018-04-12 03:43:13 <<<
+
+Domain Service Provider:
+    VentraIP Australia, noreply@ventraip.com.au
+    03 9013 8464
+    03 8080 6481 (fax)
+    http://www.ventraip.com.au
+    Please contact the provider listed above for assistance with
+    your domain name, such as updating your name servers or WHOIS contact information.
+

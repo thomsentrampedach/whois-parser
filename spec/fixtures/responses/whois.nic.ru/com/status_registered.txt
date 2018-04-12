@@ -1,0 +1,57 @@
+Domain Name: THEMOSCOWNEWS.COM
+Registry Domain ID: 122568377_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.nic.ru
+Registrar URL: http://www.nic.ru
+Updated Date: 2016-06-03T08:48:41Z
+Creation Date: 2004-06-15T16:52:02Z
+Registrar Registration Expiration Date: 2018-06-14T21:00:00Z
+Registrar: Regional Network Information Center, JSC dba RU-CENTER
+Registrar IANA ID: 463
+Registrar Abuse Contact Email: tld-abuse@nic.ru
+Registrar Abuse Contact Phone: +7.4959944601
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Rossiya Segodnya
+Registrant Organization: Rossiya Segodnya
+Registrant Street: Zubovskiy bulvar, 4
+Registrant City: Moscow
+Registrant State/Province: Moscow
+Registrant Postal Code: 119021
+Registrant Country: RU
+Registrant Phone: +7.4956456468
+Registrant Phone Ext: 
+Registrant Fax: +7.4956454545
+Registrant Fax Ext: 
+Registrant Email: operator@rian.ru
+Registry Admin ID: 
+Admin Name: Rossiya Segodnya
+Admin Organization: Rossiya Segodnya
+Admin Street: Zubovskiy bulvar, 4
+Admin City: Moscow
+Admin State/Province: Moscow
+Admin Postal Code: 119021
+Admin Country: RU
+Admin Phone: +7.4956456468
+Admin Phone Ext: 
+Admin Fax: +7.4956454545
+Admin Fax Ext: 
+Admin Email: operator@rian.ru
+Registry Tech ID: 
+Tech Name: Rossiya Segodnya
+Tech Organization: Rossiya Segodnya
+Tech Street: Zubovskiy bulvar, 4
+Tech City: Moscow
+Tech State/Province: Moscow
+Tech Postal Code: 119021
+Tech Country: RU
+Tech Phone: +7.4956456468
+Tech Phone Ext: 
+Tech Fax: +7.4956454545
+Tech Fax Ext: 
+Tech Email: operator@rian.ru
+Name Server: ns7.rian.ru
+Name Server: ns8.rian.ru
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit: https://icann.org/epp
+>>> Last update of WHOIS database: 2018.04.12T03:42:05Z <<<

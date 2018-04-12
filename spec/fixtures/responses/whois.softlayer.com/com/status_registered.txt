@@ -1,0 +1,100 @@
+Domain Name: TEQMINE.COM
+Domain ID: 
+Registrar WHOIS Server: whois.softlayer.com
+Registrar URL: http://www.softlayer.com
+Updated Date: 2018-03-05T03:16:23Z
+Creation Date: 2013-04-03T12:01:03Z
+Registrar Registration Expiration Date: 2019-04-03T12:01:03Z
+Registrar: Everyones Internet, LLC dba SoftLayer
+Registrar IANA ID: 925
+Reseller: Scene Group Oy
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Arho Suominen
+Registrant Organization: Teqmine Oy
+Registrant Street: Kiinamyllynkatu 5 A 26
+Registrant City: TURKU
+Registrant State/Province: -
+Registrant Postal Code: 20100
+Registrant Country: FI
+Registrant Phone: +358.505050354
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: arho.suominen@gmail.com
+Registry Admin ID: 
+Admin Name: - -
+Admin Organization: Scene Group Oy
+Admin Street: Harmaalinnantie 2
+Admin City: PORI
+Admin State/Province: -
+Admin Postal Code: 28430
+Admin Country: FI
+Admin Phone: +358.236190071
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: domains@scenegroup.fi
+Registry Tech ID: 
+Tech Name: - -
+Tech Organization: Scene Group Oy
+Tech Street: Harmaalinnantie 2
+Tech City: PORI
+Tech State/Province: -
+Tech Postal Code: 28430
+Tech Country: FI
+Tech Phone: +358.236190071
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: domains@scenegroup.fi
+Name Server: NS2.SCENEGROUP.FI
+Name Server: NS1.SCENEGROUP.FI
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@softlayer.com
+Registrar Abuse Contact Phone: +1.2144420600
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-05T03:16:23Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+    Scene Group Oy, domains@scenegroup.fi
+    +358.236190071
+    http://www.scenegroup.fi
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+    
+    Verkkotunnusta koskevissa teknisissa kysymyksissa voitte ottaa yhteyttä
+    Scene Groupin yllapitoon.
+
+The Data in the ResellOne Registrar WHOIS database is provided to you by ResellOne
+for information purposes only, and may be used to assist you in obtaining
+information about or related to a domain name's registration record.
+
+ResellOne makes this information available "as is," and does not guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+a) allow, enable, or otherwise support the transmission by e-mail,
+telephone, or facsimile of mass, unsolicited, commercial advertising or
+solicitations to entities other than the data recipient's own existing
+customers; or (b) enable high volume, automated, electronic processes that
+send queries or data to the systems of any Registry Operator or
+ICANN-Accredited registrar, except as reasonably necessary to register
+domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this Data is
+expressly prohibited without the prior written consent of ResellOne.
+
+ResellOne reserves the right to terminate your access to the ResellOne WHOIS
+database in its sole discretion, including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this policy.
+
+ResellOne reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

@@ -1,0 +1,70 @@
+Domain Name: skebro.net
+Registry Domain ID: 1597078220_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.regtons.com
+Registrar URL: http://regtons.com
+Updated Date: 2017-10-22T00:00:00Z
+Creation Date: 2010-05-13T00:00:00Z
+Registrar Registration Expiration Date: 2018-05-13T00:00:00Z
+Registrar: GRANSY S.R.O D/B/A SUBREG.CZ
+Registrar IANA ID: 1505
+Registrar Abuse Contact Email: abuse@regtons.com
+Registrar Abuse Contact Phone: +420.734463373
+Reseller: Websupport, s.r.o.
+Domain Status: ok https://www.icann.org/epp#OK
+Registry Registrant ID: G-897851
+Registrant Name: Michal Mjartan
+Registrant Organization: None
+Registrant Street: Sevcenkova
+Registrant City: Bratislava
+Registrant State/Province: 
+Registrant Postal Code: 85101
+Registrant Country: SK
+Registrant Phone: +421.421917624961
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: skebro@gmail.com
+Registry Admin ID: G-798261
+Admin Name: Michal Truban
+Admin Organization: WebSupport s.r.o.
+Admin Street: Stare Grunty 12
+Admin City: Bratislava
+Admin State/Province: 
+Admin Postal Code: 84104
+Admin Country: Slovak Republic
+Admin Phone: +421.220608080
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: helpdesk@websupport.sk
+Registry Tech ID: G-830929
+Tech Name: Michal Mjartan
+Tech Organization: None
+Tech Street: Velkolehotska 183/3
+Tech City: Prievidza
+Tech State/Province: 
+Tech Postal Code: 97101
+Tech Country: Slovak Republic
+Tech Phone: +421.421917624961
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: skebro@gmail.com
+Name Server: darwin.ns.cloudflare.com
+Name Server: yolanda.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:00:00Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Data in Gransy s.r.o. WHOIS database is provided by Gransy s.r.o. for information purposes, and
+to assist persons in obtaining information about or related to a domain name registration record.
+Gransy s.r.o. does not guarantee its accuracy.  By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no circumstances will you use this Data to:
+ (1) allow, enable, or otherwise support the transmission of mass unsolicited,
+     commercial advertising or solicitations via e-mail, telephone, fax (spam); or
+ (2) enable high volume, automated, electronic processes that apply to Gransy s.r.o. (or its systems).
+Gransy s.r.o. reserves the right to modify these terms at any time. Gransy s.r.o. reserves the right to terminate
+your access to the WHOIS database in its sole discretion for any violations by you of these terms of use.
+By submitting this query, you agree to abide by this policy.

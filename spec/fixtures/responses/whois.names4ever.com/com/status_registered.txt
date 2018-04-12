@@ -1,0 +1,81 @@
+Domain Name: bdnews24.com
+Registry Domain ID: 128550278_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.names4ever.com
+Registrar URL: http://www.aplus.net
+Updated Date: 2017-08-19T07:41:17Z
+Creation Date: 2004-08-28T04:23:26Z
+Registrar Registration Expiration Date: 2022-08-28T04:23:26Z
+Registrar: Deluxe Small Business Sales, Inc. d/b/a Aplus.net
+Registrar IANA ID: 52
+Registrar Abuse Contact Email: dns@aplus.net
+Registrar Abuse Contact Phone: +1.8557918966
+Reseller: Deluxe Small Business Sales, Inc. d/b/a Aplus.net
+Domain Status: ok http://icann.org/epp#OK
+Registry Registrant ID:
+Registrant Name: Private Registration
+Registrant Organization: SyncSuite LLC
+Registrant Street: 110 East Broward Boulevard, Suite 1650
+Registrant City: Fort Lauderdale
+Registrant State/Province: FL
+Registrant Postal Code: 33301
+Registrant Country: US
+Registrant Phone: +1.8556242611
+Registrant Phone Ext.:
+Registrant Fax:
+Registrant Fax Ext.:
+Registrant Email: bdnews24.com@domainlistingagent.com
+
+Registry Admin ID:
+Admin Name: Private Registration
+Admin Organization: SyncSuite LLC
+Admin Street: 110 East Broward Boulevard, Suite 1650
+Admin City: Fort Lauderdale
+Admin State/Province: FL
+Admin Postal Code: 33301
+Admin Country: US
+Admin Phone: +1.8556242611
+Admin Phone Ext.:
+Admin Fax:
+Admin Fax Ext.:
+Admin Email: bdnews24.com@domainlistingagent.com
+
+Registry Tech ID:
+Tech Name: Private Registration
+Tech Organization: SyncSuite LLC
+Tech Street: 110 East Broward Boulevard, Suite 1650
+Tech City: Fort Lauderdale
+Tech State/Province: FL
+Tech Postal Code: 33301
+Tech Country: US
+Tech Phone: +1.8556242611
+Tech Phone Ext.:
+Tech Fax:
+Tech Fax Ext.:
+Tech Email: bdnews24.com@domainlistingagent.com
+
+Name Server: ns-180.awsdns-22.com
+Name Server: ns-823.awsdns-38.net
+Name Server: ns-1450.awsdns-53.org
+Name Server: ns-1618.awsdns-10.co.uk
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/ 
+>>> Last update of WHOIS database: 2018-04-12T03:41:06Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+The data in Aplus.net's WHOIS database is provided to you by
+Aplus.net for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record.  Aplus.net makes this information available "as is," and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Aplus.net (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Aplus.net.
+Aplus.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+

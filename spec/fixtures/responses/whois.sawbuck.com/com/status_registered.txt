@@ -1,0 +1,74 @@
+Domain Name: UBSPOT.COM
+Domain ID: 2194791942_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.sawbuck.com
+Registrar URL: http://www.automattic.com/
+Updated Date: 2017-12-01T21:22:34Z
+Creation Date: 2017-12-01T21:22:34Z
+Registrar Registration Expiration Date: 2018-12-01T21:22:34Z
+Registrar: Automattic Inc.
+Registrar IANA ID: 1531
+Reseller: WordPress.com
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Private Whois
+Registrant Organization: Knock Knock WHOIS Not There, LLC
+Registrant Street: 9450 SW Gemini Dr, No. 63259
+Registrant City: Beaverton
+Registrant State/Province: OR
+Registrant Postal Code: 97008-7105
+Registrant Country: US
+Registrant Phone: +1.8772738550
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: ubspot.com@privatewho.is
+Registry Admin ID: 
+Admin Name: Private Whois
+Admin Organization: Knock Knock WHOIS Not There, LLC
+Admin Street: 9450 SW Gemini Dr, No. 63259
+Admin City: Beaverton
+Admin State/Province: OR
+Admin Postal Code: 97008-7105
+Admin Country: US
+Admin Phone: +1.8772738550
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ubspot.com@privatewho.is
+Registry Tech ID: 
+Tech Name: Private Whois
+Tech Organization: Knock Knock WHOIS Not There, LLC
+Tech Street: 9450 SW Gemini Dr, No. 63259
+Tech City: Beaverton
+Tech State/Province: OR
+Tech Postal Code: 97008-7105
+Tech Country: US
+Tech Phone: +1.8772738550
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ubspot.com@privatewho.is
+Name Server: NS1.WORDPRESS.COM
+Name Server: NS2.WORDPRESS.COM
+Name Server: NS3.WORDPRESS.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: domainabuse@automattic.com
+Registrar Abuse Contact Phone: +1.8772733049
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-12-01T21:22:34Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+    WordPress.com, help@wordpress.com
+    +1.8772733049
+    http://WordPress.com/
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+
+The data in Automattic’s WHOIS database is available “as is,” with no guarantee or warranties regarding its accuracy. This data is provided for informational purposes only, to assist you in obtaining information about domain name registration records. Using this data for any other purpose, including the compilation, repackaging, or dissemination of this data, is expressly prohibited without prior written consent of Automattic. You agree that you will use this data for lawful purposes, and under no circumstances will you (1) use this data to allow, enable, or otherwise make possible the the transmission of mass, unsolicited, commercial advertising or solicitations; or (2) enable high volume, automated, or electronic processes that send queries or data to the systems of any Registry Operator or ICANN­Accredited Registrar, except as reasonably necessary to register domain names or modify existing registrations.
+
+By submitting a WHOIS query, you agree to these terms of use and limitations of warranty. Automattic reserves the right to modify these terms at any time and/or terminate your access to the Automattic WHOIS database in its sole discretion.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

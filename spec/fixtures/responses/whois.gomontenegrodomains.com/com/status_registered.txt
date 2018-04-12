@@ -1,0 +1,87 @@
+Domain Name: filepan.com
+Registry Domain ID: 2002082073_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.gomontenegrodomains.com
+Updated Date: 2018-03-25T22:04:16Z
+Creation Date: 2016-02-11T19:39:59Z
+Registrar Registration Expiration Date: 2019-02-11T19:39:59Z
+Registrar: Go Montenegro Domains, LLC
+Registrar IANA ID: 1152
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: ******** ******** (see Notes section below on how to view unmasked data)
+Registrant Organization: HugeDomains.com
+Registrant Street: 2635 Walnut St.
+Registrant City: Denver
+Registrant State/Province: Colorado
+Registrant Postal Code: 80205
+Registrant Country: US
+Registrant Phone: +*.**********
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: ********@*****.***
+Registry Admin ID: Not Available From Registry
+Admin Name: ******** ******** (see Notes section below on how to view unmasked data)
+Admin Organization: HugeDomains.com
+Admin Street: 2635 Walnut St.
+Admin City: Denver
+Admin State/Province: Colorado
+Admin Postal Code: 80205
+Admin Country: US
+Admin Phone: +*.**********
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ********@*****.***
+Registry Tech ID: Not Available From Registry
+Tech Name: ******** ******** (see Notes section below on how to view unmasked data)
+Tech Organization: HugeDomains.com
+Tech Street: 2635 Walnut St.
+Tech City: Denver
+Tech State/Province: Colorado
+Tech Postal Code: 80205
+Tech Country: US
+Tech Phone: +*.**********
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ********@*****.***
+Name Server: NSG1.NAMEBRIGHTDNS.COM
+Name Server: NSG2.NAMEBRIGHTDNS.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:00:00Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Notes: 
+WHOIS consumers who are now receiving masked data can visit:
+https://whois.godaddy.com to look up the unmasked data.  You can also 
+get whitelisted, to get unmasked data via Port 43. Find instructions 
+on how to apply for whitelisting here: 
+https://www.godaddy.com/help/masking-contact-information-shared-via-whois-automated-access-points-27421
+The data contained in GoDaddy.com, LLC's WhoIs database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section.  In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.

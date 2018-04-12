@@ -1,0 +1,65 @@
+Domain Name: SEE.FASHION
+Registry Domain ID: D_00085845_2ECAB0514B144A71B2FDDA537836ABC9_00000158D2A5F428-FASHION
+Registrar WHOIS Server: 
+Registrar URL: 
+Updated Date: 2017-12-08T03:09:37Z
+Creation Date: 2016-12-06T05:40:41Z
+Registry Expiry Date: 2018-12-06T05:40:41Z
+Registrar: Crazy Domains
+Registrar IANA ID: 1291
+Registrar Abuse Contact Email: registry@crazydomains.com
+Registrar Abuse Contact Phone: +971.894220850
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 232654_MMd1-FASHION
+Registrant Name: The Administrator
+Registrant Organization: Private Registry Authority
+Registrant Street: Tower 42 25 Old Broad Street
+Registrant City: London
+Registrant State/Province: London (City of)
+Registrant Postal Code: EC2N 1HN
+Registrant Country: GB
+Registrant Phone: +44.8456171171
+Registrant Email: domains@privateregistryauthority.com
+Registry Admin ID: 232655_MMd1-FASHION
+Admin Name: The Administrator
+Admin Organization: Crazy Domains Pty Ltd
+Admin Street: Tower 42
+Admin Street: 25 Old Broad Street
+Admin City: London
+Admin State/Province: London (City of)
+Admin Postal Code: WC1N 3XX
+Admin Country: GB
+Admin Phone: +44.8456171171
+Admin Email: domains@privateregistryauthority.com
+Registry Tech ID: 232655_MMd1-FASHION
+Tech Name: The Administrator
+Tech Organization: Crazy Domains Pty Ltd
+Tech Street: Tower 42
+Tech Street: 25 Old Broad Street
+Tech City: London
+Tech State/Province: London (City of)
+Tech Postal Code: WC1N 3XX
+Tech Country: GB
+Tech Phone: +44.8456171171
+Tech Email: domains@privateregistryauthority.com
+Registry Billing ID: 232655_MMd1-FASHION
+Billing Name: The Administrator
+Billing Organization: Crazy Domains Pty Ltd
+Billing Street: Tower 42
+Billing Street: 25 Old Broad Street
+Billing City: London
+Billing State/Province: London (City of)
+Billing Postal Code: WC1N 3XX
+Billing Country: GB
+Billing Phone: +44.8456171171
+Billing Email: domains@privateregistryauthority.com
+Name Server: ns1.crazydomains.com.
+Name Server: ns2.crazydomains.com.
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-04-12T03:43:32Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms and Conditions
+The whois information provided on this site is intended to provide you with the relevant contact information for a domain name registrant and the identity of certain administrative and technical contacts associated with that domain name. The data in this record is provided by Minds + Machines Registry, a subsidiary of Minds + Machines Group Limited, formerly Top Level Domain Holdings Limited ("the Company"), for informational purposes only. Accuracy is not guaranteed. The Company is the authoritative source for whois information in top-level domains it operates under contract with the Internet Corporation for Assigned Names and Numbers. This service is intended only for query-based access. Note that the lack of a whois record for a particular domain does not indicate that the name is available for registration. By using this service, you agree that you will use any data presented for lawful purposes only and that under no circumstances will you use (a) data acquired for the purpose of allowing, enabling, or otherwise supporting the transmission by email, telephone, facsimile, or other communications mechanisms mass unsolicited, commercial, advertising, or solicitations to entities other than your existing customers; or (b) this service to enable high volume, automated, electronic processes that send queries or data to the systems of any registrar or any registry except as reasonably necessary to register domain names or to modify existing domain name registrations. The Company reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy. All rights reserved.

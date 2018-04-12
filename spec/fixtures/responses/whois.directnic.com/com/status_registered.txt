@@ -1,0 +1,74 @@
+ 
+Domain Name: DAVIDFRANCEY.COM
+Registry Domain ID: 11432968_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.directnic.com
+Registrar URL: http://www.directnic.com
+Updated Date: 2017-09-03T01:08:10Z
+Creation Date: 1999-10-18T10:30:00Z
+Registrar Registration Expiration Date: 2018-10-18T10:30:00Z
+Registrar: DNC Holdings, Inc.
+Sponsoring Registrar IANA ID: 291
+Registrar Abuse Contact Email: abuse@directnic.com
+Registrar Abuse Contact Phone: +1.8778569598
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientUpdateProhibited (https://www.icann.org/epp#clientUpdateProhibited)
+Domain Status: renewPeriod (https://www.icann.org/epp#renewPeriod)
+Registrant Name: Beth Girdler
+Registrant Organization: Laker Music
+Registrant Street: 2998 Elphin Maberly Rd. RR#1 
+Registrant City: McDonalds Corners
+Registrant State/Province: Ontario
+Registrant Postal Code: K0G 1M0
+Registrant Country: CA
+Registrant Phone: +6132780774
+Registrant Phone Ext:
+Registrant Fax: +6132780781
+Registrant Fax Ext: 
+Registrant Email: laker@allstream.net
+Admin Name: Beth Girdler
+Admin Organization: Laker Music
+Admin Street: 2998 Elphin Maberly Rd. RR#1 
+Admin City: McDonalds Corners
+Admin State/Province: Ontario
+Admin Postal Code: K0G 1M0
+Admin Country: CA
+Admin Phone: +6132780774
+Admin Phone Ext:
+Admin Fax: +6132780781
+Admin Fax Ext: 
+Admin Email: laker@allstream.net
+Tech Name: Beth Girdler
+Tech Organization: Laker Music
+Tech Street: 2998 Elphin Maberly Rd. RR#1 
+Tech City: McDonalds Corners
+Tech State/Province: Ontario
+Tech Postal Code: K0G 1M0
+Tech Country: CA
+Tech Phone: +6132780774
+Tech Phone Ext:
+Tech Fax: +6132780781
+Tech Fax Ext: 
+Tech Email: laker@allstream.net
+Name Server: NS1.DNCHOSTING.COM
+Name Server: NS2.DNCHOSTING.COM
+URL of the ICANN WHOIS Data Problem Reporting System
+http://wdprs.internic.net
+>>> Last update of WHOIS database: 2018-04-11T17:42:01Z <<<
+For more information on Whois status codes, 
+please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+
+The compilation, repackaging, dissemination, or other use of this WHOIS
+data is expressly prohibited without the prior written consent of
+DNC Holdings, Inc.
+
+DNC Holdings reserves the right to terminate your access to its WHOIS
+database in its sole discretion, including without limitation, for
+excessive querying of the database or for failure to otherwise abide by
+this policy.
+
+DNC Holdings reserves the right to modify these terms at any time.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.
+LACK OF A DOMAIN RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

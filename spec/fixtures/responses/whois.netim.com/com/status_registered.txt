@@ -1,0 +1,73 @@
+Domain Name: digitalimmersion.com
+Registrar WHOIS Server: whois.netim.com
+Registrar URL: http://www.netim.com
+Updated Date: 2011-08-24T11:32:03Z
+Creation Date: 2005-05-10T00:00:00Z
+Registrar Registration Expiration Date: 2018-05-10T21:00:00Z
+Registrar: NETIM
+Registrar IANA ID: 1519
+Registrar Abuse Contact Email: abuse@netim.net
+Registrar Abuse Contact Phone: +33.972307476
+Domain Status: active
+Domain Status: clientTransferProhibited
+Registry Registrant ID: WHOISP
+Registrant Name: Contact Whois privacy - NETIM
+Registrant Street: 165 avenue de bretagne
+Registrant City: LILLE
+Registrant State/Province: 
+Registrant Postal Code: 59000
+Registrant Country: FR
+Registrant Phone: +33.972307477
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: contact@whoisprivacy.domains
+Registry Admin ID: WHOISP
+Admin Name: Contact Whois privacy - NETIM
+Admin Street: 165 avenue de bretagne 
+Admin City: LILLE
+Admin State/Province: 
+Admin Postal Code: 59000
+Admin Country: FR
+Admin Phone: +33.972307477
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: contact@whoisprivacy.domains
+Registry Tech ID: WHOISP
+Tech Name: Contact Whois privacy - NETIM
+Tech Street: 165 avenue de bretagne 
+Tech City: LILLE
+Tech State/Province: 
+Tech Postal Code: 59000
+Tech Country: FR
+Tech Phone: +33.972307477
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: contact@whoisprivacy.domains
+Name Server: apollo.ns.cloudflare.com
+Name Server: jade.ns.cloudflare.com
+DNSSEC: unsignedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T05:43:29CET<<<
+
+# NOTICE AND TERMS OF USE: You are not authorized to access or query this WHOIS
+# database through the use of high-volume, automated, electronic processes. The
+# Data in this WHOIS database is provided for information purposes only, and to
+# assist persons in obtaining information about or related to a domain name 
+# registration record. We do not guarantee its accuracy.
+# By submitting a WHOIS query, you agree to abide by the following terms of use:
+# You agree that you may use this Data only for lawful purposes and that under no
+# circumstances will you use this Data to: (1) allow, enable, or otherwise support
+# the transmission of mass unsolicited, commercial advertising or solicitations
+# via e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+# electronic processes. The compilation, repackaging, dissemination or other use
+# of this Data is expressly prohibited without our prior written consent. You 
+# agree not to use high-volume, automated, electronic processes to access or query 
+# the WHOIS database. 
+# We reserve the right to terminate your access to the WHOIS database in our sole
+# discretion, including without limitation, for excessive querying of the WHOIS
+# database or for failure to otherwise abide by this policy.
+# We reserve the right to modify these terms at any time.
+

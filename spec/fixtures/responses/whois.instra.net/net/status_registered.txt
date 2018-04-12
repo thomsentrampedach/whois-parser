@@ -1,0 +1,77 @@
+
+Domain Name: DESMIX.NET
+Registry Domain ID: 2038546742_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.instra.net
+Registrar URL: http://www.instra.com/
+Updated Date: 2018-04-10T18:46:26Z
+Creation Date: 2016-06-30T10:58:06Z
+Registrar Registration Expiration Date: 2018-06-30T10:58:06Z
+Registrar: Instra Corporation Pty Ltd.
+Registrar IANA ID: 1376
+Registrar Abuse Contact Email: abuse@instra.com
+Registrar Abuse Contact Phone: +61.397831800
+Reseller: Instra Corporation Pty Ltd http://www.instra.com/
+Domain Status: ok - http://www.icann.org/epp#OK
+Registry Registrant ID: 
+Registrant Name: Johel Hernan Arbieto Quispe
+Registrant Organization: 
+Registrant Street: ESNAOLA 2026, BECCAR
+Registrant City: Bueno Aires
+Registrant State/Province: Buenos Aires
+Registrant Postal Code: 1643
+Registrant Country: AR
+Registrant Phone: +54.116116947
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: descargasmixweb@gmail.com
+Registry Admin ID: 
+Admin Name: Abel Casado
+Admin Organization: 
+Admin Street: Calle Perú
+Admin City: Buenos Aires
+Admin State/Province: Buenos Aires
+Admin Postal Code: 1068
+Admin Country: AR
+Admin Phone: +54.186516932
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: descargasmixweb@gmail.com
+Registry Tech ID: 
+Tech Name: Abel Casado
+Tech Organization: 
+Tech Street: Calle Perú
+Tech City: Buenos Aires
+Tech State/Province: Buenos Aires
+Tech Postal Code: 1068
+Tech Country: AR
+Tech Phone: +54.186516932
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: descargasmixweb@gmail.com
+Name Server: darl.ns.cloudflare.com
+Name Server: kiki.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:44:05Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+; This data is provided for information purposes, and to assist persons
+; obtaining information about or related to domain name registration
+; records. We do not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; 1) allow, enable, or otherwise support the transmission of mass
+;    unsolicited, commercial advertising or solicitations via E-mail
+;    (spam); or
+; 2) enable high volume, automated, electronic processes that apply
+;    to this WHOIS server.
+; These terms may be changed without prior notice.
+; By submitting this query, you agree to abide by this policy.
+
+

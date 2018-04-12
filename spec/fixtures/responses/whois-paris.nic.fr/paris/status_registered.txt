@@ -1,0 +1,66 @@
+
+Domain Name: insidr.paris
+Registry Domain ID: DOM000000645395-PARIS
+Registrar URL: www.godaddy.com
+Updated Date: 2017-05-31T15:19:16Z
+Creation Date: 2015-07-16T18:05:43Z
+Registry Expiry Date: 2018-07-16T18:05:43Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1 480 505 8800
+Domain Status: clientDeleteProhibited  https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientRenewProhibited  https://icann.org/epp#clientRenewProhibited
+Domain Status: clientTransferProhibited  https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited  https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: BF246-PARIS
+Registrant Name: Benjamin Forlani
+Registrant Street: 87, rue beaubourg
+Registrant City: Paris
+Registrant State/Province: Paris
+Registrant Postal Code: 75003
+Registrant Country: FR
+Registrant Phone: +33.647746069
+Registrant Email: forlani.benjamin@gmail.com
+Registry Admin ID: BF248-PARIS
+Admin Name: Benjamin Forlani
+Admin Street: 87, rue beaubourg
+Admin City: Paris
+Admin State/Province: Paris
+Admin Postal Code: 75003
+Admin Country: FR
+Admin Phone: +33.647746069
+Admin Email: forlani.benjamin@gmail.com
+Registry Tech ID: BF247-PARIS
+Tech Name: Benjamin Forlani
+Tech Street: 87, rue beaubourg
+Tech City: Paris
+Tech State/Province: Paris
+Tech Postal Code: 75003
+Tech Country: FR
+Tech Phone: +33.647746069
+Tech Email: forlani.benjamin@gmail.com
+Name Server: ns23.domaincontrol.com
+Name Server: ns24.domaincontrol.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-04-12T03:43:40Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Rights restricted by copyright.
+Terms of Use : City of Paris's database is protected by the provisions of the French Law of the 1st of July 1998
+transposing the European Directive of the 11th of March 1996 on database legal protection in the Intellectual Property Code.
+
+City of Paris is the only entity to hold the producing rights of the databases as substantial investment, quantitative
+as much as qualitative, that were used to achieve this database.
+Complete or partial reproduction and/or use of City of Paris's database without the express permission of City of Paris
+is strictly forbidden.
+
+Any breach to these rules can carry penal sanctions as counterfeit, without prejudice of a potential damages request from City of Paris,
+holder of these rights. City of Paris's database user commits to use the published data according to the laws
+and rules in effect. Moreover, the user is bound to respect the French Data Protection Law.
+The infringement of the French Data Protection Law can carry penal sanctions. As the user will access personal information,
+the user must refrain from collecting or misuse this information. In a more general way, the user must refrain from any act likely
+to infringe the privacy or reputation of individuals.
+

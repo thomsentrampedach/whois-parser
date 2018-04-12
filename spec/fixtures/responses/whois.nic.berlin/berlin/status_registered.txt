@@ -1,0 +1,73 @@
+Domain Name: sale-angels.berlin
+Registry Domain ID: D0000413089-BERLIN
+Registrar WHOIS Server: whois.cronon.net
+Registrar URL: http://www.strato.de
+Creation Date: 2017-02-23T22:26:32Z
+Registry Expiry Date: 2019-02-23T22:26:32Z
+Registrar: Cronon AG
+Registrar IANA ID: 141
+Registrar Abuse Contact Email: registrar-admin@cronon.net
+Registrar Abuse Contact Phone: +49.30398020
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C0000413088-BERLIN
+Registrant Name: Sale-Angels Einzelunternehmen
+Registrant Street: Thomas Kerber
+Registrant Street: Karl-Liebknecht-Str. 3
+Registrant City: Schulzendorf
+Registrant Postal Code: 15732
+Registrant Country: DE
+Registrant Phone: +49.15140777189
+Registrant Email: thekerbershop@gmail.com
+Registry Admin ID: C0000413088-BERLIN
+Admin Name: Sale-Angels Einzelunternehmen
+Admin Street: Thomas Kerber
+Admin Street: Karl-Liebknecht-Str. 3
+Admin City: Schulzendorf
+Admin Postal Code: 15732
+Admin Country: DE
+Admin Phone: +49.15140777189
+Admin Email: thekerbershop@gmail.com
+Registry Tech ID: C0000000723-BERLIN
+Tech Name: Hostmaster Strato Rechenzentrum
+Tech Organization: Cronon AG
+Tech Street: Pascalstr. 10
+Tech City: Berlin
+Tech Postal Code: 10587
+Tech Country: DE
+Tech Phone: +49.72166320305
+Tech Fax: +49.72166320303
+Tech Email: hostmaster@cronon-isp.net
+Name Server: docks16.rzone.de
+Name Server: shades12.rzone.de
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of Whois database: 2018-04-12T03:44:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% Copyright (c) 2018 by dotBERLIN GmbH & Co. KG
+%
+% Except for agreed Internet operational purposes,
+% no part of this information may be reproduced,
+% stored in a retrieval system, or transmitted,
+% in any form or by any means, electronic, mechanical,
+% recording, or otherwise, without prior permission
+% of dotBERLIN GmbH & Co. KG on behalf of itself
+% and/or the copyright holders. Any use of this
+% material to target advertising or similar activities
+% is explicitly forbidden and can be prosecuted.
+%
+% Furthermore, it is strictly forbidden to use the
+% Whois database in such a way that jeopardizes or
+% could jeopardize the stability of the technical systems
+% of dotBERLIN GmbH & Co. KG under any circumstances.
+% In particular, this includes any misuse of the
+% Whois database and any use of the Whois database
+% which disturbs its operation.
+%
+% Should the user violate these points,
+% dotBERLIN GmbH & Co. KG reserves the right
+% to deactivate the Whois database entirely or
+% partly for the user. Moreover, the user shall
+% be held liable for any and all damage arising
+% from a violation of these points.

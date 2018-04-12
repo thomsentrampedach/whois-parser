@@ -1,0 +1,81 @@
+Domain Name: KEYSECOSCAPES.COM
+Registry Domain ID: 60387531_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.register4less.com
+Registrar URL: http://register4less.com
+Updated Date: 2017-02-05T16:26:37Z
+Creation Date: 2001-02-13T03:05:20Z
+Registrar Registration Expiration Date: 2026-02-13T03:05:20Z
+Registrar: Register4Less, Inc.
+Registrar IANA ID: 1082
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Register4Less Privacy Advocate
+Registrant Organization: 3501256 Canada, Inc.
+Registrant Street: 5802 Bob Bullock C1 Unit 328C-195   
+Registrant City: Laredo
+Registrant State/Province: Texas
+Registrant Postal Code: 78041-8813
+Registrant Country: US
+Registrant Phone: +1.5143941150
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: admin@privacyadvocate.org
+Registry Admin ID: Not Available From Registry
+Admin Name: Register4Less Privacy Advocate
+Admin Organization: 3501256 Canada, Inc.
+Admin Street: 5802 Bob Bullock C1 Unit 328C-195  
+Admin City: Laredo
+Admin State/Province: Texas
+Admin Postal Code: 78041-8813
+Admin Country: US
+Admin Phone: +1.5143941150
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: admin@privacyadvocate.org
+Registry Tech ID: Not Available From Registry
+Tech Name: Register4Less Privacy Advocate
+Tech Organization: 3501256 Canada, Inc.
+Tech Street: 5802 Bob Bullock C1 Unit 328C-195  
+Tech City: Laredo
+Tech State/Province: Texas
+Tech Postal Code: 78041-8813
+Tech Country: US
+Tech Phone: +1.5143941150
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: admin@privacyadvocate.org
+Name Server: ns-1508.awsdns-60.org
+Name Server: ns-1903.awsdns-45.co.uk
+Name Server: ns-327.awsdns-40.com
+Name Server: ns-653.awsdns-17.net
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@register4less.com
+Registrar Abuse Contact Phone: +1.5149056500
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:58Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: REGISTER4LESS, INC.
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Register4Less, Inc.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

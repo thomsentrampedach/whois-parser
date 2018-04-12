@@ -1,0 +1,80 @@
+Domain Name: mega-descarga.net
+Registry Domain ID: 
+Registrar WHOIS Server: whois.registrar.eu
+Registrar URL: http://www.registrar.eu
+Updated Date: 2018-04-09T19:09:54Z
+Creation Date: 2014-01-25T23:37:19Z
+Registrar Registration Expiration Date: 2019-01-25T23:37:19Z
+Registrar: Hosting Concepts B.V. d/b/a Openprovider
+Registrar IANA ID: 1647
+Registrar Abuse Contact Email: abuse@registrar.eu
+Registrar Abuse Contact Phone: +31.104482297
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: JR916626-MW
+Registrant Name: Juan Rampanchino
+Registrant Organization: 
+Registrant Street: Limonen 1258
+Registrant City: slokon
+Registrant State/Province: 
+Registrant Postal Code: 5879
+Registrant Country: MW
+Registrant Phone: +265.48425521
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: kocibux@gmail.com
+Registry Admin ID: DP907381-ES
+Admin Name: Datos Privados
+Admin Organization: Datos privados
+Admin Street: calle progreso 177
+Admin City: A Rua de valdeorras
+Admin State/Province: 
+Admin Postal Code: 32350
+Admin Country: ES
+Admin Phone: +34.988684354
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: info@datosprivados.info
+Registry Tech ID: DP907381-ES
+Tech Name: Datos Privados
+Tech Organization: Datos privados
+Tech Street: calle progreso 177
+Tech City: A Rua de valdeorras
+Tech State/Province: 
+Tech Postal Code: 32350
+Tech Country: ES
+Tech Phone: +34.988684354
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: info@datosprivados.info
+Name Server: ada.ns.cloudflare.com
+Name Server: sid.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:42:06Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+; The data in this registrar whois database is provided to you for
+; information purposes only, and may be used to assist you in obtaining
+; information about or related to domain name registration records.
+; We do not guarantee its accuracy.
+; By submitting a WHOIS query, you agree that you will use this data
+; only for lawful purposes and that, under no circumstances, you will
+; use this data to
+; a) allow, enable, or otherwise support the transmission by e-mail,
+;    telephone, or facsimile of mass, unsolicited, commercial advertising
+;    or solicitations to entities other than the data recipient's own
+;    existing customers; or
+; b) enable high volume, automated, electronic processes that send queries
+;    or data to the systems of any Registry Operator or ICANN-Accredited
+;    registrar, except as reasonably necessary to register domain names
+;    or modify existing registrations.
+; The compilation, repackaging, dissemination or other use of this data
+; is expressly prohibited without prior written consent.
+; These terms may be changed without prior notice. By submitting this
+; query, you agree to abide by this policy.
+
+

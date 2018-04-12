@@ -1,0 +1,63 @@
+% whois.dotarai.com
+
+Domain Name: KAPOOK.COM
+Registry Domain ID: 
+Registrar WHOIS Server: whois.dotarai.com
+Registrar URL: http://www.dotarai.com
+Updated Date: 2015-05-30T02:10:44Z
+Creation Date: 2000-02-19T09:52:53Z
+Registrar Registration Expiration Date: 2020-02-19T09:52:53Z
+Registrar: DotArai Co., Ltd.
+Registrar IANA ID: 1373
+Registrar Abuse Contact Email: abuse@dotarai.co.th
+Registrar Abuse Contact Phone: +66.25648038
+Domain Status: clientTransferProhibited (https://www.icann.org/epp#clientTransferProhibited)
+Domain Status: clientDeleteProhibited (https://www.icann.org/epp#clientDeleteProhibited)
+Registry Registrant ID: 
+Registrant Name: Poramate Minsiri
+Registrant Organization: Poramate Minsiri
+Registrant Street: 26/110 Soi Rachpracha 2, Ratchadapisek,  
+Registrant City: Jatujak
+Registrant State/Province: BANGKOK
+Registrant Postal Code: 10900
+Registrant Country: TH
+Registrant Phone: +6629110915
+Registrant Phone Ext: 
+Registrant Fax: +6629111117
+Registrant Fax Ext: 
+Registrant Email: poramate@bunditcenter.com
+Registry Admin ID: 
+Admin Name: Poramate Minsiri
+Admin Organization: Poramate Minsiri
+Admin Street: 26/110 Soi Rachpracha 2, Ratchadapisek,  
+Admin City: Jatujak
+Admin State/Province: BANGKOK
+Admin Postal Code: 10900
+Admin Country: TH
+Admin Phone: +6629110915
+Admin Phone Ext: 
+Admin Fax: +6629111117
+Admin Fax Ext: 
+Admin Email: poramate@bunditcenter.com
+Registry Tech ID: 
+Tech Name: Poramate Minsiri
+Tech Organization: Poramate Minsiri
+Tech Street: 26/110 Soi Rachpracha 2, Ratchadapisek,  
+Tech City: Jatujak
+Tech State/Province: BANGKOK
+Tech Postal Code: 10900
+Tech Country: TH
+Tech Phone: +6629110915
+Tech Phone Ext: 
+Tech Fax: +6629111117
+Tech Fax Ext: 
+Tech Email: poramate@bunditcenter.com
+Name Server: NS1.KAPOOK.COM
+Name Server: NS2.KAPOOK.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS data: 2018-04-12T03:44:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+

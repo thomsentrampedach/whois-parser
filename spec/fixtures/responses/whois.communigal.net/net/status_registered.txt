@@ -1,0 +1,75 @@
+
+Domain Name: globalfreeshares.net
+Registry Domain ID: D401225236
+Registrar WHOIS Server: Whois.communigal.net
+Registrar URL: http://www.galcomm.com
+Updated date: 2017-05-16T13:33:10Z
+Creation date: 2017-05-11T16:28:23Z
+Registrar Registration Expiration date: 2018-05-11T16:28:23Z
+Registrar: Communigal Communication Ltd
+Registrar IANA ID: 418
+Registrar Abuse Contact Email: abuse@galcomm.com
+Registrar Abuse Contact Phone: +972.98850558
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Contact Information : For Customer # 401225236
+Registry Registrant ID : 
+Registrant Name: Privacy Protection Service
+Registrant Organization: Provided through Communigal Communication Ltd
+Registrant Street: POB  8473
+Registrant City: Netanya
+Registrant State/Province: 
+Registrant Postal Code: 4250422
+Registrant Country: IL
+Registrant Phone: +972.98850558
+Registrant Phone Ext: 
+Registrant Fax: +972.98850583
+Registrant Fax Ext: 
+Registrant Email: domainprivacy@galcomm.com
+Registry Admin ID : 
+Admin Name: Privacy Protection Service
+Admin Organization: Provided through Communigal Communication Ltd
+Admin Street: POB  8473
+Admin City: Netanya
+Admin State/Province: 
+Admin Postal Code: 4250422
+Admin Country: IL
+Admin Phone: +972.98850558
+Registrant Phone Ext: 
+Admin Fax: +972.98850583
+Admin Fax Ext: 
+Admin Email: domainprivacy@galcomm.com
+Registry Tech ID : 
+Tech Name: Privacy Protection Service
+Tech Organization: Provided through Communigal Communication Ltd
+Tech Street: POB  8473
+Tech City: Netanya
+Tech State/Province: 
+Tech Postal Code: 4250422
+Tech Country: IL
+Tech Phone: +972.98850558
+Tech Phone Ext: 
+Tech Fax: +972.98850583
+Tech Fax Ext: 
+Tech Email: domainprivacy@galcomm.com
+Name Server: NS15.ABOVE.COM
+Name Server: NS16.ABOVE.COM
+DNSSEC: UnSigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-05-16T13:33:10Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in this whois database is provided to you for information 
+purposes only, that is, to assist you in obtaining information about
+ or related to a domain name registration record. This information
+ is made available 'as is', and does not guarantee its accuracy. By 
+submitting a whois query, you agree that you will use this data only 
+ for lawful purposes and that, under no circumstances, will you use 
+this data to: (1) enable high volume, automated, electronic 
+processes that stress or load this whois database system
+ providing you this information; or (2) allow, enable, or otherwise 
+support the transmission of mass unsolicited, commercial 
+advertising or solicitations via direct mail, electronic mail, or by 
+telephone.  The compilation, repackaging, dissemination or other
+ use of this data is expressly prohibited without prior written consent
+ from us.  We reserve the right to modify these terms at any time.

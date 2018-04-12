@@ -1,0 +1,86 @@
+Domain Name: egy.best
+Registry Domain ID: D58442-BEST
+Registrar WHOIS Server: whois.enom.com
+Registrar URL: whois.enom.com
+Updated Date: 2017-05-27T18:28:42Z
+Creation Date: 2014-11-28T21:28:10Z
+Registry Expiry Date: 2018-11-27T23:59:59Z
+Registrar: eNom, LLC
+Registrar IANA ID: 48
+Registrar Abuse Contact Email:
+Registrar Abuse Contact Phone:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C218312-BEST
+Registrant Name: WhoisGuard Protected
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street: P.O. Box 0823-03411
+Registrant Street:
+Registrant Street:
+Registrant City: Panama
+Registrant State/Province: Panama
+Registrant Postal Code: 00000
+Registrant Country: PA
+Registrant Phone: +507.8365503
+Registrant Phone Ext:
+Registrant Fax: +51.17057182
+Registrant Fax Ext:
+Registrant Email: 995e225ef29545cfab58c9eea3cceca8.protect@whoisguard.com
+Registry Admin ID: C218312-BEST
+Admin Name: WhoisGuard Protected
+Admin Organization: WhoisGuard, Inc.
+Admin Street: P.O. Box 0823-03411
+Admin Street:
+Admin Street:
+Admin City: Panama
+Admin State/Province: Panama
+Admin Postal Code: 00000
+Admin Country: PA
+Admin Phone: +507.8365503
+Admin Phone Ext:
+Admin Fax: +51.17057182
+Admin Fax Ext:
+Admin Email: 995e225ef29545cfab58c9eea3cceca8.protect@whoisguard.com
+Registry Tech ID: C218312-BEST
+Tech Name: WhoisGuard Protected
+Tech Organization: WhoisGuard, Inc.
+Tech Street: P.O. Box 0823-03411
+Tech Street:
+Tech Street:
+Tech City: Panama
+Tech State/Province: Panama
+Tech Postal Code: 00000
+Tech Country: PA
+Tech Phone: +507.8365503
+Tech Phone Ext:
+Tech Fax: +51.17057182
+Tech Fax Ext:
+Tech Email: 995e225ef29545cfab58c9eea3cceca8.protect@whoisguard.com
+Name Server: dawn.ns.cloudflare.com
+Name Server: lee.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-04-12T03:44:07Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+BEST TLD Pty Ltd, the Registry Operator for dotBest, has collected this
+information for the WHOIS database through an ICANN-Accredited Registrar.
+This information is provided to you for informational purposes only and is
+designed to assist persons in determining contents of a domain name registration
+record in the registry database. BEST TLD Pty Ltd makes this information available
+to you "as is" and does not guarantee its accuracy. By submitting a WHOIS query,
+you agree that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data: (1) to allow, enable, or otherwise support 
+the transmission of mass unsolicited, commercial advertising or solicitations via 
+direct mail, electronic mail, or by telephone; (2) in contravention of any applicable
+data and privacy protection acts; or (3) to enable high volume, automated, electronic
+processes that apply to the registry (or its systems). Compilation, repackaging, 
+dissemination, or other use of the WHOIS database in its entirety, or of a substantial
+portion thereof, is not allowed without BEST TLD Pty Ltd's prior written permission.
+BEST TLD Pty Ltd reserves the right to modify or change these conditions at any time
+without prior or subsequent notification of any kind. By executing this query, in any
+manner whatsoever, you agree to abide by these terms.
+
+NOTE: FAILURE TO LOCATE A RECORD IN THE WHOIS DATABASE IS NOT INDICATIVE OF THE 
+AVAILABILITY OF A DOMAIN NAME.
+

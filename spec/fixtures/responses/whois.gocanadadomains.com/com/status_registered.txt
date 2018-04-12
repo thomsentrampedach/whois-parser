@@ -1,0 +1,87 @@
+Domain Name: kentportali.com
+Registry Domain ID: 2189073599_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.gocanadadomains.com
+Updated Date: 2017-11-18T22:55:03Z
+Creation Date: 2017-11-18T19:56:43Z
+Registrar Registration Expiration Date: 2018-11-18T19:56:43Z
+Registrar: Go Canada Domains, LLC
+Registrar IANA ID: 1150
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: ******** ******** (see Notes section below on how to view unmasked data)
+Registrant Organization: Gri Internet Teknolojileri Tic Ltd. Sti.
+Registrant Street: Altay Mah 2668 Cad 1 B Blok No 187
+Registrant Street: Eryaman
+Registrant City: Ankara
+Registrant State/Province: Etimesgut
+Registrant Postal Code: 06820
+Registrant Country: TR
+Registrant Phone: +**.*******
+Registrant Phone Ext: 
+Registrant Fax: +90.8508404060
+Registrant Fax Ext: 
+Registrant Email: ********@*****.***
+Registry Admin ID: Not Available From Registry
+Admin Name: ******** ******** (see Notes section below on how to view unmasked data)
+Admin Organization: Gri Internet Teknolojileri Tic Ltd. Sti.
+Admin Street: Altay Mah 2668 Cad 1 B Blok No 187
+Admin Street: Eryaman
+Admin City: Ankara
+Admin State/Province: Etimesgut
+Admin Postal Code: 06820
+Admin Country: TR
+Admin Phone: +**.*******
+Admin Phone Ext: 
+Admin Fax: +90.8508404060
+Admin Fax Ext: 
+Admin Email: ********@*****.***
+Registry Tech ID: Not Available From Registry
+Tech Name: ******** ******** (see Notes section below on how to view unmasked data)
+Tech Organization: Gri Internet Teknolojileri Tic Ltd. Sti.
+Tech Street: Altay Mah 2668 Cad 1 B Blok No 187
+Tech Street: Eryaman
+Tech City: Ankara
+Tech State/Province: Etimesgut
+Tech Postal Code: 06820
+Tech Country: TR
+Tech Phone: +**.*******
+Tech Phone Ext: 
+Tech Fax: +90.8508404060
+Tech Fax Ext: 
+Tech Email: ********@*****.***
+Name Server: NS1.BODIS.COM
+Name Server: NS2.BODIS.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:00:00Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Notes: 
+WHOIS consumers who are now receiving masked data can visit:
+https://whois.godaddy.com to look up the unmasked data.  You can also 
+get whitelisted, to get unmasked data via Port 43. Find instructions 
+on how to apply for whitelisting here: 
+https://www.godaddy.com/help/masking-contact-information-shared-via-whois-automated-access-points-27421
+The data contained in GoDaddy.com, LLC's WhoIs database,
+while believed by the company to be reliable, is provided "as is"
+with no guarantee or warranties regarding its accuracy.  This
+information is provided for the sole purpose of assisting you
+in obtaining information about domain name registration records.
+Any use of this data for any other purpose is expressly forbidden without the prior written
+permission of GoDaddy.com, LLC.  By submitting an inquiry,
+you agree to these terms of usage and limitations of warranty.  In particular,
+you agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and
+and solicitations of any kind, including spam.  You further agree
+not to use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial purposes. 
+
+Please note: the registrant of the domain name is specified
+in the "registrant" section.  In most cases, GoDaddy.com, LLC 
+is not the registrant of domain names listed in this database.

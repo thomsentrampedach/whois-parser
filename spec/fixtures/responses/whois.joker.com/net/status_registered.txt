@@ -1,0 +1,66 @@
+Domain Name: sezamweb.net
+Registry Domain ID: 408837499_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.joker.com
+Registrar URL: http://joker.com/
+Updated Date: 2018-03-09T08:00:14Z
+Creation Date: 2006-04-12T10:41:29Z
+Registrar Registration Expiration Date: 2019-04-12T10:41:29Z
+Registrar: CSL Computer Service Langenbach GmbH d/b/a joker.com
+Registrar IANA ID: 113
+Registrar Abuse Contact Email: abuse@joker.com
+Registrar Abuse Contact Phone: +49.21186767447
+Reseller: DHH d.o.o.
+Reseller: http://www.dhh.com.hr/
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID:  
+Registrant Name: CESI - CENTAR ZA EDUKACIJU, SAVJETOVANJE I ISTRAZIVANJE
+Registrant Organization: CESI - CENTAR ZA EDUKACIJU, SAVJETOVANJE I ISTRAZIVANJE
+Registrant Street: Nova cesta 4
+Registrant City: Zagreb
+Registrant State/Province: Istra
+Registrant Postal Code: 10000
+Registrant Country: HR
+Registrant Phone: +385.52492052
+Registrant Email: cesi@cesi.hr
+Registry Admin ID:  
+Admin Name: DNS administrator
+Admin Organization: DHH d.o.o.
+Admin Street: Dalmatinova 4
+Admin City: Pula
+Admin Postal Code: 52100
+Admin Country: HR
+Admin Phone: +385.52492052
+Admin Fax: +385.52492052
+Admin Email: dns@plus.hr
+Registry Tech ID:  
+Tech Name: DNS administrator
+Tech Organization: DHH d.o.o.
+Tech Street: Dalmatinova 4
+Tech City: Pula
+Tech Postal Code: 52100
+Tech Country: HR
+Tech Phone: +385.52492052
+Tech Fax: +385.52492052
+Tech Email: dns@plus.hr
+Name Server: ns1.mojsite.com
+Name Server: ns2.mojsite.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:42:01Z <<<
+
+Query Time: 0.13423
+Query Source: 96.37.239.135
+WHOIS Source: joker.com live whois service
+
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTE: By submitting a WHOIS query, you agree to abide by the following
+NOTE: terms of use: You agree that you may use this data only for lawful
+NOTE: purposes and that under no circumstances will you use this data to:
+NOTE: (1) allow, enable, or otherwise support the transmission of mass
+NOTE: unsolicited, commercial advertising or solicitations via direct mail,
+NOTE: e-mail, telephone, or facsimile; or (2) enable high volume, automated,
+NOTE: electronic processes that apply to Joker.com (or its computer systems).
+NOTE: The compilation, repackaging, dissemination or other use of this data
+NOTE: is expressly prohibited without the prior written consent of Joker.com.

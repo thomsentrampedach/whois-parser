@@ -1,0 +1,84 @@
+Domain Name: gryfit.com
+Registry Domain ID: 95797869_domain_com-vrsn
+Registrar WHOIS Server: whois.netart-registrar.com
+Registrar URL: http://www.netart-registrar.com
+Updated Date: 2017-11-27T15:41:36Z
+Creation Date: 2003-03-14T16:38:16Z
+Registrar Registration Expiration Date: 2019-03-14T15:38:16Z
+Registrar: NetArt Sp. z o.o.
+Registrar IANA ID: 1456
+Registrar Abuse Contact Email: abuse@netart-registrar.com
+Registrar Abuse Contact Phone: +48.224544885
+Reseller: nazwa.pl
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Roman Jedrzejewski
+Registrant Organization: GREMPCO S.A.
+Registrant Street: ul. Prosta ,Lozienica 2a
+Registrant City: GOLENIOW
+Registrant State/Province: zachodniopomorskie
+Registrant Postal Code: 72-100
+Registrant Country: PL
+Registrant Phone: +48.914323520
+Registrant Phone Ext: 
+Registrant Fax: +48.914323536
+Registrant Fax Ext: 
+Registrant Email: info@grempco.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Roman Jedrzejewski
+Admin Organization: GREMPCO S.A.
+Admin Street: ul. Prosta ,Lozienica 2a
+Admin City: GOLENIOW
+Admin State/Province: zachodniopomorskie
+Admin Postal Code: 72-100
+Admin Country: PL
+Admin Phone: +48.914323520
+Admin Phone Ext: 
+Admin Fax: +48.914323536
+Admin Fax Ext: 
+Admin Email: info@grempco.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Roman Jedrzejewski
+Tech Organization: GREMPCO S.A.
+Tech Street: ul. Prosta ,Lozienica 2a
+Tech City: GOLENIOW
+Tech State/Province: zachodniopomorskie
+Tech Postal Code: 72-100
+Tech Country: PL
+Tech Phone: +48.914323520
+Tech Phone Ext: 
+Tech Fax: +48.914323536
+Tech Fax Ext: 
+Tech Email: info@grempco.com
+Name Server: dns1.aci.com.pl
+Name Server: dns2.aci.com.pl
+DNSSEC: unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T02:15:46Z <<<
+
+For more information on Whois status codes, please visit: https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+WHOIS Terms of Use
+1. WHOIS database is administered by NetArt Sp. z o.o. It contains information on domains with respect to which the company provides administration and technical services.
+2. NetArt sp. z o.o. shall not be liable for any torts committed by Domain Name Holder.
+3. Furthermore, NetArt Sp. z o.o. shall not be liable for any damage caused as a result of the actions or omissions of Domain Name Holder, including, but not limited to, violation of intellectual property rights, trademark rights or personality rights; all claims related thereto shall be brought directly to Domain Name Holder.
+4. All data displayed is made available for the purpose of contacting Domain Name Holder or for purposes directly related to domain name.
+5. By using WHOIS, you shall be deemed to have accepted WHOIS Terms of Use and confirmed that the data will be used for lawful purposes. Furthermore:
+a) you shall not enable or otherwise support the transmission of mass unsolicited commercial advertising or solicitations to Domain Name Holder’s address, e-mail address, telephone number or facsimile number,
+b) data may not be used for marketing purposes,
+c) data may not be sold or used for redistribution purposes.
+6. Copying, reproducing, distributing or using the data available in WHOIS database operated by NetArt Sp. z o.o. otherwise than provided for in these WHOIS Terms of Use shall be prohibited.
+7. NetArt Sp. z o.o. reserves the right to restrict access to WHOIS database, impose a limit on the number of queries, and amend these WHOIS Terms of Use.
+
+Zasady korzystania z bazy WHOIS
+1. Baza danych WHOIS jest zarządzana przez NetArt Sp. z o.o., i prezentuje dane dotyczące domen dla których firma świadczy obsługę administracyjną i techniczną.
+2. NetArt sp. z o.o. nie ponosi odpowiedzialności za czyny zabronione popełnione przez Abonenta domeny.
+3. NetArt Sp. z o.o. nie odpowiada również za szkody spowodowane działaniem lub zaniechaniem Abonenta domeny – w szczególności nie odpowiada z tytułu naruszenia praw własności intelektualnej, prawa ochronnego do znaku towarowego lub naruszenia dóbr osobistych – wszelkie roszczenia z tym związane uprawniony powinien zgłaszać bezpośrednio do Abonenta domeny.
+4. Wszelkie wyświetlane dane udostępniane są w celu umożliwienia kontaktu z Abonentem domeny lub w celach bezpośrednio związanych z nazwą domeny.
+5. Korzystając z bazy WHOIS, akceptują Państwo Zasady korzystania z bazy WHOIS poświadczając jednocześnie, iż dane będą używane w celach zgodnych z prawem, jak również:
+a) nie będą Państwo umożliwiać lub też w inny sposób wspierać przekazywania masowych i niechcianych reklam lub ofert na adres Abonenta domeny, adres e-mail Abonenta, numer telefonu lub numer faks,
+b) dane nie mogą być wykorzystywane w celach marketingowych,
+c) dane nie mogą zostać sprzedane lub wykorzystane w celach redystrybucji.
+6. Kopiowanie, powielanie, rozpowszechnianie lub inne niż wynikające z Zasad korzystania z bazy WHOIS wykorzystywanie danych dostępnych w bazie WHOIS obsługiwanej przez NetArt Sp. z o.o. jest zabronione.
+7. NetArt Sp. z o.o. zastrzega sobie prawo do ograniczenia dostępu do bazy WHOIS, nałożenia limitu na liczbę odpytań, jak również do zmian Zasad korzystania z bazy WHOIS.

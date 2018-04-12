@@ -1,0 +1,79 @@
+Domain Name: REDHATB2B.COM
+Registry Domain ID: 2147695447_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domainshype.com
+Registrar URL: www.domainshype.com
+Updated Date: 2017-09-27T02:24:15Z
+Creation Date: 2017-07-28T17:52:53Z
+Registrar Registration Expiration Date: 2018-07-28T17:52:53Z
+Registrar: Domainshype.com, Inc
+Registrar IANA ID: 1660
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: navneeth
+Registrant Organization: 
+Registrant Street: naik   
+Registrant City: bengaluru
+Registrant State/Province: Karnataka
+Registrant Postal Code: 560069
+Registrant Country: IN
+Registrant Phone: +91.9008129543
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: darkpsylyf12@gmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: navneeth
+Admin Organization: 
+Admin Street: naik  
+Admin City: bengaluru
+Admin State/Province: Karnataka
+Admin Postal Code: 560069
+Admin Country: IN
+Admin Phone: +91.9008129543
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: darkpsylyf12@gmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: navneeth
+Tech Organization: 
+Tech Street: naik  
+Tech City: bengaluru
+Tech State/Province: Karnataka
+Tech Postal Code: 560069
+Tech Country: IN
+Tech Phone: +91.9008129543
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: darkpsylyf12@gmail.com
+Name Server: dns1.namecheaphosting.com
+Name Server: dns2.namecheaphosting.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse-complaints@logicboxes.com
+Registrar Abuse Contact Phone: +1 2013775952
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:52Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: HOSTGATOR INDIA
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Domainshype.com, Inc. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

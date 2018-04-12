@@ -1,0 +1,74 @@
+
+
+Domain Name: economycarrentals.com
+Registry Domain ID: 79052114_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.nameisp.com
+Registrar URL: www.namesrs.com
+Updated Date: 2016-08-31T13:57:32.00Z
+Creation Date: 2001-10-27T12:04:04.00Z
+Registrar Registration Expiration Date: 2025-10-27T12:04:04.00Z
+Registrar: AB NAME ISP
+Registrar IANA ID: 1371
+Registrar Abuse Contact Email: info@nameisp.com
+Registrar Abuse Contact Phone: +46.313011220
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 974507
+Registrant Name: Yorgos Kokologiannis
+Registrant Organization: PANGOSMIO CAR RENTALS
+Registrant Street: Agia Pelagia
+Registrant City: Heraklion Creete
+Registrant State: 
+Registrant Postal Code: 12345
+Registrant Country: gr
+Registrant Phone: +30.2810811750
+Registrant Fax: +30.2810811650
+Registrant Email: info@economycarrentals.com
+Registry Admin ID: 505816
+Admin Name: Ingvor Stagno
+Admin Organization: SoftIT Vaxby Arvidsson AB
+Admin Street: Ksatorpsvgen 5
+Admin City: Skovde
+Admin Postal Code: 541 34
+Admin Country: se
+Admin Phone: +46.500413000
+Admin Fax: 
+Admin Email: webmaster@softit.net
+Registry Tech ID: 974507
+Tech Name: Yorgos Kokologiannis
+Tech Organization: PANGOSMIO CAR RENTALS
+Tech Street: Agia Pelagia
+Tech City: Heraklion Creete
+Tech Postal Code: 12345
+Tech Country: gr
+Tech Phone: +30.2810811750
+Tech Fax: +30.2810811650
+Tech Email: info@economycarrentals.com
+Name Server: NS1.SOFTIT.NET
+Name Server: NS2.SOFTIT.NET
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+Last update of WHOIS database: 2018-04-12T03:42:08.00Z
+
+Whois information protected.
+Contact the registrant via http://www.shieldwhois.com
+
+Whois server 2.5
+
+The data in the www.NameISP.com whois database is provided to you for
+information purposes only, that is, to assist you in obtaining information
+about or related to a domain name registration record. We make this
+information available "as is," and do not guarantee its accuracy.
+
+By submitting a whois query, you agree that you will use this data only for
+lawful purposes and that, under no circumstances will you use this data to:
+
+(1) enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass
+unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.
+
+NOTE! ALL WHOIS QUERIES AND IP ADDRESSES ARE LOGGED!

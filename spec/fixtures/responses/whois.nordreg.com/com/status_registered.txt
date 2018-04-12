@@ -1,0 +1,74 @@
+Domain Name: sitegainer.com
+Registry Domain ID: 1840024058_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.nordreg.se
+Registrar URL: http://nordreg.se/
+Updated Date: 2018-02-23T12:21:34Z
+Creation Date: 2013-12-22T14:03:11Z
+Registrar Registration Expiration Date: 2018-12-22T14:03:11Z
+Registrar: Nordreg AB
+Registrar IANA ID: 638
+Reseller: Nordreg AB
+Domain Status: ok http://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Ricard Carl Chramer
+Registrant Organization: Internetexperten Sverige AB
+Registrant Street: Norrtullsgatan 6
+Registrant City: Stockholm
+Registrant State/Province: 
+Registrant Postal Code: 11329
+Registrant Country: SE
+Registrant Phone: +46.850255976
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: ricard@internetexperten.se
+Registry Admin ID: Not Available From Registry
+Admin Name: Ricard Carl Chramer
+Admin Organization: Internetexperten Sverige AB
+Admin Street: Norrtullsgatan 6
+Admin City: Stockholm
+Admin State/Province: 
+Admin Postal Code: 11329
+Admin Country: SE
+Admin Phone: +46.850255976
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: ricard@internetexperten.se
+Registry Tech ID: Not Available From Registry
+Tech Name: Ricard Carl Chramer
+Tech Organization: Internetexperten Sverige AB
+Tech Street: Norrtullsgatan 6
+Tech City: Stockholm
+Tech State/Province: 
+Tech Postal Code: 11329
+Tech Country: SE
+Tech Phone: +46.850255976
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: ricard@internetexperten.se
+Name Server: ns2.aname.net
+Name Server: ns.aname.net
+Name Server: ns3.aname.se
+DNSSEC: not signed
+Registrar Abuse Contact Email: abuse@nordreg.se
+Registrar Abuse Contact Phone: +46.42197050
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:23Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Please email the listed admin email address if you wish to raise a legal issue.
+
+The data in this whois database is provided to you for information purposes only, that is,
+to assist you in obtaining information about or related to a domain name registration record.
+We make this information available "as is," and do not guarantee its accuracy.
+By submitting a whois query, you agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress or load this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via direct mail,
+electronic mail, or by telephone. The compilation, repackaging, dissemination or other use of this data is expressly prohibited without
+prior written consent from Nordreg AB
+
+

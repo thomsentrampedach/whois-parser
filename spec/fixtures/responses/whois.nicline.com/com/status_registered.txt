@@ -1,0 +1,58 @@
+Domain Name: YLOS.COM
+Registry Domain ID: 4397082_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.nicline.com
+Registrar URL: http://www.nicline.com
+Updated Date: 2018-03-06T11:27:38Z
+Creation Date: 2003-02-28T09:27:23Z
+Registrar Registration Expiration Date: 2019-03-17T12:00:00Z
+Registrar: Arsys Internet, S.L. dba NICLINE.COM
+Registrar IANA ID: 379
+Registrar Abuse Contact Email: abuse@nicline.com
+Registrar Abuse Contact Phone: +34 941620100
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: Seric Informatica SL
+Registrant Organization: 
+Registrant Street: Paseo Prim, 27 bajos
+Registrant City: Reus
+Registrant State/Province: TARRAGONA
+Registrant Postal Code: 43202     
+Registrant Country: ES
+Registrant Phone: +34.977331140
+Registrant Phone Ext: 
+Registrant Fax: +34.977331114
+Registrant Fax Ext: 
+Registrant Email: administracion@ylos.com
+Registry Admin ID: 
+Admin Name: Departamento Administracion
+Admin Organization: Ylos Hispania SL
+Admin Street: Paseo Prim, 27 bajos
+Admin City: Reus
+Admin State/Province: TARRAGONA
+Admin Postal Code: 43202     
+Admin Country: ES
+Admin Phone: +34.977331140
+Admin Phone Ext: 
+Admin Fax: +34.977331114
+Admin Fax Ext: 
+Admin Email: administracion@ylos.com
+Registry Tech ID: 
+Tech Name: Departamento de Sistemas
+Tech Organization: Ylos Hispania SL
+Tech Street: Paseo Prim, 27 bajos
+Tech City: Reus
+Tech State/Province: TARRAGONA
+Tech Postal Code: 43202
+Tech Country: ES
+Tech Phone: +34.977331140
+Tech Phone Ext: 
+Tech Fax: +34.977331114
+Tech Fax Ext: 
+Tech Email: sistemas@ylos.com
+Name Server: ns3.ylos.com
+Name Server: ns4.ylos.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-06T11:27:38Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.

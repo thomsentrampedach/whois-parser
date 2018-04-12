@@ -1,0 +1,95 @@
+Domain Name: dartmouthcrossing.com
+Registry Domain ID: 157899662_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.Rebel.ca
+Registrar URL: http://www.Rebel.ca
+Updated Date: 2017-04-01T04:04:12Z
+Creation Date: 2005-05-16T19:06:45Z
+Registrar Registration Expiration Date: 2026-05-16T19:06:45Z
+Registrar: Rebel.ca
+Registrar IANA ID: 735
+Registrar Abuse Contact Email: abuse@rebel.ca
+Registrar Abuse Contact Phone: +1.8666207111
+Reseller: Rebel.ca
+Domain Status: CLIENT_UPDATE_PROHIBITED https://www.icann.org/epp#ClientUpdateProhibited
+Domain Status: CLIENT_TRANSFER_PROHIBITED https://www.icann.org/epp#ClientTransferProhibited
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Domain Status: 
+Registry Registrant ID: 
+Registrant Name: Robert Gorham
+Registrant Organization: Dartmouth Crossing
+Registrant Street: 34 Logiealmond Close 
+Registrant City: Dartmouth
+Registrant State/Province: NS
+Registrant Postal Code: B3B 0C8
+Registrant Country: CA
+Registrant Phone: +1.9024458883
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: jstarkey@centrecorp.com
+Registry Admin ID: 
+Admin Name: Dwight French
+Admin Organization: Dartmouth Crossing
+Admin Street: 110 Chain Lake Drive
+Admin City: Halifax
+Admin State/Province: NS
+Admin Postal Code: B3S 0A1
+Admin Country: CA
+Admin Phone: 
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: rob@eclipsemediagroup.ca
+Registry Tech ID: 
+Tech Name: Dwight French
+Tech Organization: Dartmouth Crossing
+Tech Street: 110 Chain Lake Drive
+Tech City: Halifax
+Tech State/Province: NS
+Tech Postal Code: B3S 0A1
+Tech Country: CA
+Tech Phone: 
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: rob@eclipsemediagroup.ca
+Name Server: NS1.BLUEHOST.COM
+Name Server: NS2.BLUEHOST.COM
+Name Server: 
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:31:02Z <<<
+
+The results are provided by Rebel.ca. 
+(whois.Rebel.ca)
+
+By using Rebel.ca's WHOIS database, you confirm that you understand 
+the following, and you agree to be bound by the terms of usage and 
+limitations of warranty contained herein.
+
+Although the data contained in Rebel.ca's WHOIS database is believed
+by the company to be reliable, it is provided "as is". Rebel.ca
+provides no guarantee or warranty regarding its accuracy and will not
+be held liable for any damages resulting from any inaccurate
+information that may be included in the database. Rebel.ca's sole
+purpose for providing this information is to assist you in acquiring
+information about domain name registration records. Any use of this
+data for any other purpose is expressly prohibited without the prior
+written permission of Rebel.ca. By submitting a query to Rebel.ca,
+you agree to the terms contained herein and in particular, you agree
+not to use this data to allow, enable, or otherwise make possible,
+distribution or collection of this data, in part or in its entirety,
+for any purpose, such as the transmission of unsolicited advertising
+and solicitations of any kind, including spam. You further agree not to
+use this data to enable high volume, automated or robotic electronic
+processes designed to collect or compile this data for any purpose,
+including mining this data for your own personal or commercial
+purposes.
+
+Register your domain now at www.Rebel.ca
+

@@ -42,3 +42,10 @@ r.parts.each do |part|
   File.open(target, "w+") { |f| f.write(text) }
   puts "Parser File: #{target}"
 end
+
+# results = {}
+# CSV.foreach('./utils/whoisservertodo_with_domain.csv', :headers => true) do |row|
+#   results[row['host']] ||= { domains: [], count: 0 }
+#   results[row['host']][:domains] << row['domain']
+#   results[row['host']][:count] += 1
+# end

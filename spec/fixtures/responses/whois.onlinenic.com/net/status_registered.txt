@@ -1,0 +1,75 @@
+Domain Name: frksh.net                                                                                          
+Registry Domain ID: 1848033085_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.onlinenic.com
+Registrar URL: http://www.onlinenic.com
+Updated Date: 2018-01-03T06:34:44Z
+Creation Date: 2014-02-24T04:00:00Z
+Registrar Registration Expiration Date: 2019-02-24T04:00:00Z
+Registrar: Onlinenic Inc
+Registrar IANA ID: 82
+Registrar Abuse Contact Email: onlinenic-enduser@onlinenic.com
+Registrar Abuse Contact Phone: +1.5107698492
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Mahmoud Alsa3ed
+Registrant Organization: None
+Registrant Street: egypt
+Registrant City: egypt
+Registrant State/Province: egypt
+Registrant Postal Code: 33511
+Registrant Country: EG
+Registrant Phone: +20.1002399661
+Registrant Phone Ext:
+Registrant Fax: +20.1002399661
+Registrant Fax Ext:
+Registrant Email: frksh.com@gmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Mahmoud Alsa3ed
+Admin Organization: None
+Admin Street: egypt
+Admin City: egypt
+Admin State/Province: egypt
+Admin Postal Code: 33511
+Admin Country: EG
+Admin Phone: +20.1002399661
+Admin Phone Ext:
+Admin Fax: +20.1002399661
+Admin Fax Ext:
+Admin Email: frksh.com@gmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Mahmoud Alsa3ed
+Tech Organization: None
+Tech Street: egypt
+Tech City: egypt
+Tech State/Province: egypt
+Tech Postal Code: 33511
+Tech Country: EG
+Tech Phone: +20.1002399661
+Tech Phone Ext:
+Tech Fax: +20.1002399661
+Tech Fax Ext:
+Tech Email: frksh.com@gmail.com
+Name Server: ns1.dns-diy.net
+Name Server: ns2.dns-diy.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-01-03T06:34:44Z <<<
+
+
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+This data is provided by OnlineNIC, Inc.
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+OnlineNIC, Inc. does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via E-mail
+ (spam); or
+2) enable high volume, automated, electronic processes that apply
+to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

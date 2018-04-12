@@ -1,0 +1,78 @@
+Domain Name: DLAPK.NET
+Registry Domain ID: 1884498747_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.resellercamp.com
+Registrar URL: http://resellercamp.com/
+Updated Date: 2017-10-24T14:30:26Z
+Creation Date: 2014-11-10T09:12:05Z
+Registrar Registration Expiration Date: 2018-11-10T09:12:05Z
+Registrar: CV. Jogjacamp
+Registrar IANA ID: 1478
+Registrar Abuse Contact Email: abuse@resellercamp.com
+Registrar Abuse Contact Phone: +62.82141570000
+Domain Status: clientTransferProhibited (http://icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: 
+Registrant Name: Dede Muhira
+Registrant Organization: bloglazada.com
+Registrant Street: KpSasagaran RT01/03 Desa Sasagaran Kec Kebonpedes Other
+Registrant City: Sukabumi
+Registrant State/Province: Jawa Barat
+Registrant Postal Code: 43194
+Registrant Country: ID
+Registrant Phone: +62.620000000
+Registrant Phone Ext: 
+Registrant Fax: +62.620000000
+Registrant Fax Ext: 
+Registrant Email: dee.muhira@gmail.com
+Registry Admin ID: 
+Admin Name: Dede Muhira
+Admin Organization: bloglazada.com
+Admin Street: KpSasagaran RT01/03 Desa Sasagaran Kec Kebonpedes Other
+Admin City: Sukabumi
+Admin State/Province: Jawa Barat
+Admin Postal Code: 43194
+Admin Country: ID
+Admin Phone: +62.620000000
+Admin Phone Ext: 
+Admin Fax: +62.620000000
+Admin Fax Ext: 
+Admin Email: dee.muhira@gmail.com
+Registry Tech ID: 
+Tech Name: Dede Muhira
+Tech Organization: bloglazada.com
+Tech Street: KpSasagaran RT01/03 Desa Sasagaran Kec Kebonpedes Other
+Tech City: Sukabumi
+Tech State/Province: Jawa Barat
+Tech Postal Code: 43194
+Tech Country: ID
+Tech Phone: +62.620000000
+Tech Phone Ext: 
+Tech Fax: +62.620000000
+Tech Fax Ext: 
+Tech Email: dee.muhira@gmail.com
+Name Server: ns6.idwebhost.com
+Name Server: ns7.idwebhost.com
+DNSSEC: Unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+
+>>>Last update of WHOIS database: 2018-04-12T03:28:52Z<<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: IDWEBHOST
+
+The data in this whois database is provided to you for information purposes
+only, that is, to assist you in obtaining information about or related to a
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone.
+The compilation, repackaging, dissemination or other use of this data is
+expressly prohibited without prior written consent from us. The Registrar of
+record is CV. Jogjacamp.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

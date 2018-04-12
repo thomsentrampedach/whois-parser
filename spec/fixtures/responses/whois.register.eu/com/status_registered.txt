@@ -1,0 +1,89 @@
+Domain Name: economybookings.com
+Registry Domain ID: 1398601154_DOMAIN_COM-VRSN
+Registrar WHOIS Server: 
+Registrar URL: www.register.eu
+Updated Date: 2018-02-08T01:39:20.0Z
+Creation Date: 2008-02-08T19:42:31.0Z
+Registrar Registration Expiration Date: 2019-02-08T19:42:31.0Z
+Registrar: Register NV dba Register.eu
+Registrar IANA ID: 1467
+Registrar Abuse Contact Email: info@register.eu
+Registrar Abuse Contact Phone: +32.22473730
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Alen Baibekov
+Registrant Organization: Booking Group SIA
+Registrant Street: Lielirbes 17a
+Registrant City: Riga
+Registrant State/Province: 
+Registrant Postal Code: LV-1047
+Registrant Country: LV
+Registrant Phone: +371.29108236
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: alen@bookinggroup.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Customer Support
+Admin Organization: Register NV/SA
+Admin Street: Roodebeeksesteenweg 206
+Admin City: Brussels
+Admin State/Province: 
+Admin Postal Code: 1200
+Admin Country: BE
+Admin Phone: +32.22473720
+Admin Phone Ext: 
+Admin Fax: +32.24014134
+Admin Fax Ext: 
+Admin Email: info@register.be
+Registry Tech ID: Not Available From Registry
+Tech Name: Technical Support
+Tech Organization: Register NV
+Tech Street: Chaussee de Roodebeek 206
+Tech City: Brussels
+Tech Postal Code: 1200
+Tech State/Province: 
+Tech Country: BE
+Tech Phone: +32.22473720
+Tech Phone Ext: 
+Tech Fax: +32.27919730
+Tech Fax Ext: 
+Tech Email: info@register.eu
+Registry Billing ID: Not Available From Registry
+Billing Name: Accounting Department
+Billing Organization: Register NV/SA
+Billing Street: Roodebeeksesteenweg 206
+Billing City: Brussels
+Billing State/Province: 
+Billing Postal Code: 1200
+Billing Country: BE
+Billing Phone: +32.22473720
+Billing Phone Ext: 
+Billing Fax: +32.24014134
+Billing Fax Ext: 
+Billing Email: info@register.be
+Name Server: ns-1239.awsdns-26.org 
+Name Server: ns-2035.awsdns-62.co.uk 
+Name Server: ns-382.awsdns-47.com 
+Name Server: ns-563.awsdns-06.net 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:42:54.0Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+Please register your domains at; www.register.eu
+This data is provided by 
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+ does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

@@ -1,0 +1,79 @@
+Domain Name: COLLEGEJOLT.COM
+Registry Domain ID: 1692481606_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.nameking.com
+Registrar URL: http://www.nameking.com
+Updated Date: 2017-11-28T16:22:14Z
+Creation Date: 2011-12-16T19:28:17Z
+Registrar Registration Expiration Date: 2018-12-16T19:28:17Z
+Registrar: NameKing.com, Inc.
+Registrar IANA ID: 609
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: DOMAIN MAY BE FOR SALE, CHECK AFTERNIC.COM Domain Admin
+Registrant Organization: Whois Foundation
+Registrant Street: Ramon Arias Avenue, Ropardi Building, Office 3-C PO Box 0823-03015  
+Registrant City: Panama City
+Registrant State/Province: Panam&#225;
+Registrant Postal Code: 0823
+Registrant Country: PA
+Registrant Phone: +507.8365679
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: admin@whoisfoundation.com
+Registry Admin ID: Not Available From Registry
+Admin Name: DOMAIN MAY BE FOR SALE, CHECK AFTERNIC.COM Domain Admin
+Admin Organization: Whois Foundation
+Admin Street: Ramon Arias Avenue, Ropardi Building, Office 3-C PO Box 0823-03015 
+Admin City: Panama City
+Admin State/Province: Panam&#225;
+Admin Postal Code: 0823
+Admin Country: PA
+Admin Phone: +507.8365679
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: admin@whoisfoundation.com
+Registry Tech ID: Not Available From Registry
+Tech Name: DOMAIN MAY BE FOR SALE, CHECK AFTERNIC.COM Domain Admin
+Tech Organization: Whois Foundation
+Tech Street: Ramon Arias Avenue, Ropardi Building, Office 3-C PO Box 0823-03015 
+Tech City: Panama City
+Tech State/Province: Panam&#225;
+Tech Postal Code: 0823
+Tech Country: PA
+Tech Phone: +507.8365679
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: admin@whoisfoundation.com
+Name Server: ns27.rookdns.com
+Name Server: ns28.rookdns.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@nameking.com
+Registrar Abuse Contact Phone: +1.2132205715
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:41:30Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: NAMEKING INC.
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is NameKing.com, Inc.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

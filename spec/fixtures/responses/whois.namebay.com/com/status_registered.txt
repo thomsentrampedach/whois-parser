@@ -1,0 +1,60 @@
+Domain Name: ALEEMARGROUP.COM
+Registry Domain ID: 1698633572_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.namebay.com
+Registrar URL: www.namebay.com
+Updated Date: 2017-12-27 00:00:00Z
+Creation Date: 2012-01-25 00:00:00Z
+Registrar Registration Expiration Date: 2019-01-25 00:00:00Z
+Registrar: NAMEBAY
+Registrar IANA ID: 88
+Registrar Abuse Contact Email: abuse@namebay.com
+Registrar Abuse Contact Phone: +377.97706164
+Reseller: Topnet
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: Not available from the registry
+Registrant Name: Mohamed mehdi KHEMIRI
+Registrant Organization: TOPNET
+Registrant Street: Immeuble TopNet, Centre Urbain Nord 1082 Tunis Tunisie 
+Registrant City: TUNIS
+Registrant State/Province: TN
+Registrant Postal Code: 1082
+Registrant Country: TN
+Registrant Phone: +216.71185000
+Registrant Phone Ext: 
+Registrant Fax: +216.71787727
+Registrant Fax Ext: 
+Registrant Email: WEBADMIN@TOPNET.TN
+Registry Admin ID: Not available from the registry
+Admin Name: Mohamed mehdi KHEMIRI
+Admin Organization: TOPNET
+Admin Street: Immeuble TopNet, Centre Urbain Nord 1082 Tunis Tunisie 
+Admin City: TUNIS
+Admin State/Province: TN
+Admin Postal Code: 1082
+Admin Country: TN
+Admin Phone: +216.71185000
+Admin Phone Ext: 
+Admin Fax: +216.71787727
+Admin Fax Ext: 
+Admin Email: WEBADMIN@TOPNET.TN
+Registry Tech ID: Not available from the registry
+Tech Name: Mohamed mehdi KHEMIRI
+Tech Organization: TOPNET
+Tech Street: Immeuble TopNet, Centre Urbain Nord 1082 Tunis Tunisie 
+Tech City: TUNIS
+Tech State/Province: TN
+Tech Postal Code: 1082
+Tech Country: TN
+Tech Phone: +216.71185000
+Tech Phone Ext: 
+Tech Fax: +216.71787727
+Tech Fax Ext: 
+Tech Email: WEBADMIN@TOPNET.TN
+Name Server: NS1.TOPNET.TN
+Name Server: NS2.TOPNET.TN
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12 05:42:36Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp

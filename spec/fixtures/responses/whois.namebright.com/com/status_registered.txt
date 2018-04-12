@@ -1,0 +1,57 @@
+Domain Name: Tpfilmindir.com
+Registry Domain ID: 2199672339_DOMAIN_COM-VRSN
+Registrar WHOIS server: whois.NameBright.com
+Registrar URL: http://www.NameBright.com
+Updated Date: 2017-12-13T00:00:00.000Z
+Creation Date: 2017-12-13T07:00:00.000Z
+Registrar Registration Expiration Date: 2018-12-13T00:00:00.000Z
+Registrar: DropCatch.com 1323 LLC
+Registrar IANA ID: 3532
+Registrar Abuse Contact Email: abuse@NameBright.com
+Registrar Abuse Contact Phone: +1.720.496.0020
+Domain Status: clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin / This Domain is For Sale
+Registrant Organization: HugeDomains.com
+Registrant Street: 2635 Walnut Street
+Registrant City: Denver
+Registrant State/Province: CO
+Registrant Postal Code: 80205
+Registrant Country: US
+Registrant Phone: +1.3038930552
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: domains@hugedomains.com
+Registry Admin ID: 
+Admin Name: Domain Admin / This Domain is For Sale
+Admin Organization: HugeDomains.com
+Admin Street: 2635 Walnut Street
+Admin City: Denver
+Admin State/Province: CO
+Admin Postal Code: 80205
+Admin Country: US
+Admin Phone: +1.3038930552
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: domains@hugedomains.com
+Registry Tech ID: 
+Tech Name: Domain Admin / This Domain is For Sale
+Tech Organization: HugeDomains.com
+Tech Street: 2635 Walnut Street
+Tech City: Denver
+Tech State/Province: CO
+Tech Postal Code: 80205
+Tech Country: US
+Tech Phone: +1.3038930552
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: domains@hugedomains.com
+Name Server: nsg1.namebrightdns.com
+Name Server: nsg2.namebrightdns.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net
+--- Last update of WHOIS database: 2018-04-12T03:16:58.670Z ---

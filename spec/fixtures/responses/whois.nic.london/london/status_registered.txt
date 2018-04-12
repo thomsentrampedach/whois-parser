@@ -1,0 +1,66 @@
+Domain Name: FRAUDLAW.LONDON
+Registry Domain ID: 233383_MMl1-LONDON
+Registrar WHOIS Server: 
+Registrar URL: 
+Updated Date: 2017-08-19T23:56:26Z
+Creation Date: 2014-08-27T10:19:11Z
+Registry Expiry Date: 2018-08-27T10:19:11Z
+Registrar: Host Europe Group
+Registrar IANA ID: 1390
+Registrar Abuse Contact Email: primary.contact@hosteuropegroup.comm
+Registrar Abuse Contact Phone: +44.1483304030
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 855227_MMl1-LONDON
+Registrant Name: Michele Morgan
+Registrant Organization: Mishcon de Reya
+Registrant Street: Summit House
+Registrant Street: 12 Red Lion Square
+Registrant City: London
+Registrant State/Province: London
+Registrant Postal Code: WC1R 4QD
+Registrant Country: GB
+Registrant Phone: +44.2074407000
+Registrant Email: domains@wellstudio.co.uk
+Registry Admin ID: 15271_Minds-LONDON
+Admin Name: Dave Patrick
+Admin Organization: The Well Studio Ltd.
+Admin Street: Flat 1
+Admin Street: 12 Bourchier Street
+Admin City: London
+Admin State/Province: London
+Admin Postal Code: W1D 4HZ
+Admin Country: GB
+Admin Phone: +44.2075391937
+Admin Email: admin@wellstudio.co.uk
+Registry Tech ID: 15271_Minds-LONDON
+Tech Name: Dave Patrick
+Tech Organization: The Well Studio Ltd.
+Tech Street: Flat 1
+Tech Street: 12 Bourchier Street
+Tech City: London
+Tech State/Province: London
+Tech Postal Code: W1D 4HZ
+Tech Country: GB
+Tech Phone: +44.2075391937
+Tech Email: admin@wellstudio.co.uk
+Registry Billing ID: 15271_Minds-LONDON
+Billing Name: Dave Patrick
+Billing Organization: The Well Studio Ltd.
+Billing Street: Flat 1
+Billing Street: 12 Bourchier Street
+Billing City: London
+Billing State/Province: London
+Billing Postal Code: W1D 4HZ
+Billing Country: GB
+Billing Phone: +44.2075391937
+Billing Email: admin@wellstudio.co.uk
+Name Server: ns2.123-reg.co.uk.
+Name Server: ns.123-reg.co.uk.
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-04-12T03:43:02Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms and Conditions
+The whois information provided on this site is intended to provide you with the relevant contact information for a domain name registrant and the identity of certain administrative and technical contacts associated with that domain name. The data in this record is provided by Minds + Machines Registry, a subsidiary of Minds + Machines Group Limited, formerly Top Level Domain Holdings Limited ("the Company"), for informational purposes only. Accuracy is not guaranteed. The Company is the authoritative source for whois information in top-level domains it operates under contract with the Internet Corporation for Assigned Names and Numbers. This service is intended only for query-based access. Note that the lack of a whois record for a particular domain does not indicate that the name is available for registration. By using this service, you agree that you will use any data presented for lawful purposes only and that under no circumstances will you use (a) data acquired for the purpose of allowing, enabling, or otherwise supporting the transmission by email, telephone, facsimile, or other communications mechanisms mass unsolicited, commercial, advertising, or solicitations to entities other than your existing customers; or (b) this service to enable high volume, automated, electronic processes that send queries or data to the systems of any registrar or any registry except as reasonably necessary to register domain names or to modify existing domain name registrations. The Company reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy. All rights reserved.

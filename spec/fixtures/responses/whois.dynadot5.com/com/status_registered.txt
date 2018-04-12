@@ -1,0 +1,45 @@
+Domain Name: DL4WAREZ.COM
+Registry Domain ID: 2034067886_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.dynadot55
+Registrar URL: http://www.dynadot55
+Updated Date: 2017-08-21T22:16:23.0Z
+Creation Date: 2016-06-06T18:25:36.0Z
+Registrar Registration Expiration Date: 2018-06-06T18:25:36.0Z
+Registrar: DYNADOT5 LLC
+Registrar IANA ID: 1653
+Registrar Abuse Contact Email: abuse@dynadot55
+Registrar Abuse Contact Phone: +1.6502620100
+Domain Status: clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: S Jon Grant
+Registrant Street: 848 N. Rainbow Dr
+Registrant City: Las Vegas
+Registrant State/Province: Arizona
+Registrant Postal Code: 89107
+Registrant Country: US
+Registrant Phone: +1.7027219077
+Registrant Email: 3xdomains@gmail.com
+Registry Admin ID: 
+Admin Name: S Jon Grant
+Admin Street: 848 N. Rainbow Dr
+Admin City: Las Vegas
+Admin State/Province: Arizona
+Admin Postal Code: 89107
+Admin Country: US
+Admin Phone: +1.7027219077
+Admin Email: 3xdomains@gmail.com
+Registry Tech ID: 
+Tech Name: S Jon Grant
+Tech Street: 848 N. Rainbow Dr
+Tech City: Las Vegas
+Tech State/Province: Arizona
+Tech Postal Code: 89107
+Tech Country: US
+Tech Phone: +1.7027219077
+Tech Email: 3xdomains@gmail.com
+Name Server: april.ns.cloudflare.com
+Name Server: tim.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-11 20:39:17 -0700 <<<
+

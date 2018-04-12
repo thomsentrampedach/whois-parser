@@ -1,0 +1,80 @@
+Domain Name: VIRTUALMEDICALCOACHING.COM
+Registry Domain ID: 1984682792_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domainagent.co.nz
+Registrar URL: www.webdrive.co.nz
+Updated Date: 2017-12-01T20:39:23Z
+Creation Date: 2015-11-30T01:26:22Z
+Registrar Registration Expiration Date: 2018-11-30T01:26:22Z
+Registrar: Web Drive Ltd
+Registrar IANA ID: 1583
+Domain Status: OK https://icann.org/epp#OK
+Registry Registrant ID: Not Available From Registry
+Registrant Name: James Hayes
+Registrant Organization: virtualmedicalcoaching.com #54174
+Registrant Street: 5 Emerald Lane, Cashmere   
+Registrant City: Christchurch
+Registrant State/Province: Christchurch
+Registrant Postal Code: 8022
+Registrant Country: NZ
+Registrant Phone: +64.21440720
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: james.hayes@virtualmedicalcoaching.com
+Registry Admin ID: Not Available From Registry
+Admin Name: James Hayes
+Admin Organization: virtualmedicalcoaching.com #54174
+Admin Street: 5 Emerald Lane, Cashmere  
+Admin City: Christchurch
+Admin State/Province: Christchurch
+Admin Postal Code: 8022
+Admin Country: NZ
+Admin Phone: +64.21440720
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: james.hayes@virtualmedicalcoaching.com
+Registry Tech ID: Not Available From Registry
+Tech Name: James Hayes
+Tech Organization: virtualmedicalcoaching.com #54174
+Tech Street: 5 Emerald Lane, Cashmere  
+Tech City: Christchurch
+Tech State/Province: Christchurch
+Tech Postal Code: 8022
+Tech Country: NZ
+Tech Phone: +64.21440720
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: james.hayes@virtualmedicalcoaching.com
+Name Server: ns1.openhost.net.nz
+Name Server: ns2.openhost.net.nz
+Name Server: ns3.openhost.net.nz
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@webdrive.co.nz
+Registrar Abuse Contact Phone: +64.94770055
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:41Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: DOMAIN AGENT
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Web Drive Ltd. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

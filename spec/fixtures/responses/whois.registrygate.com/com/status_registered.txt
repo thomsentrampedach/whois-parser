@@ -1,0 +1,91 @@
+
+
+Domain Name: viewster.com
+Registry Domain ID: 104072280_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrygate.com
+Registrar URL: www.registrygate.com
+Updated Date: 2017-09-26T07:27:33.0Z
+Creation Date: 2003-09-25T15:35:17.0Z
+Registrar Registration Expiration Date: 2018-09-25T15:35:17.0Z
+Registrar: RegistryGate GmbH
+Registrar IANA ID: 1328
+Registrar Abuse Contact Email: abuse@registrygate.com
+Registrar Abuse Contact Phone: +49.1805734437
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Joerg Boksberger
+Registrant Organization: Viewster AG
+Registrant Street: Muehlebachstrasse 162
+Registrant City: Zuerich
+Registrant State/Province: 
+Registrant Postal Code: 8008
+Registrant Country: CH
+Registrant Phone: +41.792472830
+Registrant Phone Ext: 
+Registrant Fax: +41.792472830
+Registrant Fax Ext: 
+Registrant Email: jboksberger@viewster.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Joerg Boksberger
+Admin Organization: Viewster AG
+Admin Street: Muehlebachstrasse 162
+Admin City: Zuerich
+Admin State/Province: 
+Admin Postal Code: 8008
+Admin Country: CH
+Admin Phone: +41.792472830
+Admin Phone Ext: 
+Admin Fax: +41.792472830
+Admin Fax Ext: 
+Admin Email: jboksberger@viewster.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Joerg Boksberger
+Tech Organization: Viewster AG
+Tech Street: Muehlebachstrasse 162
+Tech City: Zuerich
+Tech Postal Code: 8008
+Tech State/Province: 
+Tech Country: CH
+Tech Phone: +41.792472830
+Tech Phone Ext: 
+Tech Fax: +41.792472830
+Tech Fax Ext: 
+Tech Email: jboksberger@viewster.com
+Registry Billing ID: Not Available From Registry
+Billing Name: Joerg Boksberger
+Billing Organization: Viewster AG
+Billing Street: Muehlebachstrasse 162
+Billing City: Zuerich
+Billing State/Province: 
+Billing Postal Code: 8008
+Billing Country: CH
+Billing Phone: +41.792472830
+Billing Phone Ext: 
+Billing Fax: +41.792472830
+Billing Fax Ext: 
+Billing Email: jboksberger@viewster.com
+Name Server: ns-1343.awsdns-39.org 
+Name Server: ns-1566.awsdns-03.co.uk 
+Name Server: ns-510.awsdns-63.com 
+Name Server: ns-683.awsdns-21.net 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: https://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:42:40.0Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+Please register your domains at; www.registrygate.com
+This data is provided by 
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+ does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam) or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.

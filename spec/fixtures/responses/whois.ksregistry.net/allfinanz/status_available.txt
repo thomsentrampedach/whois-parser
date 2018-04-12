@@ -1,0 +1,19 @@
+The queried object does not exist: 
+>>> Last update of WHOIS database: 2018-04-12T03:44:48Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in the WHOIS database of KSregistry GmbH is provided by
+KSregistry GmbH for information purposes, and to assist persons in
+obtaining information about or related to domain name registration
+records. KSregistry GmbH does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+    unsolicited, commercial advertising or solicitations via E-mail
+    (spam); or
+2) enable high volume, automated, electronic processes that apply
+    to KSregistry GmbH or its systems.
+KSregistry GmbH reserves the right to modify these terms.
+By submitting this query, you agree to abide by this policy.

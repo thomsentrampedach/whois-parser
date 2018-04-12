@@ -1,0 +1,52 @@
+
+Domain Name: MOVIES09.COM
+Registry Domain ID: 2177791585_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.syrahost.com
+Registrar URL: http://www.crazydomains.com
+Updated Date: 2017-10-24T14:56:20Z
+Creation Date: 2017-10-23T00:00:00Z
+Registrar Registration Expiration Date: 2018-10-23T00:00:00Z
+Registrar: CRAZY DOMAINS FZ-LLC
+Registrar IANA ID: 1291
+Registrar Abuse Contact Email: domains@crazydomains.com
+Registrar Abuse Contact Phone: +61.894220890
+Reseller: CRAZY DOMAINS
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 22286827
+Registrant Name: DONNY ALIYANTO
+Registrant Organization: 
+Registrant Street: HASYIM
+Registrant City: BANGKALAN
+Registrant State/Province: JAWA TIMUR
+Registrant Postal Code: 69115
+Registrant Country: ID
+Registrant Phone: +62.87849625084
+Registrant Phone Ext: 
+Registrant Email: DONIALIYANTOSUKSES@GMAIL.COM
+Registry Admin ID: 8235171
+Admin Name: DONNY ALIYANTO
+Admin Organization: 
+Admin Street: HASYIM
+Admin City: BANGKALAN
+Admin State/Province: JAWA TIMUR
+Admin Postal Code: 69115
+Admin Country: ID
+Admin Phone: +62.87849625084
+Admin Phone Ext: 
+Admin Email: DONIALIYANTOSUKSES@GMAIL.COM
+Registry Tech ID: 8235171
+Tech Name: DONNY ALIYANTO
+Tech Organization: 
+Tech Street: HASYIM
+Tech City: BANGKALAN
+Tech State/Province: JAWA TIMUR
+Tech Postal Code: 69115
+Tech Country: ID
+Tech Phone: +62.87849625084
+Tech Phone Ext: 
+Tech Email: DONIALIYANTOSUKSES@GMAIL.COM
+Name Server: NS13.HAWKHOST.COM
+Name Server: NS14.HAWKHOST.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-10-24T14:56:20Z <<<

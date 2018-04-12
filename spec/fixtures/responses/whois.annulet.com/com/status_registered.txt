@@ -1,0 +1,87 @@
+
+WHOIS Server version 2.0
+
+Domain Name: ELMONKY.COM
+Registry Domain ID: 1929957513_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.annulet.com
+Registrar URL: http://www.annulet.com
+Updated Date: 2017-06-01T06:19:49.00Z
+Creation Date: 2015-05-17T23:51:08.00Z
+Registrar Registration Expiration Date: 2018-05-17T23:51:08.00Z
+Registrar: Annulet, Inc
+Registrar IANA ID: 607
+Registrar Abuse Contact Email: abuse@annulet.com
+Registrar Abuse Contact Phone: +1.7813736840
+Domain Status: clientTransferProhibited  http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: This Domain For Sale Worldwide 3392225132
+Registrant Organization: BuyDomains.com
+Registrant Street: 10 Corporate Drive
+Registrant City: Burlington
+Registrant State/Province: MA
+Registrant Postal Code: 01803
+Registrant Country: US
+Registrant Phone: +1.3392225132
+Registrant Phone Ext:
+Registrant Fax: +1.7818392801
+Registrant Fax Ext:
+Registrant Email: brokerage@buydomains.com
+Registry Admin ID:
+Admin Name: This Domain For Sale Worldwide 3392225132
+Admin Organization: BuyDomains.com
+Admin Street: 10 Corporate Drive
+Admin City: Burlington
+Admin State/Province: MA
+Admin Postal Code: 01803
+Admin Country: US
+Admin Phone: +1.3392225132
+Admin Phone Ext:
+Admin Fax: +1.7818392801
+Admin Fax Ext:
+Admin Email: brokerage@buydomains.com
+Registry Tech ID:
+Tech Name: This Domain For Sale Worldwide 3392225132
+Tech Organization: BuyDomains.com
+Tech Street: 10 Corporate Drive
+Tech City: Burlington
+Tech State/Province: MA
+Tech Postal Code: 01803
+Tech Country: US
+Tech Phone: +1.3392225132
+Tech Phone Ext:
+Tech Fax: ++1.7818392801
+Tech Fax Ext:
+Tech Email: brokerage@buydomains.com
+Name Server: ns.buydomains.com
+Name Server: this-domain-for-sale.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>>Last update of WHOIS database: 2017-06-01T11:00:23.00Z<<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+
+Annulet Incorporated's WHOIS database is provided "as is" with no guarantee or
+warranties regarding its accuracy. This information is provided for researching
+and reviewing information about domain name registration records. Any other use
+of this data for any other purpose is expressly forbidden without the prior
+written permission of Annulet Incorporated. By submitting an inquiry, you agree
+to these terms of usage and limitations of the warranty. In particular, you
+agree not to use this data to allow, enable, or otherwise make possible,
+dissemination or collection of this data, in part or in its entirety, for any
+purpose, such as the transmission of unsolicited advertising and solicitations
+of any kind, including spam. You further agree not to use this data to enable
+high volume, automated or robotic electronic processes designed to collect or
+compile this data for any purpose, including mining this data for your own
+personal or commercial purposes.
+
+
+
+ --------------------------------------- 
+       This domain may be for sale!      
+            visit BuyDomains             
+       http://www.buydomains.com         
+          Phone: 339-222-5132                
+     or email brokerage@buydomains.com         
+ --------------------------------------- 
+

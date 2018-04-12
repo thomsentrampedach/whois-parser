@@ -1,0 +1,59 @@
+Domain Name: MCFLY-ITALIA.COM
+Registry Domain ID: 1575322408_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.register.it
+Registrar URL: http://we.register.it
+Updated Date: 2017-10-19T00:00:00Z
+Creation Date: 2013-11-13T00:00:00Z
+Registrar Registration Expiration Date: 2018-11-11T00:00:00Z
+Registrar: REGISTER.IT S.P.A.
+Registrar IANA ID: 168
+Registrar Abuse Contact Email: abuse@register.it
+Registrar Abuse Contact Phone: +39.5520021555
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID:
+Registrant Name: Michela Marcucci
+Registrant Organization: Michela Marcucci
+Registrant Street: Via Dei Canozi 35
+Registrant City: Padova
+Registrant State/Province: PD
+Registrant Postal Code: 35133
+Registrant Country: IT
+Registrant Phone: +39.3479924036
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: miketosk@gmail.com
+Registry Admin ID:
+Admin Name: Michela Marcucci
+Admin Organization: Michela Marcucci
+Admin Street: Via Dei Canozi 35
+Admin City: Padova
+Admin State/Province: PD
+Admin Postal Code: 35133
+Admin Country: IT
+Admin Phone: +39.3479924036
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: miketosk@gmail.com
+Registry Tech ID:
+Tech Name: Technical Support
+Tech Organization: Register.it S.p.A.
+Tech Street: Via Montessori s/n
+Tech City: Bergamo
+Tech State/Province: BG
+Tech Postal Code: 24126
+Tech Country: IT
+Tech Phone: +39.353230400
+Tech Phone Ext:
+Tech Fax: +39.353230312
+Tech Fax Ext:
+Tech Email: support@register.it
+Name Server: NS1.TH.SEEWEB.IT
+Name Server: NS2.TH.SEEWEB.IT
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of whois database: 2018-04-12T03:42:14Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

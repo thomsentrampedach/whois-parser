@@ -1,0 +1,65 @@
+Domain Name: blockgeeks.com
+Registry Domain ID: 2038236232_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.1and1.com
+Registrar URL: http://1and1.com
+Updated Date: 2017-12-01T06:59:28.000Z
+Creation Date: 2016-06-29T16:01:59.000Z
+Registrar Registration Expiration Date: 2023-06-29T16:01:59.000Z
+Registrar: 1&1 Internet SE
+Registrar IANA ID: 83
+Registrar Abuse Contact Email: abuse@1and1.com
+Registrar Abuse Contact Phone: +1.8774612631
+Reseller: 
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Oneandone Private Registration
+Registrant Organization: 1&1 Internet Inc
+Registrant Street: 701 Lee Road Suite 300
+Registrant Street: ATTN
+Registrant City: Chesterbrook
+Registrant State/Province: PA
+Registrant Postal Code: 19087
+Registrant Country: US
+Registrant Phone: +1.8772064254
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: privacy@1and1.ca
+Registry Admin ID: 
+Admin Name: Oneandone Private Registration
+Admin Organization: 1&1 Internet Inc
+Admin Street: 701 Lee Road Suite 300
+Admin Street: ATTN
+Admin City: Chesterbrook
+Admin State/Province: PA
+Admin Postal Code: 19087
+Admin Country: US
+Admin Phone: +1.8772064254
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: privacy@1and1.ca
+Registry Tech ID: 
+Tech Name: Oneandone Private Registration
+Tech Organization: 1&1 Internet Inc
+Tech Street: 701 Lee Road Suite 300
+Tech Street: ATTN
+Tech City: Chesterbrook
+Tech State/Province: PA
+Tech Postal Code: 19087
+Tech Country: US
+Tech Phone: +1.8772064254
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: privacy@1and1.ca
+Nameserver: ns-70.awsdns-08.com
+Nameserver: ns-831.awsdns-39.net
+Nameserver: ns-1757.awsdns-27.co.uk
+Nameserver: ns-1443.awsdns-52.org
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>> Last update of WHOIS database: 2018-04-12T03:36:15Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

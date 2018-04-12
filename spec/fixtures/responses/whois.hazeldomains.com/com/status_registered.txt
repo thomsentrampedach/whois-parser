@@ -1,0 +1,58 @@
+Domain Name: sharenewz.com
+Registry Domain ID: 2221994807_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.maff.com
+Registrar URL: http://www.maff.com
+Updated Date: 2018-02-22T17:31:53Z
+Creation Date: 2018-02-02T03:27:37Z
+Registrar Registration Expiration Date: 2019-02-02T03:27:37Z
+Registrar: HazelDomains, Inc.
+Registrar IANA ID: 1902
+Registrar Abuse Contact Email: abuse@maff.com
+Registrar Abuse Contact Phone: +86.5925990220
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited 
+Registry Registrant ID: 
+Registrant Name: jiajie lin
+Registrant Organization: linjiajie
+Registrant Street: daxinxian,leipingzhen,anmincun,anhantun28hao
+Registrant City: chongzuo
+Registrant State/Province: guangxi
+Registrant Postal Code: 532300
+Registrant Country: China
+Registrant Phone: +86.13025123954
+Registrant Phone Ext: 
+Registrant Fax: +86.13025123954
+Registrant Fax Ext: 
+Registrant Email: eydrf6rfue8erf@sina.com
+Registry Admin ID: 
+Admin Name: jiajie lin
+Admin Organization: linjiajie
+Admin Street: daxinxian,leipingzhen,anmincun,anhantun28hao
+Admin City: chongzuo
+Admin State/Province: guangxi
+Admin Postal Code: 532300
+Admin Country: China
+Admin Phone: +86.13025123954
+Admin Phone Ext: 
+Admin Fax: +86.13025123954
+Admin Fax Ext: 
+Admin Email: eydrf6rfue8erf@sina.com
+Registry Tech ID: 
+Tech Name: jiajie lin
+Tech Organization: linjiajie
+Tech Street: daxinxian,leipingzhen,anmincun,anhantun28hao
+Tech City: chongzuo
+Tech State/Province: guangxi
+Tech Postal Code: 532300
+Tech Country: China
+Tech Phone: +86.13025123954
+Tech Phone Ext: 
+Tech Fax: +86.13025123954
+Tech Fax Ext: 
+Tech Email: eydrf6rfue8erf@sina.com
+Name Server: V1.DNSDUN.COM
+Name Server: V1.DNSDUN.NET
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T11:44:04Z <<<
+
+For more information on Whois status codes, please visit: https://www.icann.org/resources/pages/epp-status-codes-list-2014-06-18-en

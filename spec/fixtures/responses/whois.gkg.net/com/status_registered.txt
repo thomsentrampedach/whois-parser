@@ -1,0 +1,70 @@
+Domain Name: OOYALA.COM
+Registry Domain ID: 911740866_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.gkg.net
+Registrar URL: http://www.gkg.net
+Updated Date: 2010-06-08T19:29:40.0Z
+Creation Date: 2007-04-05T14:09:11.0Z
+Registrar Registration Expiration Date: 2019-04-05T14:09:11.0Z
+Registrar: GKG.NET, INC.
+Registrar IANA ID: 93
+Registrar Abuse Contact Email: abuse@gkg.net
+Registrar Abuse Contact Phone: +1.8776951790
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: GKG-C00002D3FF
+Registrant Name: IT Department
+Registrant Organization: Ooyala
+Registrant Street: 800 W El Camino Real
+Registrant Street: Suite 350
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94040
+Registrant Country: US
+Registrant Phone: +1.6509613400
+Registrant Email: c1c1dd5ce5326cd9c1ec08afcc00493411e6a634@whois.gkg.net
+Registry Admin ID: GKG-C00002D3FF
+Admin Name: IT Department
+Admin Organization: Ooyala
+Admin Street: 800 W El Camino Real
+Admin Street: Suite 350
+Admin City: Mountain View
+Admin State/Province: CA
+Admin Postal Code: 94040
+Admin Country: US
+Admin Phone: +1.6509613400
+Admin Email: c1c1dd5ce5326cd9c1ec08afcc00493411e6a634@whois.gkg.net
+Registry Tech ID: GKG-C00002D3FF
+Tech Name: IT Department
+Tech Organization: Ooyala
+Tech Street: 800 W El Camino Real
+Tech Street: Suite 350
+Tech City: Mountain View
+Tech State/Province: CA
+Tech Postal Code: 94040
+Tech Country: US
+Tech Phone: +1.6509613400
+Tech Email: c1c1dd5ce5326cd9c1ec08afcc00493411e6a634@whois.gkg.net
+Name Server: ASIA9.AKAM.NET
+Name Server: NS1-62.AKAM.NET
+Name Server: EUR6.AKAM.NET
+Name Server: ASIA2.AKAM.NET
+Name Server: USE2.AKAM.NET
+Name Server: ASIA3.AKAM.NET
+Name Server: NS1-19.AKAM.NET
+Name Server: USE10.AKAM.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:  http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-11T22:41:52.0Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Data in GKG.NET's WHOIS database is provided by GKG.NET for information
+purposes, and to assist persons in obtaining information about or related to a
+domain name registration record.  GKG.NET does not guarantee its accuracy.  By
+submitting a WHOIS query, you agree that you will use this Data only for lawful
+purposes and that, under no circumstances will you use this Data to: (1) allow,
+enable, or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via e-mail (spam); or  (2) enable high volume,
+automated, electronic processes that apply to GKG.NET (or its systems).
+GKG.NET reserves the right to modify these terms at any time.  By submitting
+this query, you agree to abide by this policy.
+

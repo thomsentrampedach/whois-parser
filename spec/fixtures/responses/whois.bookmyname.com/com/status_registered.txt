@@ -1,0 +1,81 @@
+Domain Name: abeeway.com
+Registry Domain ID: 1841267230_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.bookmyname.com
+Registrar URL: http://www.bookmyname.com
+Updated Date: 2018-01-04T10:33:48.0Z
+Creation Date: 2014-01-03T17:26:15.0Z
+Registrar Registration Expiration Date: 2019-01-03T17:26:15.0Z
+Registrar: ONLINE SAS
+Registrar IANA ID: 74
+Registrar Abuse Contact Email: abuse_2018+abeeway.com_2600_6c5e_127f_f1d9_39d7_a37e_bce9_f1d@bookmyname.com
+Registrar Abuse Contact Phone: +33.184130099
+Reseller:
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: ******** ******** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Registrant Organization:
+Registrant Street: WHOIS PROXY PRIVACY - Chez Online, 8 rue de la ville l'eveque
+Registrant City: PARIS
+Registrant State/Province:
+Registrant Postal Code: 75008
+Registrant Country: FR
+Registrant Phone: +33.184130099
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: ********@*****.*** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Registry Admin ID:
+Admin Name: ******** ******** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Admin Organization: O2SWITCH
+Admin Street: 222 Boulevard Gustave Flaubert
+Admin City: CLERMONT FERRAND
+Admin State/Province:
+Admin Postal Code: 63000
+Admin Country: FR
+Admin Phone: +*.********** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Admin Phone Ext:
+Admin Fax: +*.********** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Admin Fax Ext:
+Admin Email: ********@*****.*** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Registry Tech ID:
+Tech Name: ******** ******** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Tech Organization: O2SWITCH
+Tech Street: 222 Boulevard Gustave Flaubert
+Tech City: CLERMONT FERRAND
+Tech State/Province:
+Tech Postal Code: 63000
+Tech Country: FR
+Tech Phone: +*.********** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Tech Phone Ext:
+Tech Fax: +*.********** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Tech Fax Ext:
+Tech Email: ********@*****.*** (https://www.bookmyname.com/whois.cgi to view unmasked data)
+Name Server: ns1.o2switch.net
+Name Server: ns2.o2switch.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:26.0Z <<<
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+For support or more information about this domain name please contact
+<a href="http://www.o2switch.fr/">http://www.o2switch.fr/</a>
+
+%% Whois
+%% 
+%% NOTICE: Access to this information is provided to assist persons
+%% in determining the contents of a domain name registration record in
+%% our database. The data in this record is provided for informational
+%% purposes only.
+%% You agree that you will use this data only for lawful purposes and
+%% that, under no circumstances will you use this data to: (a) allow,
+%% enable, or otherwise support the transmission by e-mail, telephone, or
+%% facsimile of mass unsolicited, commercial advertising or solicitations
+%% to entities other than the data recipient's own existing customers;
+%% or (b) enable high volume, automated, electronic processes that
+%% send queries or data to the systems of Registry Operator or any
+%% ICANN-Accredited Registrar, except as reasonably necessary to register
+%% domain names or modify existing registrations.
+%% All rights reserved. These terms can be modify at any time.
+%% By submitting this query, you agree to abide by this policy.

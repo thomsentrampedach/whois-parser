@@ -1,0 +1,58 @@
+Domain Name: 1001SEAFOODS.COM
+Registry Domain ID: 137861467_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registermatrix.com
+Registrar URL: http://www.registermatrix.com
+Updated Date: 2017-11-28T09:11:50Z
+Creation Date: 2004-12-21T00:57:42Z
+Registrar Registration Expiration Date: 2018-12-21T00:57:42Z
+Registrar: Media Elite Holdings Limited
+Registrar IANA ID: 1114
+Registrar Abuse Contact Email: billing@registermatrix.com
+Registrar Abuse Contact Phone: +507.8365079
+Reseller: 
+Domain Status: clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Administrator
+Registrant Organization: Fundacion Privacy Services LTD
+Registrant Street: 3rd Floor Humbolt Tower, Calle 53 Este
+Registrant City: Panama City
+Registrant State/Province: 
+Registrant Postal Code: n/a
+Registrant Country: PA
+Registrant Phone: +507.8365079
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: fundacionprivacy@protonmail.com
+Registry Admin ID: 
+Admin Name: Domain Administrator
+Admin Organization: Fundacion Privacy Services LTD
+Admin Street: 3rd Floor Humbolt Tower, Calle 53 Este
+Admin City: Panama City
+Admin State/Province: 
+Admin Postal Code: n/a
+Admin Country: PA
+Admin Phone: +507.8365079
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: fundacionprivacy@protonmail.com
+Registry Tech ID: 
+Tech Name: Domain Administrator
+Tech Organization: Fundacion Privacy Services LTD
+Tech Street: 3rd Floor Humbolt Tower, Calle 53 Este
+Tech City: Panama City
+Tech State/Province: 
+Tech Postal Code: n/a
+Tech Country: PA
+Tech Phone: +507.8365079
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: fundacionprivacy@protonmail.com
+Name Server: ns1.redmonddc.com
+Name Server: ns2.redmonddc.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T00:41:28Z <<<
+

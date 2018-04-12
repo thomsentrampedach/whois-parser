@@ -1,0 +1,80 @@
+Domain Name: meghanjoyward.com
+Registry Domain ID: 1419343358_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.planetdomain.com
+Registrar URL: www.netregistry.com.au
+Updated Date: 2018-02-08T00:00:29Z
+Creation Date: 2008-03-10T19:24:08Z
+Registrar Registration Expiration Date: 2019-03-10T19:24:09Z
+Registrar: PlanetDomain Pty Ltd
+Registrar IANA ID: 240
+Registrar Abuse Contact Email: feedback@netregistry.com.au
+Registrar Abuse Contact Phone: +61.299340501
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID:
+Registrant Name: Meghan Ward
+Registrant Organization: Meghan Ward
+Registrant Street: Box 1543   
+Registrant City: Banff
+Registrant State/Province: ALBERTA (AB)
+Registrant Postal Code: T1L1B5
+Registrant Country: CA
+Registrant Phone: +40.34310539
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: meghanjward@gmail.com
+Registry Admin ID:
+Admin Name: Meghan Ward
+Admin Organization: Meghan Ward
+Admin Street: Box 1543   
+Admin City: Banff
+Admin State/Province: ALBERTA (AB)
+Admin Postal Code: T1L1B5
+Admin Country: CA
+Admin Phone: +40.34310539
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: meghanjward@gmail.com
+Registry Tech ID:
+Tech Name: Meghan Ward
+Tech Organization: Meghan Ward
+Tech Street: Box 1543   
+Tech City: Banff
+Tech State/Province: ALBERTA (AB)
+Tech Postal Code: T1L1B5
+Tech Country: CA
+Tech Phone: +40.34310539
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: meghanjward@gmail.com
+Name Server: NS3.WORDPRESS.COM
+Name Server: NS2.WORDPRESS.COM
+Name Server: NS1.WORDPRESS.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>> Last update of WHOIS database: 2018-04-12T03:42:58Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+---WHOIS details provided by Netregistry Pty Ltd.
+
+NOTICE: Access to WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the NetRegistry
+registry database. The data in this record is provided by Net Registry
+for informational purposes only, and NetRegistry does not guarantee its
+accuracy. This service is intended only for query-based access. You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations. All
+rights reserved. NetRegistry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+

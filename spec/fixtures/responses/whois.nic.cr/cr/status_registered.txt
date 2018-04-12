@@ -1,0 +1,40 @@
+% Domain Information over Whois protocol
+% 
+% Whoisd Server Version: 3.10.2
+% Timestamp: Wed Apr 11 21:39:44 2018
+
+domain:       budget.co.cr
+registrant:   FCORELLA_AT_BUDGET.CO.CR
+admin-c:      FCORELLA_AT_BUDGET.CO.CR
+nsset:        BUDGET_CO_CR
+registrar:    NIC-REG1
+registered:   30.04.1997 06:00:00
+changed:      10.04.2018 04:38:51
+expire:       28.04.2019
+
+contact:      FCORELLA_AT_BUDGET.CO.CR
+org:          Centriz CR S.A
+name:         Paulo Vargas Jimenez
+address:      300m norte del Hotel Hamton Inn. Oficentro Santa Mara
+address:      Rio Segundo
+address:      20109
+address:      Alajuela
+address:      CR
+phone:        +506.50624362051
+fax-no:       +506.50624362001
+e-mail:       fcorella@budget.co.cr
+registrar:    NIC-REG1
+created:      03.06.2011 10:36:40
+changed:      27.07.2016 04:43:00
+
+nsset:        BUDGET_CO_CR
+nserver:      ns-29.awsdns-03.com 
+nserver:      ns-1642.awsdns-13.co.uk 
+nserver:      ns-1310.awsdns-35.org 
+nserver:      ns-890.awsdns-47.net 
+tech-c:       FCORELLA_AT_BUDGET.CO.CR
+registrar:    NIC-REG1
+created:      08.11.2016 04:23:52
+changed:      30.05.2017 10:00:10
+
+

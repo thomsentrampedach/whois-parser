@@ -1,0 +1,73 @@
+Domain Name: weverducre.com
+Registry Domain ID: 151408137_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.enterprice.net
+Registrar URL: http://www.epag.de/en/whois/
+Updated Date: 2017-04-18T07:31:32Z
+Creation Date: 2005-04-17T05:20:55Z
+Registrar Registration Expiration Date: 2018-04-17T05:20:55Z
+Registrar: EPAG Domainservices GmbH
+Registrar IANA ID: 85
+Registrar Abuse Contact Email: legal@tucows.com
+Registrar Abuse Contact Phone: +1.4165350123
+Reseller: UPC
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: Michael Engel
+Registrant Organization: Wever & Ducre GmbH
+Registrant Street: Auer Welsbachgasse 36
+Registrant City: Graz
+Registrant State/Province: Steiermark
+Registrant Postal Code: 8055
+Registrant Country: AT
+Registrant Phone: +43.3163170
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: wolfgang.moskon@xal.com
+Registry Admin ID: 
+Admin Name: Michael Engel
+Admin Organization: Wever & Ducre GmbH
+Admin Street: Auer Welsbachgasse 36
+Admin City: Graz
+Admin State/Province: Steiermark
+Admin Postal Code: 8055
+Admin Country: AT
+Admin Phone: +43.3163170
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: wolfgang.moskon@xal.com
+Registry Tech ID: 
+Tech Name: Host Master
+Tech Organization: UPC Austria Gmbh
+Tech Street: Wolfganggasse 58-60
+Tech City: Wien
+Tech State/Province: Wien
+Tech Postal Code: 1120
+Tech Country: AT
+Tech Phone: +43.599994000
+Tech Phone Ext: 
+Tech Fax: +43.5999912620
+Tech Fax Ext: 
+Tech Email: dom-reg@inode.at
+Name Server: dns1.inode.at
+Name Server: dns2.inode.at
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:21Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+% EPAG Whois-Server Version 4.0 (11-12-2013)
+% The Data in this WHOIS database is provided by EPAG Domainservices GmbH
+% (EPAG) for information purposes, and to assist persons in obtaining
+% information about or related to a domain name registration record.
+% EPAG does not guarantee its accuracy. By submitting a WHOIS query,
+% you agree that you will use this Data only for lawful purposes and that,
+% under no circumstances will you use this Data to:
+% (1) allow, enable, or otherwise support the transmission of mass
+% unsolicited, commercial advertising or solicitations via e-mail (spam);
+% (2) enable high volume, automated, electronic processes that apply to
+% EPAG (or its systems).
+% EPAG reserves the right to modify these terms at any time. By submitting
+% this query, you agree to abide by this policy.

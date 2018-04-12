@@ -1,0 +1,79 @@
+Domain Name: BIOMOUV.COM
+Registry Domain ID: 1532347149_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.retailstudio.com
+Registrar URL: http://www.netissime.com
+Updated Date: 2017-11-10T08:03:09Z
+Creation Date: 2008-12-10T19:00:18Z
+Registrar Registration Expiration Date: 2018-12-10T19:00:18Z
+Registrar: ELB Group, Inc.
+Registrar IANA ID: 820
+Domain Status: OK https://icann.org/epp#OK
+Registry Registrant ID: Not Available From Registry
+Registrant Name: PASCAL Sebastien
+Registrant Organization: BIOMOUV SAS
+Registrant Street: Cap Oméga Rond Point Benjamin Franklin CS 39 521   
+Registrant City: Montpellier  Cedex 2
+Registrant State/Province: 
+Registrant Postal Code: 34960
+Registrant Country: FR
+Registrant Phone: +33.467130158
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: sebastien.pascal@biomouv.com
+Registry Admin ID: Not Available From Registry
+Admin Name: PASCAL Sebastien
+Admin Organization: BIOMOUV SAS
+Admin Street: Cap Oméga Rond Point Benjamin Franklin CS 39 521  
+Admin City: Montpellier  Cedex 2
+Admin State/Province: 
+Admin Postal Code: 34960
+Admin Country: FR
+Admin Phone: +33.467130158
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: sebastien.pascal@biomouv.com
+Registry Tech ID: Not Available From Registry
+Tech Name: PASCAL Sebastien
+Tech Organization: BIOMOUV SAS
+Tech Street: Cap Oméga Rond Point Benjamin Franklin CS 39 521  
+Tech City: Montpellier  Cedex 2
+Tech State/Province: 
+Tech Postal Code: 34960
+Tech Country: FR
+Tech Phone: +33.467130158
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: sebastien.pascal@biomouv.com
+Name Server: ns3.dns26.net
+Name Server: ns4.dns26.net
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@netissime.com
+Registrar Abuse Contact Phone: +33.0974763926
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:29Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: NETISSIME.COM
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is ELB Group, Inc.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

@@ -1,0 +1,60 @@
+
+Domain Name: lindensingers.com
+Registry Domain ID: 1960796847_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.webnames.ca
+Registrar URL: https://www.webnames.ca
+Updated Date: 2018-03-11T03:00:57Z
+Creation Date: 2015-09-16T04:43:41Z
+Registrar Registration Expiration Date: 2018-09-16T04:43:41Z
+Registrar: WEBNAMES.CA INC
+Registrar IANA ID: 456
+Registrar Abuse Contact Email: abuse@webnames.ca
+Registrar Abuse Contact Phone: +1.8662217878
+Domain Status: clientTransferProhibited 
+Registry Registrant ID: 
+Registrant Name: David Carl
+Registrant Organization: Linden Singers of Victoria
+Registrant Street: 3529 Salsbury Way 
+Registrant City: Victoria
+Registrant State/Province: BC
+Registrant Postal Code: V8P 3K7
+Registrant Country: CA
+Registrant Phone: +1.2503832270
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: david@vicmicro.com
+Registry Admin ID: 
+Admin Name: David Carl
+Admin Organization: Linden Singers of Victoria
+Admin Street: 3529 Salsbury Way 
+Admin City: Victoria
+Admin State/Province: BC
+Admin Postal Code: V8P 3K7
+Admin Country: CA
+Admin Phone: +1.2503832270
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: david@vicmicro.com
+Registry Tech ID: 
+Tech Name: David Carl
+Tech Organization: Linden Singers of Victoria
+Tech Street: 3529 Salsbury Way 
+Tech City: Victoria
+Tech State/Province: BC
+Tech Postal Code: V8P 3K7
+Tech Country: CA
+Tech Phone: +1.2503832270
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: david@vicmicro.com
+Name Server: ns1.webnames.ca
+Name Server: ns2.webnames.ca
+Name Server: ns3.webnames.ca
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en/
+&gt;&gt;&gt; Last update of WHOIS database: 2018-03-11T03:00:57Z &lt;&lt;&lt;
+

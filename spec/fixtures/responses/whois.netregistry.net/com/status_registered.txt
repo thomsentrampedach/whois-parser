@@ -1,0 +1,81 @@
+Domain Name: studyadelaide.com
+Registry Domain ID: 32597189_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.netregistry.com.au
+Registrar URL: http://www.netregistry.com.au
+Updated Date: 2016-08-10T06:44:02Z
+Creation Date: 2000-08-09T08:15:21Z
+Registrar Registration Expiration Date: 2018-08-09T08:15:21Z
+Registrar: Netregistry Pty Ltd
+Registrar IANA ID: 677
+Registrar Abuse Contact Email: feedback@netregistry.com.au
+Registrar Abuse Contact Phone: +61.299340501
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID:
+Registrant Name: Amaury Gourrier
+Registrant Organization: StudyAdelaide
+Registrant Street: GPO Box 2814   
+Registrant City: Adelaide
+Registrant State/Province: SA
+Registrant Postal Code: 5000
+Registrant Country: AU
+Registrant Phone: +61.82260022
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: AmauryGourrier@studyadelaide.com
+Registry Admin ID:
+Admin Name: Study Adelaide
+Admin Organization: StudyAdelaide
+Admin Street: GPO Box 2814   
+Admin City: Adelaide
+Admin State/Province: SA
+Admin Postal Code: 5001
+Admin Country: AU
+Admin Phone: +82.260022
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: enquiries@studyadelaide.com
+Registry Tech ID:
+Tech Name: Bryn Liepins
+Tech Organization: KWP! Advertising Pty. Ltd.
+Tech Street: 6 Solomon Street   
+Tech City: Adelaide
+Tech State/Province: SA
+Tech Postal Code: 5000
+Tech Country: AU
+Tech Phone: +61.882179111
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: digital@kwp.com.au
+Name Server: NS1.DNSIMPLE.COM
+Name Server: NS2.DNSIMPLE.COM
+Name Server: NS3.DNSIMPLE.COM
+Name Server: NS4.DNSIMPLE.COM
+DNSSEC: Unsigned delegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>> Last update of WHOIS database: 2018-04-12T03:42:42Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+---WHOIS details provided by Netregistry Pty Ltd.
+
+NOTICE: Access to WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the NetRegistry
+registry database. The data in this record is provided by Net Registry
+for informational purposes only, and NetRegistry does not guarantee its
+accuracy. This service is intended only for query-based access. You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations. All
+rights reserved. NetRegistry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+

@@ -1,0 +1,48 @@
+Domain Name:                  repar-tout.com
+Domain ID:                    1839714327_DOMAIN_COM-VRSN
+Sponsoring Registrar:         LWS dba Ligne Web Services
+Sponsoring Registrar IANA ID: 1630
+WHOIS Server:                 whois.lws.net
+Referral URL:                 www.lws.fr
+Creation Date:                2013-12-19T13:17:19Z
+Updated Date:                 2018-04-12T02:42:09Z
+Registry Expiry Date:         2019-12-19T13:17:19Z
+Domain Status:                 clientHold More informations on : https://www.icann.org/epp
+Registrant ID:                166851-0-0-0
+Registrant Name:              pastour samantha
+Registrant Street:            8 residence du clos de verrieres
+Registrant City:              verrieres le buisson
+Registrant Postal Code:       91370
+Registrant Country:           FR
+Registrant Phone:             +.33669412707
+Registrant Email:             safiyazzz@gmail.com
+Admin ID:                     166851-0-0-0
+Admin Name:                   pastour samantha
+Admin Street:                 8 residence du clos de verrieres
+Admin City:                   verrieres le buisson
+Admin Postal Code:            91370
+Admin Country:                FR
+Admin Phone:                  +.33669412707
+Admin Email:                  safiyazzz@gmail.com
+Tech ID:                      166851-0-0-0
+Tech Name:                    pastour samantha
+Tech Street:                  8 residence du clos de verrieres
+Tech City:                    verrieres le buisson
+Tech Postal Code:             91370
+Tech Country:                 FR
+Tech Phone:                   +.33669412707
+Tech Email:                   safiyazzz@gmail.com
+Billing ID:                   166851-0-0-0
+Billing Name:                 pastour samantha
+Billing Street:               8 residence du clos de verrieres
+Billing City:                 verrieres le buisson
+Billing Postal Code:          91370
+Billing Country:              FR
+Billing Phone:                +.33669412707
+Billing Email:                safiyazzz@gmail.com
+Name Server:                  ns3.lwsdns.com
+Name Server:                  ns4.lwsdns.com
+Name Server:                  ns1.lws-hosting.biz
+Name Server:                  ns2.lws-hosting.biz
+
+Access to Public Interest Registry WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the Public Interest Registry registry database. The data in this record is provided by Public Interest Registry for informational purposes only, and Public Interest Registry does not guarantee its accuracy. This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to(a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Public Interest Registry reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy. For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.

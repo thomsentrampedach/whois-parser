@@ -1,0 +1,82 @@
+Domain Name: fgate.com
+Registry Domain ID: 1523764373_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.hosting.kr
+Registrar URL: http://www.hosting.kr
+Updated Date: 2017-11-17T12:00:00Z
+Creation Date: 2008-10-11T12:00:00Z
+Registrar Registration Expiration Date: 2018-10-11T12:00:00Z
+Registrar: Megazone Corp., dba HOSTING.KR
+Registrar IANA ID: 1489
+Registrar Abuse Contact Email: help@hosting.kr
+Registrar Abuse Contact Phone: +82.16447378
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: beats
+Registrant Organization: beats
+Registrant Street: 202-1902 cimsan1cha prugio chilseongdong2ga Oksan-ro,  Buk-gu
+Registrant City: Daegu
+Registrant State/Province:
+Registrant Postal Code: 41593
+Registrant Country: KR
+Registrant Phone: +82.1064851888
+Registrant Phone Ext:
+Registrant Fax: +82.1077651088
+Registrant Fax Ext:
+Registrant Email: lawyer247@hotmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: beats
+Admin Organization: beats
+Admin Street: 202-1902 cimsan1cha prugio chilseongdong2ga Oksan-ro,  Buk-gu
+Admin City: Daegu
+Admin State/Province:
+Admin Postal Code: 41593
+Admin Country: KR
+Admin Phone: +82.1064851888
+Admin Phone Ext:
+Admin Fax: +82.1077651088
+Admin Fax Ext:
+Admin Email: lawyer247@hotmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: beats
+Tech Organization: beats
+Tech Street: 202-1902 cimsan1cha prugio chilseongdong2ga Oksan-ro,  Buk-gu
+Tech City: Daegu
+Tech State/Province:
+Tech Postal Code: 41593
+Tech Country: KR
+Tech Phone: +82.1064851888
+Tech Phone Ext:
+Tech Fax: +82.1077651088
+Tech Fax Ext:
+Tech Email: lawyer247@hotmail.com
+Name Server: ns1.parkingcrew.net
+Name Server: ns2.parkingcrew.net
+Name Server: 
+Name Server: 
+Name Server: 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-11-17T12:00:00Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Welcome to Megazone Corp. dba hosting.kr WHOIS data service.
+
+The data contained in hosting.kr's WhoIs database.
+Megazone Corp. does not guarantee accuracy for WHOIS.
+This information is provided for the sole purpose of assisting you in
+obtaining information about domain name registration records.
+
+Megazone Corp. is Domain & Hosting provider, very huge web agency Company, 
+No. 1 in Korea and operating "Online Marketing & Promotion", "3D & Motion", 
+"eCommerce" and "Web Portal Service". We offer all service regarding 
+Information Technical and we have many experience for domain & hosting and 
+web agency solution. If you want to find partner of IT industry, 
+contact Megazone Corp. dba hosting.kr.
+
+We are creating high value service and low in price for domain 
+& hosting providing. Obtain good service for domain name registration, 
+transfer or renewal with any hosting package with <a href="http://www.hosting.kr">http://www.hosting.kr</a>
+
+Thank you for finding domain name of hosting.kr    

@@ -1,0 +1,80 @@
+
+
+Domain Name: DIANAKRALL.COM
+Registry Domain ID: 577122_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domainpeople.com
+Registrar URL: www.domainpeople.com
+Updated Date: 2012-09-25T00:18:20.00Z
+Creation Date: 1997-10-26T04:00:00.00Z
+Registrar Registration Expiration Date: 2022-10-25T00:00:00.00Z
+Registrar: DOMAINPEOPLE, INC.
+Registrar IANA ID: 65
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: 
+Registrant Organization: DARRELL GILMOUR
+Registrant Street: 1505 W. 2ND AVE. SUITE 200
+Registrant City: VANCOUVER
+Registrant State/Province: BC
+Registrant Postal Code: V6H3Y4
+Registrant Country: CA
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: INTERNETADMIN@MFMGT.COM
+Registry Admin ID: 
+Admin Name: DARRELL GILMOUR
+Admin Organization: DARRELL GILMOUR
+Admin Street: 1505 W. 2ND AVE. SUITE 200
+Admin City: VANCOUVER
+Admin State/Province: BC
+Admin Postal Code: V6H3Y4
+Admin Country: CA
+Admin Phone: +1.6043777789
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: INTERNETADMIN@MFMGT.COM
+Registry Tech ID: 
+Tech Name: DOMAIN ADMIN
+Tech Organization: DOMAIN PEOPLE
+Tech Street: BENTALL 5, SUITE 200
+Tech City: VANCOUVER
+Tech State/Province: BC
+Tech Postal Code: V6C2B5
+Tech Country: CA
+Tech Phone: +1.6046391680
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: SUPPORT@DOMAINPEOPLE.COM
+Name Server: NS1.UMUSIC.COM
+Name Server: NS2.UMUSIC.COM
+Name Server: NS5.UMUSIC.COM
+DNSSEC: unSigned
+Registrar Abuse Contact Email: abuse@domainpeople.com
+Registrar Abuse Contact Phone: +1.6046391680
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2012-09-25T00:18:20.00Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available "as is," and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone. The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  
+
+We reserve the right to modify these terms at any time. By submitting 
+this query, you agree to abide by these terms.
+Version 6.3 4/3/2002

@@ -1,0 +1,99 @@
+Domain Name: MIAGEN.COM
+Registry Domain ID: 563864743_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.blacknight.com
+Registrar URL: https://www.blacknight.com/
+Updated Date: 2017-07-31T01:11:38Z
+Creation Date: 2006-08-21T00:00:00Z
+Registrar Registration Expiration Date: 2018-08-21T00:00:00Z
+Registrar: Blacknight Internet Solutions Ltd.
+Registrar IANA ID: 1448
+Registrar Abuse Contact Email: abuse@blacknight.com
+Registrar Abuse Contact Phone: +353.599183072
+Reseller: 
+Domain Status: clientTransferProhibited (http://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID:
+Registrant Name: MIAGEN Limited
+Registrant Organization: 
+Registrant Street: MIAGEN Ltd
+Registrant Street: MIAGEN House, 14/15 St. Andrew's Street
+Registrant City: Dublin 2
+Registrant State/Province: Co. Dublin
+Registrant Postal Code: 2
+Registrant Country: IE
+Registrant Phone: +353.19695900
+Registrant Phone Ext.:
+Registrant Fax: -
+Registrant Fax Ext: 
+Registrant Email: accounts@miagen.com
+Registry Admin ID:
+Admin Name: Teddy Murphy
+Admin Organization: 
+Admin Street: 14/15 St Andrews St
+Admin Street: 
+Admin City: Dublin 2
+Admin State/Province: Co. Dublin
+Admin Postal Code: 
+Admin Country: IE
+Admin Phone: +353.16641444
+Admin Phone Ext.:
+Admin Fax: -
+Admin Fax Ext: 
+Admin Email: tmurphy@miagen.com
+Registry Tech ID:
+Tech Name: Teddy Murphy
+Tech Organization: 
+Tech Street: 14/15 St Andrews St
+Tech Street: 
+Tech City: Dublin 2
+Tech State/Province: Co. Dublin
+Tech Postal Code: 
+Tech Country: IE
+Tech Phone: +353.16641444
+Tech Phone Ext.:
+Tech Fax: -
+Tech Fax Ext: 
+Tech Email: tmurphy@miagen.com
+Name Server: NS1.BLACKNIGHT.COM
+Name Server: NS2.BLACKNIGHT.COM
+Name Server: NS3.BLACKNIGHT.COM
+Name Server: NS4.BLACKNIGHT.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T04:42:56Z <<<
+
+For information on the meaning of domain status codes, see:
+
+   https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data in the Blacknight Internet Solutions ("Blacknight") registrar
+WHOIS database is provided to you for information purposes only, and may
+be used to assist you in obtaining information about or related to a
+domain name's registration record.
+
+Blacknight makes this information available "as is" and does not
+guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use this data only
+for lawful purposes and that, under no circumstances will you use this
+data to: (a) allow, enable, or otherwise support the transmission by
+e-mail, telephone, or facsimile of mass, unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated, electronic
+processes that send queries or data to the systems of any Registry
+Operator or ICANN-Accredited registrar, except as reasonably necessary
+to register domain names or modify existing registrations.
+
+The compilation, repackaging, dissemination or other use of this data is
+expressly prohibited without the prior written consent of Blacknight.
+
+Blacknight reserves the right to terminate your access to this WHOIS
+database in its sole discretion, including without limitation, for
+excessive querying of the WHOIS database or for failure to otherwise
+abide by this policy.
+
+Blacknight reserves the right to modify these terms at any time.
+
+By submitting this query, you agree to abide by these terms.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY. LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.

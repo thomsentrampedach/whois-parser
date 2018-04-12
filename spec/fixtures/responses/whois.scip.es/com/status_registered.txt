@@ -1,0 +1,72 @@
+Domain Name: AGUA-KANGEN.COM
+Registry Domain ID: 1813864287_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.scip.es
+Registrar URL: http://www.dondominio.com
+Updated Date: 2017-11-11T09:38:42+01:00
+Creation Date: 2013-07-09T08:11:22+02:00
+Registrar Registration Expiration Date: 2024-07-09T08:11:22+02:00
+Registrar: DonDominio (SCIP)
+Registrar IANA ID: 1383
+Registrar Abuse Contact Email: abuse@scip.es
+Registrar Abuse Contact Phone: +34.871-98-63-87
+Reseller: 
+Domain Status: ok (http://www.icann.org/epp#ok)
+Registry Registrant ID:
+Registrant Name: Whois Privacy Service Protects this domain 
+Registrant Organization: Only contact by email, all postal mail will be rejected
+Registrant Street: Ronda Institut, 24	
+Registrant City: Manacor
+Registrant State/Province: Illes Balears
+Registrant Postal Code: 07500
+Registrant Country: ES
+Registrant Phone: +34.871987733
+Registrant Phone Ext:
+Registrant Fax: +34.871986601
+Registrant Fax Ext:
+Registrant Email: agua-kangen.com@whoisprivacycontact.com
+Registry Admin ID:
+Admin Name: Whois Privacy Service Protects this domain 
+Admin Organization: Only contact by email, all postal mail will be rejected
+Admin Street: Ronda Institut, 24	
+Admin City: Manacor
+Admin State/Province: Illes Balears
+Admin Postal Code: 07500
+Admin Country: ES
+Admin Phone: +34.871987733
+Admin Phone Ext:
+Admin Fax: +34.871986601
+Admin Fax Ext:
+Admin Email: agua-kangen.com@whoisprivacycontact.com
+Registry Tech ID:
+Tech Name: Whois Privacy Service Protects this domain 
+Tech Organization: Only contact by email, all postal mail will be rejected
+Tech Street: Ronda Institut, 24	
+Tech City: Manacor
+Tech State/Province: Illes Balears
+Tech Postal Code: 07500
+Tech Country: ES
+Tech Phone: +34.871987733
+Tech Phone Ext:
+Tech Fax: +34.871986601
+Tech Fax Ext:
+Tech Email: agua-kangen.com@whoisprivacycontact.com
+Name Server: NS7.DONDOMINIO.COM
+Name Server: NS2.DONDOMINIO.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T05:44:00+02:00 <<<
+
+For information on the meaning of domain status codes, see:
+
+   https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+
+This WHOIS database is provided for information purposes only. We do
+not guarantee the accuracy of this data. The following uses of this
+system are expressly prohibited: (1) use of this system for unlawful
+purposes; (2) use of this system to collect information used in the
+mass transmission of unsolicited commercial messages in any medium;
+(3) use of high volume, automated, electronic processes against this
+database. By submitting this query, you agree to abide by this
+policy.
+

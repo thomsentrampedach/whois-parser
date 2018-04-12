@@ -1,0 +1,54 @@
+Domain Name: SHYTER.NET
+Registry Domain ID: 1576044683_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.regtime.net
+Registrar URL: http://www.webnames.ru
+Updated Date: 2017-11-15T08:21:06Z
+Creation Date: 2009-11-17T00:00:00Z
+Registrar Registration Expiration Date: 2018-11-17T04:00:00Z
+Registrar: REGTIME LTD.
+Registrar IANA ID: 1362
+Registrar Abuse Contact Email: abuse@regtime.net
+Registrar Abuse Contact Phone: +7.8463733047
+Domain Status: OK
+Registry Registrant ID: 
+Registrant Name: Kuznecov U Viktor
+Registrant Organization: Private person
+Registrant Street: Kreschatik 26
+Registrant City: Kiev
+Registrant State/Province: Kiev
+Registrant Postal Code: 02002
+Registrant Country: UA
+Registrant Phone: +380.972459494
+Registrant Email: xss@bigmir.net
+Registry Admin ID: 
+Admin Name: Kuznecov U Viktor
+Admin Organization: Private person
+Admin Street: Kreschatik 26
+Admin City: Kiev
+Admin State/Province: Kiev
+Admin Postal Code: 02002
+Admin Country: UA
+Admin Phone: +380.972459494
+Admin Email: xss@bigmir.net
+Registry Tech ID: 
+Tech Name: Kuznecov U Viktor
+Tech Organization: Private person
+Tech Street: Kreschatik 26
+Tech City: Kiev
+Tech State/Province: Kiev
+Tech Postal Code: 02002
+Tech Country: UA
+Tech Phone: +380.972459494
+Tech Email: xss@bigmir.net
+Name Server: NS1.UA-HOSTING.COMPANY
+Name Server: NS2.UA-HOSTING.COMPANY
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:44:10Z <<<
+
+Copy and paste the link below to view additional details:
+http://www.webnames.ru/scripts/who.pl?domain=shyter.net
+
+
+
+

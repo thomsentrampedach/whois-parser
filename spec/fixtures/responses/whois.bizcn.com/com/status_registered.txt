@@ -1,0 +1,75 @@
+Domain name: taglette.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.bizcn.com
+Registrar URL: http://www.bizcn.com
+Updated Date: 2017-09-22T06:47:40Z
+Creation Date: 2013-04-22T19:16:40Z
+Registrar Registration Expiration Date: 2018-04-22T19:16:40Z
+Registrar: Bizcn.com,Inc.
+Registrar IANA ID: 471
+Registrar Abuse Contact Email: abuse@bizcn.com
+Registrar Abuse Contact Phone: +86.5922577888
+Reseller: 
+Domain Status: clientDeleteProhibited (http://www.icann.org/epp#clientDeleteProhibited)
+Domain Status: clientTransferProhibited (http://www.icann.org/epp#clientTransferProhibited)
+Registry Registrant ID: Not Available From Registry 
+Registrant Name: MEHMET IMRAK
+Registrant Organization: MEHMETIMRAK
+Registrant Street: HALASKARGAZICD.SADIKLAR2APT.NO:198/1SISLI
+Registrant City: ISTANBUL
+Registrant State/Province: TR
+Registrant Postal Code: 34360
+Registrant Country: cn
+Registrant Phone: +90.2122313212
+Registrant Phone Ext: 
+Registrant Fax: +90.2122191038
+Registrant Fax Ext: 
+Registrant Email: info@taglette.com
+Registry Admin ID: Not Available From Registry
+Admin Name: MEHMET IMRAK
+Admin Organization: 
+Admin Street: HALASKARGAZICD.SADIKLAR2APT.NO:198/1SISLI
+Admin City: ISTANBUL
+Admin State/Province: TR
+Admin Postal Code: 34360
+Admin Country: TR
+Admin Phone: +90.2122313212
+Admin Phone Ext: 
+Admin Fax: +90.2122191038
+Admin Fax Ext: 
+Admin Email: info@taglette.com
+Registry Tech ID: Not Available From Registry
+Tech Name: MEHMET IMRAK
+Tech Organization: 
+Tech Street: HALASKARGAZICD.SADIKLAR2APT.NO:198/1SISLI
+Tech City: ISTANBUL
+Tech State/Province: TR
+Tech Postal Code: 34360
+Tech Country: cn
+Tech Phone: +90.2122313212
+Tech Phone Ext: 
+Tech Fax: +90.2122191038
+Tech Fax Ext: 
+Tech Email: info@taglette.com
+Name Server: ns1.websahibi.com
+Name Server: ns2.websahibi.com
+DNSSEC: unsignedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:43Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+The data in this whois database is provided to you for information
+purposes only, that is, to assist you in obtaining information about or
+related to a domain name registration record. We make this information
+available "as is," and do not guarantee its accuracy. By submitting a
+whois query, you agree that you will use this data only for lawful
+purposes and that, under no circumstances will you use this data to: (1)
+enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or (2) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic
+mail, or by telephone.  The compilation, repackaging, dissemination or
+other use of this data is expressly prohibited without prior written
+consent from us.  We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

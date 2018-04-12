@@ -1,0 +1,78 @@
+Domain Name: writersdigest.com
+Registry Domain ID: 1572973_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domainit.com
+Registrar URL: http://www.domainit.com
+Update Date: 2018-01-06 13:26:48
+Creation Date: 1998-02-10
+Registrar Registration Expiration Date: 2019-02-09
+Registrar: Domain-It!
+Registrar IANA ID: 412
+Registrar Abuse Contact Email: abuse@domainit.com 
+Registrar Abuse Contact Phone: +1.5133514222
+Reseller:
+Domain Status: ok
+Registry Registrant ID:
+Registrant Name: DNS Admin
+Registrant Organization: FW Media
+Registrant Street: 10151 Carver Rd Suite 200
+Registrant City: Blue Ash
+Registrant State/Province: Ohio
+Registrant Postal Code: 45242
+Registrant Country: US
+Registrant Phone: +1.5135312690
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: dnsadmin@fwmedia.com
+Registry Admin ID:
+Admin Name: DNS Admin
+Admin Organization: FW Media
+Admin Street: 10151 Carver Rd Suite 200
+Admin City: Blue Ash
+Admin State/Province: Ohio
+Admin Postal Code: 45242
+Admin Country: US
+Admin Phone: +1.5135312690
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: dnsadmin@fwmedia.com
+Registry Tech ID:
+Tech Name: Domain-it  Hostmaster
+Tech Organization: Domain-it!, Inc.
+Tech Street: 9891 Montgomery Road, #225
+Tech City: Cincinnati
+Tech State/Province: OH
+Tech Postal Code: 45242
+Tech Country: US
+Tech Phone: +1.5133514222
+Tech Phone Ext:
+Tech Fax: +1.5133514222
+Tech Fax Ext:
+Tech Email: hostmaster@domainit.com
+Name Server: a1.uberns.com
+Name Server: b1.uberns.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-01-06 13:26:48 <<<
+
+
+Accesses today: 1 / 20
+
+The data in Domainit.com's WHOIS database is provided to you by
+Domainit.com for information purposes only, namely to assist you in
+obtaining information about or related to a domain name registration
+record.  Domainit.com makes this information available as is, and
+does not guarantee its accuracy.  By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Domainit.com (or its systems).  The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Domainit.com.
+Domainit.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+

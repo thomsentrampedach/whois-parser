@@ -1,0 +1,76 @@
+Domain Name: LONDONCENTRAL1.COM
+Registry Domain ID: 2176284416_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.meshdigital.com
+Registrar URL: http://www.domainbox.com
+Updated Date: 2017-10-19T00:00:00Z
+Creation Date: 2017-10-19T00:00:00Z
+Registrar Registration Expiration Date: 2018-10-19T00:00:00Z
+Registrar: 123-Reg Limited
+Registrar IANA ID: 1515
+Registrar Abuse Contact Email: support@domainbox.com
+Registrar Abuse Contact Phone: +1.8779770099
+Reseller: 123Reg/Webfusion
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Identity Protection Service
+Registrant Organization: Identity Protect Limited
+Registrant Street: PO Box 786
+Registrant City: Hayes
+Registrant State/Province: Middlesex
+Registrant Postal Code: UB3 9TR
+Registrant Country: GB
+Registrant Phone: +44.1483307527
+Registrant Phone Ext: 
+Registrant Fax: +44.1483304031
+Registrant Fax Ext: 
+Registrant Email: londoncentral1.com@identity-protect.org
+Registry Admin ID: 
+Admin Name: Identity Protection Service
+Admin Organization: Identity Protect Limited
+Admin Street: PO Box 786
+Admin City: Hayes
+Admin State/Province: Middlesex
+Admin Postal Code: UB3 9TR
+Admin Country: GB
+Admin Phone: +44.1483307527
+Admin Phone Ext: 
+Admin Fax: +44.1483304031
+Admin Fax Ext: 
+Admin Email: londoncentral1.com@identity-protect.org
+Registry Tech ID: 
+Tech Name: Identity Protection Service
+Tech Organization: Identity Protect Limited
+Tech Street: PO Box 786
+Tech City: Hayes
+Tech State/Province: Middlesex
+Tech Postal Code: UB3 9TR
+Tech Country: GB
+Tech Phone: +44.1483307527
+Tech Phone Ext: 
+Tech Fax: +44.1483304031
+Tech Fax Ext: 
+Tech Email: londoncentral1.com@identity-protect.org
+Name Server: ns.123-reg.co.uk
+Name Server: ns2.123-reg.co.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T04:41:29Z <<<
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Data in this WHOIS database is provided
+for information purposes only, and is designed to assist persons in
+obtaining information related to domain name registration records.
+It's accuracy is not guaranteed. By submitting a
+WHOIS query, you agree that you will use this Data only for lawful
+purposes and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+ or (2) enable high volume, automated, electronic processes that
+apply to this WHOIS or any of its related systems. The provider of 
+this WHOIS reserves the right to modify these terms at any time.  
+By submitting this query, you agree to abide by this policy.
+
+LACK OF A DOMAIN RECORD IN THE WHOIS DATABASE DOES 
+NOT INDICATE DOMAIN AVAILABILITY.

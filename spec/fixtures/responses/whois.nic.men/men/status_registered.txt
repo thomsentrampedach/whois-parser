@@ -1,0 +1,85 @@
+Domain Name: chokiwnl.men
+Registry Domain ID: D93C62C09D8424435AECEF5799EC70C5B-NSR
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: http://www.namecheap.com
+Updated Date: 2017-08-28T21:32:30Z
+Creation Date: 2017-08-23T21:32:30Z
+Registry Expiry Date: 2018-08-23T21:32:30Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: C52AC2D6B1294466297BD5EB341F8450A-NSR
+Registrant Name: WhoisGuard Protected
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street: P.O. Box 0823-03411
+Registrant Street:
+Registrant Street:
+Registrant City: Panama
+Registrant State/Province: Panama
+Registrant Postal Code:
+Registrant Country: PA
+Registrant Phone: +507.8365503
+Registrant Phone Ext:
+Registrant Fax: +51.17057182
+Registrant Fax Ext:
+Registrant Email: b61552fe8739453a9e9d0d9e9edb38f2.protect@whoisguard.com
+Registry Admin ID: C47FC538B72864282812B7CFCA3844F4D-NSR
+Admin Name: WhoisGuard Protected
+Admin Organization: WhoisGuard, Inc.
+Admin Street: P.O. Box 0823-03411
+Admin Street:
+Admin Street:
+Admin City: Panama
+Admin State/Province: Panama
+Admin Postal Code:
+Admin Country: PA
+Admin Phone: +507.8365503
+Admin Phone Ext:
+Admin Fax: +51.17057182
+Admin Fax Ext:
+Admin Email: b61552fe8739453a9e9d0d9e9edb38f2.protect@whoisguard.com
+Registry Tech ID: C7CC078AF7539403180E5E60DB73CB36C-NSR
+Tech Name: WhoisGuard Protected
+Tech Organization: WhoisGuard, Inc.
+Tech Street: P.O. Box 0823-03411
+Tech Street:
+Tech Street:
+Tech City: Panama
+Tech State/Province: Panama
+Tech Postal Code:
+Tech Country: PA
+Tech Phone: +507.8365503
+Tech Phone Ext:
+Tech Fax: +51.17057182
+Tech Fax Ext:
+Tech Email: b61552fe8739453a9e9d0d9e9edb38f2.protect@whoisguard.com
+Name Server: dns2.registrar-servers.com
+Name Server: dns1.registrar-servers.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-04-12T03:43:54Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Service is provided so that you may look up certain information in relation to domain names that we store in our database.
+
+Use of the Service is subject to our policies, in particular you should familiarise yourself with our Acceptable Use Policy and our Privacy Policy.
+
+The information provided by this Service is 'as is' and we make no guarantee of it its accuracy.
+
+You agree that by your use of the Service you will not use the information provided by us in a way which is:
+* inconsistent with any applicable laws,
+* inconsistent with any policy issued by us,
+* to generate, distribute, or facilitate unsolicited mass email, promotions, advertisings or other solicitations, or
+* to enable high volume, automated, electronic processes that apply to the Service.
+
+You acknowledge that:
+* a response from the Service that a domain name is 'available', does not guarantee that is able to be registered,
+* we may restrict, suspend or terminate your access to the Service at any time, and
+* the copying, compilation, repackaging, dissemination or other use of the information provided by the Service is not permitted, without our express written consent.
+
+This information has been prepared and published in order to represent administrative and technical management of the TLD.
+
+We may discontinue or amend any part or the whole of these Terms of Service from time to time at our absolute discretion.

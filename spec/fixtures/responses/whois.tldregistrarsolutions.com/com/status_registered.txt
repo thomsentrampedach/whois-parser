@@ -1,0 +1,58 @@
+Domain Name: TORRENTFUNK.COM
+Registry Domain ID: 1588623362_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.tldregistrarsolutions.com
+Registrar URL: http://www.tldregistrarsolutions.com
+Updated Date: 2018-02-12T13:26:19Z
+Creation Date: 2010-03-13T05:10:17Z
+Registrar Registration Expiration Date: 2019-03-13T04:10:17Z
+Registrar: TLD Registrar Solutions Ltd.
+Registrar IANA ID: 1564
+Registrar Abuse Contact Email: abuse@tldregistrarsolutions.com
+Registrar Abuse Contact Phone: +1.5167401179
+Reseller: 
+Domain Status: clientTransferProhibited - http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Whois Privacy Corp.
+Registrant Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Registrant City: Nassau
+Registrant State/Province: New Providence
+Registrant Postal Code: 
+Registrant Country: BS
+Registrant Phone: +1.5163872248
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 555968d0v5njoi1m@5225b4d0pi3627q9.whoisprivacycorp.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Whois Privacy Corp.
+Admin Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Admin City: Nassau
+Admin State/Province: New Providence
+Admin Postal Code: 
+Admin Country: BS
+Admin Phone: +1.5163872248
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: 555968d03887n5kz@5225b4d0pi3627q9.whoisprivacycorp.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Whois Privacy Corp.
+Tech Street: Ocean Centre, Montagu Foreshore, East Bay Street
+Tech City: Nassau
+Tech State/Province: New Providence
+Tech Postal Code: 
+Tech Country: BS
+Tech Phone: +1.5163872248
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: 555968d0p6cj57oc@5225b4d0pi3627q9.whoisprivacycorp.com
+Name Server: andy.ns.cloudflare.com
+Name Server: gina.ns.cloudflare.com
+DNSSEC: signedDelegation
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:25:30Z <<<
+

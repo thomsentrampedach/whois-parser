@@ -1,0 +1,85 @@
+
+Domain Name: IQR0.COM
+Registry Domain ID: 2040603621_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.2imagen.net
+Registrar URL: http://www.2imagen.net/
+Updated Date: 2018-02-13T15:03:21Z
+Creation Date: 2016-07-06T18:45:02Z
+Registrar Registration Expiration Date: 2018-07-06T18:45:02Z
+Registrar: Tecnologia, Desarrollo y Mercado S. de R.L. de C.V.
+Registrar IANA ID: 1582
+Registrar Abuse Contact Email: abuse@2imagen.net
+Registrar Abuse Contact Phone: +52.8789800503
+Reseller: 
+Domain Status: clientTransferProhibited https://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: 
+Registrant Name: Administrador de Dominios
+Registrant Organization: Whois Privacidad SA de CV
+Registrant Street: Col. Prieto 6 calle,
+Registrant Street: 6 y 7 avenida atras de gasolinera Depesa
+Registrant City: San Pedro Sula
+Registrant State/Province: Cortes
+Registrant Postal Code: 21101
+Registrant Country: HN
+Registrant Phone: +503.21130349
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: whoisprivacidad@sent.at
+Registry Admin ID: 
+Admin Name: Administrador de Dominios
+Admin Organization: Whois Privacidad SA de CV
+Admin Street: Col. Prieto 6 calle,
+Admin Street: 6 y 7 avenida atras de gasolinera Depesa
+Admin City: San Pedro Sula
+Admin State/Province: Cortes
+Admin Postal Code: 21101
+Admin Country: HN
+Admin Phone: +503.21130349
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: whoisprivacidad@sent.at
+Registry Tech ID: 
+Tech Name: Administrador de Dominios
+Tech Organization: Whois Privacidad SA de CV
+Tech Street: Col. Prieto 6 calle,
+Tech Street: 6 y 7 avenida atras de gasolinera Depesa
+Tech City: San Pedro Sula
+Tech State/Province: Cortes
+Tech Postal Code: 21101
+Tech Country: HN
+Tech Phone: +503.21130349
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: whoisprivacidad@sent.at
+Name Server: NS5.DNSAUTHORITY.COM
+Name Server: NS4.DNSAUTHORITY.COM
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:44:20Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+Recopilación automatizada de datos de esta base de datos está 
+estrictamente prohibido. Ofrecemos esta información tal cual y no se 
+garantiza su exactitud. Al realizar una consulta a nosotros, usted 
+acepta todos los siguientes términos de uso:
+ - Usted utilizará estos datos sólo para fines legales
+ - Usted no va a permitir que todos los procesos automatizados para 
+   consultar esta base de datos
+ - Usted no utilizará estos datos para apoyar la transmisión de mensajes 
+   comerciales no solicitados solicitaciones de correo electrónico u 
+   otros a través de correo directo, correo electrónico o por teléfono
+ - La recopilacion, redistribución o cualquier otro uso de estos datos 
+   sin nuestro consentimiento previo y por escrito se prohíbe expresamente
+ - La parte identificada en el campo Registrante es responsable de 
+   todos los asuntos con respecto a este dominio, usted debe comunicarse 
+   con ellos no nosotros en el caso de un problema
+Nos reservamos el derecho a modificar estos términos en cualquier 
+momento y puede bloquear el acceso a cualquier persona que creemos que 
+han violado estos términos. Para los contactos de abuso, spam, y UDRP 
+por favor visite http://www.2imagen.net/legales

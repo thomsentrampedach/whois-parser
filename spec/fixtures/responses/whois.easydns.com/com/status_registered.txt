@@ -1,0 +1,74 @@
+Domain Name: ROCKETBUILDERS.COM
+Domain ID: 29092969_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.easydns.com
+Registrar URL: http://www.easydns.com
+Updated Date: 2015-09-15T21:46:44Z
+Creation Date: 2000-06-13T04:18:14Z
+Registrar Registration Expiration Date: 2018-06-13T04:18:14Z
+Registrar: easyDNS Technologies, Inc.
+Registrar IANA ID: 469
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Admin
+Registrant Organization: Rocket Builders Inc.
+Registrant Street: Suite 600 - 355 Burrard Street
+Registrant City: Vancouver
+Registrant State/Province: British Columbia
+Registrant Postal Code: V6C 2G8
+Registrant Country: CA
+Registrant Phone: +1.6044842800
+Registrant Phone Ext: 
+Registrant Fax: +1.6044842888
+Registrant Fax Ext: 
+Registrant Email: domainadmin@rocketbuilders.com
+Registry Admin ID: 
+Admin Name: Domain Admin
+Admin Organization: Rocket Builders Inc.
+Admin Street: Suite 600 - 355 Burrard Street
+Admin City: Vancouver
+Admin State/Province: British Columbia
+Admin Postal Code: V6C 2G8
+Admin Country: CA
+Admin Phone: +1.6044842800
+Admin Phone Ext: 
+Admin Fax: +1.6044842888
+Admin Fax Ext: 
+Admin Email: domainadmin@rocketbuilders.com
+Registry Tech ID: 
+Tech Name: Domain Admin
+Tech Organization: Rocket Builders Inc.
+Tech Street: Suite 600 - 355 Burrard Street ste 331
+Tech City: Vancouver
+Tech State/Province: British Columbia
+Tech Postal Code: V6C 2G8
+Tech Country: CA
+Tech Phone: +1.6044842800
+Tech Phone Ext: 
+Tech Fax: +1.6044842888
+Tech Fax Ext: 
+Tech Email: domainadmin@rocketbuilders.com
+Name Server: DNS3.EASYDNS.ORG
+Name Server: DNS1.EASYDNS.COM
+Name Server: DNS2.EASYDNS.NET
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@easydns.com
+Registrar Abuse Contact Phone: +1.4165358672
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2015-09-15T21:46:44Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+This domain is being managed via EASYDNS
+
+The DNS Hosting specialists since 1998
+
+DNS Hosting / Dynamic DNS / Failover DNS / DNS Anycast
+
+Unconditional Guarantee, No tricks, No gimmicks: http://easyDNS.com
+
+System Status Updates: http://easyurl.net/easystatus
+
+( Follow us on Twitter http://twitter.com/easydns )
+
+You have 100 lookups left today

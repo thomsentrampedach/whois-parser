@@ -1,0 +1,62 @@
+
+Domain Name: hornung.cc
+Registry Domain ID: 12229552
+Registrar Whois Server: whois.cronon.net
+Registrar URL: http://www.cronon.net
+Updated Date: 2011-05-04T00:00:00Z
+Creation Date: 2011-05-04T00:00:00Z
+Registrar Registration Expiration Date: 2018-05-04T00:00:00Z
+Registrar: Cronon AG
+Registrar IANA ID: 141
+Registrar Abuse Contact Email: abuse@strato.de
+Registrar Abuse Contact Phone: +49.303001460
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: CC-SH13-ABC
+Registrant Name: Stefan Hornung
+Registrant Organization:
+Registrant Street: Ressweg 22
+Registrant City: Gilching
+Registrant State/Province: Germany
+Registrant Postal Code: 82205
+Registrant Country: DE
+Registrant Phone: +49.8105276563
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: hummerger@t-online.de
+Registry Admin ID: CC-SH13-ABC
+Admin Name: Stefan Hornung
+Admin Organization:
+Admin Street: Ressweg 22
+Admin City: Gilching
+Admin State/Province: Germany
+Admin Postal Code: 82205
+Admin Country: DE
+Admin Phone: +49.8105276563
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: hummerger@t-online.de
+Registry Tech ID: CC-ORH1-ABC
+Tech Name: Hostmaster Strato Rechenzentrum
+Tech Organization:
+Tech Street: Cronon AG Professional IT-Services
+Tech Street: Emmy-Noether-Str. 10
+Tech City: Karlsruhe
+Tech State/Province:
+Tech Postal Code: 76131
+Tech Country: DE
+Tech Phone: +49.72166320307
+Tech Phone Ext:
+Tech Fax: +49.72166320303
+Tech Fax Ext:
+Tech Email: hostmaster@cronon-isp.net
+Name Server: shades18.rzone.de
+Name Server: docks11.rzone.de
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T05:41:32Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+

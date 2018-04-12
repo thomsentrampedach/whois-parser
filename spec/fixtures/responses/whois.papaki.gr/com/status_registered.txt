@@ -1,0 +1,67 @@
+Domain Name: INSYBIO.COM
+Domain ID: 1818558929_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.papaki.gr
+Registrar URL: http://www.papaki.gr
+Updated Date: 2017-06-30T06:28:45Z
+Creation Date: 2013-07-30T09:28:32Z
+Registrar Registration Expiration Date: 2019-07-30T09:28:32Z
+Registrar: Papaki Ltd
+Registrar IANA ID: 1727
+Reseller: Papaki Ltd
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: CHRISTOS ALEXAKOS
+Registrant Organization: CHRISTOS ALEXAKOS
+Registrant Street: THEOFRASTOU 97
+Registrant City: PATRA
+Registrant State/Province: PROASTIO
+Registrant Postal Code: 26443
+Registrant Country: GR
+Registrant Phone: +30.6932323035
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: chris.alexakos@gmail.com
+Registry Admin ID: 
+Admin Name: XRHSTOS ALEKAKOS
+Admin Organization: XRHSTOS ALEKAKOS
+Admin Street: THEOFRASTOU 97
+Admin City: PATRA
+Admin State/Province: PROASTIO
+Admin Postal Code: 26443
+Admin Country: GR
+Admin Phone: +30.6932323035
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: alexakos@ceid.upatras.gr
+Registry Tech ID: 
+Tech Name: CHRISTOS ALEXAKOS
+Tech Organization: CHRISTOS ALEXAKOS
+Tech Street: THEOFRASTOU 97
+Tech City: PATRA
+Tech State/Province: PROASTIO
+Tech Postal Code: 26443
+Tech Country: GR
+Tech Phone: +30.6932323035
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: chris.alexakos@gmail.com
+Name Server: NS19.PAPAKI.GR
+Name Server: NS29.PAPAKI.GR
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@papaki.gr
+Registrar Abuse Contact Phone: +30.2810229000
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2017-06-30T06:28:45Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Registration Service Provider:
+    Papaki Ltd, info@papaki.gr
+    +30.2810229000
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions.
+

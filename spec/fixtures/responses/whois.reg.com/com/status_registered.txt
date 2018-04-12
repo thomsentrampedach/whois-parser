@@ -1,0 +1,69 @@
+
+Domain name: W12FILES.COM
+Domain idn name: W12FILES.COM
+Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Domain ID:
+Registrar WHOIS Server: whois.reg.com
+Registrar URL: https://www.reg.com/
+Registrar URL: https://www.reg.ru/
+Registrar URL: https://www.reg.ua/
+Updated Date: 2017-09-11
+Creation Date: 2017-09-10T01:02:33Z
+Registrar Registration Expiration Date: 2018-09-10
+Registrar: Registrar of domain names REG.RU LLC
+Registrar IANA ID: 1606
+Registrar Abuse Contact Email: abuse@reg.ru
+Registrar Abuse Contact Phone: +7.4955801111
+Registry Registrant ID:
+Registrant ID:
+Registrant Name: Protection of Private Person
+Registrant Street: PO box 87, REG.RU Protection Service
+Registrant City: Moscow
+Registrant State/Province:
+Registrant Postal Code: 123007
+Registrant Country: RU
+Registrant Phone: +7.4955801111
+Registrant Phone Ext:
+Registrant Fax: +7.4955801111
+Registrant Fax Ext:
+Registrant Email: W12FILES.COM@regprivate.ru
+Admin ID:
+Admin Name: Protection of Private Person
+Admin Street: PO box 87, REG.RU Protection Service
+Admin City: Moscow
+Admin State/Province:
+Admin Postal Code: 123007
+Admin Country: RU
+Admin Phone: +7.4955801111
+Admin Phone Ext:
+Admin Fax: +7.4955801111
+Admin Fax Ext:
+Admin Email: W12FILES.COM@regprivate.ru
+Tech ID:
+Tech Name: Protection of Private Person
+Tech Street: PO box 87, REG.RU Protection Service
+Tech City: Moscow
+Tech State/Province:
+Tech Postal Code: 123007
+Tech Country: RU
+Tech Phone: +7.4955801111
+Tech Phone Ext:
+Tech Fax: +7.4955801111
+Tech Fax Ext:
+Tech Email: W12FILES.COM@regprivate.ru
+Name Server: ns1.fornex.com 
+Name Server: ns2.fornex.com 
+Name Server: ns3.fornex.com 
+Name Server: ns4.fornex.com 
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018.04.12T06:44:16Z <<<
+
+For more information on Whois status codes, please visit
+https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+
+
+% By submitting a query to REG.RU Whois Service
+% you agree to abide by the following terms of use:
+% http://www.reg.ru/whois/servpol (in Russian)
+% http://www.reg.com/whois/servpol (in English)

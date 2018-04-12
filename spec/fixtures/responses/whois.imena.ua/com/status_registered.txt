@@ -1,0 +1,89 @@
+Domain Name: QUBIT-LABS.COM
+Registry Domain ID: 2033543289_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.imena.ua
+Registrar URL: http://imena.ua
+Updated Date: 2017-05-07T10:32:10Z
+Creation Date: 2016-06-04T13:43:08Z
+Registrar Registration Expiration Date: 2018-06-04T13:43:08Z
+Registrar: Internet Invest, Ltd. dba Imena.ua
+Registrar IANA ID: 1112
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Whois privacy protection service
+Registrant Organization: Internet Invest, Ltd. dba Imena.ua
+Registrant Street: Gaidara, 50 st.   
+Registrant City: Kyiv
+Registrant State/Province: Kyiv
+Registrant Postal Code: 01033
+Registrant Country: UA
+Registrant Phone: +380.442010102
+Registrant Phone Ext: 
+Registrant Fax: +380.442010100
+Registrant Fax Ext: 
+Registrant Email: hostmaster@imena.ua
+Registry Admin ID: Not Available From Registry
+Admin Name: Whois privacy protection service
+Admin Organization: Internet Invest, Ltd. dba Imena.ua
+Admin Street: Gaidara, 50 st.  
+Admin City: Kyiv
+Admin State/Province: Kyiv
+Admin Postal Code: 01033
+Admin Country: UA
+Admin Phone: +380.442010102
+Admin Phone Ext: 
+Admin Fax: +380.442010100
+Admin Fax Ext: 
+Admin Email: hostmaster@imena.ua
+Registry Tech ID: Not Available From Registry
+Tech Name: Whois privacy protection service
+Tech Organization: Internet Invest, Ltd. dba Imena.ua
+Tech Street: Gaidara, 50 st.  
+Tech City: Kyiv
+Tech State/Province: Kyiv
+Tech Postal Code: 01033
+Tech Country: UA
+Tech Phone: +380.442010102
+Tech Phone Ext: 
+Tech Fax: +380.442010100
+Tech Fax Ext: 
+Tech Email: hostmaster@imena.ua
+Name Server: nsa1.srv53.net
+Name Server: nsa3.srv53.com
+Name Server: nsa4.srv53.org
+Name Server: nsb3.srv53.com
+Name Server: nsb4.srv53.net
+Name Server: nsb4.srv53.org
+Name Server: nsc2.srv53.net
+Name Server: nsc3.srv53.com
+Name Server: nsc4.srv53.org
+Name Server: nsd2.srv53.com
+Name Server: nsd2.srv53.net
+Name Server: nsd3.srv53.org
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@imena.ua
+Registrar Abuse Contact Phone: +380.442010102
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:44:22Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: IMENA.UA
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Internet Invest, Ltd. dba Imena.ua. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

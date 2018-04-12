@@ -1,0 +1,64 @@
+Domain Name: minethings.com
+Registry Domain ID: 1526620363_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.melbourneit.com
+Registrar URL: http://www.melbourneit.com.au
+Updated Date: 2017-11-01T19:00:02Z
+Creation Date: 2008-11-01T02:00:04Z
+Registrar Registration Expiration Date: 2018-11-01T02:00:04Z
+Registrar: Melbourne IT Ltd
+Registrar IANA ID: 13
+Registrar Abuse Contact Email: abuse@melbourneit.com.au
+Registrar Abuse Contact Phone: +61.386242300
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: Japhet Stevens
+Registrant Organization: 
+Registrant Street: Locked Bag 20019
+Registrant City: Melbourne
+Registrant State/Province: VIC
+Registrant Postal Code: 3001
+Registrant Country: AU
+Registrant Phone: +61.386242485
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: contact@myprivateregistration.com
+Registry Admin ID: 
+Admin Name: Admin PrivateRegContact
+Admin Organization: 
+Admin Street: Locked Bag 20019
+Admin City: Melbourne
+Admin State/Province: VIC
+Admin Postal Code: 3001
+Admin Country: AU
+Admin Phone: +61.386242485
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: contact@myprivateregistration.com
+Registry Tech ID: 
+Tech Name: TECH PrivateRegContact
+Tech Organization: 
+Tech Street: Locked Bag 20019
+Tech City: Melbourne
+Tech State/Province: VIC
+Tech Postal Code: 3001
+Tech Country: AU
+Tech Phone: +61.386242485
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: contact@myprivateregistration.com
+Name Server: NS1.MELBOURNEIT.NET
+Name Server: NS2.MELBOURNEIT.NET
+Name Server: NS3.MELBOURNEIT.NET
+Name Server: NS4.MELBOURNEIT.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:41:33Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+
+
+

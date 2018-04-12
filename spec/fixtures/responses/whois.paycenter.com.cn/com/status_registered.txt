@@ -1,0 +1,75 @@
+Domain Name:thehotfilesearch.com
+Registry Domain ID:2178232299_DOMAIN_COM-VRSN
+Registrar WHOIS Server:whois.paycenter.com.cn
+Registrar URL:http://www.xinnet.com
+Updated Date:2017-10-27T08:56:00.00Z
+Creation Date:2017-10-24T01:04:16.00Z
+Registrar Registration Expiration Date:2018-10-24T01:04:16.00Z
+Registrar:XINNET TECHNOLOGY CORPORATION
+Registrar IANA ID:120
+Registrar Abuse Contact Email:supervision@xinnet.com
+Registrar Abuse Contact Phone:+86.1087128064
+Reseller:hefeixunyunwangluokejiyouxiangongsi
+Domain Status:ok https://www.icann.org/epp#ok
+Registry Registrant ID:
+Registrant Name:yanchunhua
+Registrant Organization:yanchunhua
+Registrant Street:simingqu,ruanjianyuanchuangxindaxia,5lou,503hao
+Registrant City:xiamenshi
+Registrant State/Province:fujiansheng
+Registrant Postal Code:361000
+Registrant Country:CN
+Registrant Phone:+86.5922669759
+Registrant Phone Ext:0
+Registrant Fax:+86.5922669759
+Registrant Fax Ext:0
+Registrant Email:rossma@aliyun.com
+Registry Admin ID:
+Admin Name:yanchunhua
+Admin Organization:yanchunhua
+Admin Street:simingqu,ruanjianyuanchuangxindaxia,5lou,503hao
+Admin City:xiamenshi
+Admin State/Province:fujiansheng
+Admin PostalCode:361000
+Admin Country:CN
+Admin Phone:+86.5922669759
+Admin Phone Ext:0
+Admin Fax:+86.5922669759
+Admin Fax Ext:0
+Admin Email:rossma@aliyun.com
+Registry Tech ID:
+Tech Name:yanchunhua
+Tech Organization:yanchunhua
+Tech Street:simingqu,ruanjianyuanchuangxindaxia,5lou,503hao
+Tech City:xiamenshi
+Tech State/Province:fujiansheng
+Tech PostalCode:361000
+Tech Country:CN
+Tech Phone:+86.5922669759
+Tech Phone Ext:0
+Tech Fax:+86.5922669759
+Tech Fax Ext:0
+Tech Email:rossma@aliyun.com
+Name Server:f1g1ns1.dnspod.net
+Name Server:f1g1ns2.dnspod.net
+DNSSEC:unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:57.00Z <<<: 
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The Data in Paycenter's WHOIS database is provided by Paycenter
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Paycenter does not guarantee its accuracy.  By submitting
+a WHOIS query, you agree that you will use this Data only
+for lawful purposes and that, 
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission
+of mass unsolicited, commercial advertising or solicitations
+via e-mail (spam); or
+(2) enable high volume, automated, electronic processes that
+apply to Paycenter or its systems.
+Paycenter reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by this policy.!!
+

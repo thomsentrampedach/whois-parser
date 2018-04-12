@@ -1,0 +1,62 @@
+Domain Name: techradar.com
+Registry Domain ID: 107814503_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.lexsynergy.com
+Registrar URL: http://www.lexsynergy.com/
+Updated Date: 2017-08-14T14:56:22Z
+Creation Date: 2003-12-06T19:17:07Z
+Registrar Registration Expiration Date: 2026-12-06T19:17:07Z
+Registrar: Lexsynergy Limited
+Registrar IANA ID: 1466
+Registrar Abuse Contact Email: abuse@lexsynergy.com
+Registrar Abuse Contact Phone: +44.2031370459
+Reseller: 
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Domain Manager
+Registrant Organization: Future Publishing Limited
+Registrant Street: Quay House
+Registrant Street: The Ambury
+Registrant City: Bath
+Registrant State/Province: 
+Registrant Postal Code: BA1 1UA
+Registrant Country: GB
+Registrant Phone: +44.1225442244
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: rights.domainmanager@futurenet.com
+Registry Admin ID: 
+Admin Name: Domain Manager
+Admin Organization: Future Publishing Limited
+Admin Street: Quay House
+Admin Street: The Ambury
+Admin City: Bath
+Admin State/Province: 
+Admin Postal Code: BA1 1UA
+Admin Country: GB
+Admin Phone: +44.1225442244
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: rights.domainmanager@futurenet.com
+Registry Tech ID: 
+Tech Name: Domain Manager
+Tech Organization: Future Publishing Limited
+Tech Street: Quay House
+Tech Street: The Ambury
+Tech City: Bath
+Tech State/Province: 
+Tech Postal Code: BA1 1UA
+Tech Country: GB
+Tech Phone: +44.1225442244
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: rights.domainmanager@futurenet.com
+Name Server: ns01.future.net.uk
+Name Server: ns02.future.net.uk
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T04:43:25Z <<<

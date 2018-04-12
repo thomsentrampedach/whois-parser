@@ -1,0 +1,72 @@
+Domain Name:frisbeekorea.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.ibi.net
+Registrar URL: http://www.ibi.net
+Updated Date: 2018-01-02T14:55:42Z
+Creation Date: 2009-01-06T07:00:13Z
+Registrar Registration Expiration Date: 2019-01-06T07:00:13Z
+Registrar: Netpia.com, Inc.
+Registrar IANA ID: 130
+Registrar Abuse Contact Email: reportabuse@ibi.net
+Registrar Abuse Contact Phone: +82.16445001
+Reseller:
+Domain Status:ok https://icann.org/epp#ok
+Registry Registrant ID:Not Available From Registry
+Registrant Name:Gala International corp.
+Registrant Organization:Gala International corp.
+Registrant Street:7, Gyeyang-gu Majang-ro 512beon-gil, Incheon, 
+Registrant City:Incheon
+Registrant State/Province:
+Registrant Postal Code:21106
+Registrant Country:KR
+Registrant Phone:7074522745
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email:cslee@frisbeekorea.com
+Registry Admin ID:  Not Available From Registry
+Admin Name:spris corp.
+Admin Organization:
+Admin Street:7, Gyeyang-gu Majang-ro 512beon-gil, Incheon, 
+Admin City:Incheon
+Admin State/Province:
+Admin Postal Code:21106
+Admin Country:KR
+Admin Phone:234086540
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email:cslee@gala-inter.com
+Registry Tech ID:Not Available From Registry
+Tech Name:spris corp.
+Tech Organization:
+Tech Street:7, Gyeyang-gu Majang-ro 512beon-gil, Incheon, 
+Tech City:Incheon
+Tech State/Province:
+Tech Postal Code:21106
+Tech Country:KR
+Tech Phone:234086540
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email:cslee@gala-inter.com
+Name Server:NS.KUMKANG.COM
+Name Server:NS2.KUMKANG.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-04-12T03:43:39Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+TERMS OF USE: The Data in IBI WHOIS database is provided by IBI
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+IBI does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+IBI (or its systems).  IBI reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.

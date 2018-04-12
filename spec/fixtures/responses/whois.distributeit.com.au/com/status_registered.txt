@@ -1,0 +1,83 @@
+Domain Name: vision6.com
+Registry Domain ID: 1428045540_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.tppwholesale.com.au
+Registrar URL: www.tppwholesale.com.au
+Updated Date: 2016-06-10T05:41:33Z
+Creation Date: 2008-03-20T18:43:01Z
+Registrar Registration Expiration Date: 2019-03-20T18:43:01Z
+Registrar: TPP Wholesale Pty Ltd
+Registrar IANA ID: 900
+Registrar Abuse Contact Email: abuse@tppwholesale.com.au
+Registrar Abuse Contact Phone: +61.292156247
+Reseller: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID:
+Registrant Name: Domain Administrator
+Registrant Organization: Vision 6 Holdings Pty Ltd
+Registrant Street: 47 Warner St   
+Registrant City: Fortitude Valley
+Registrant State/Province: QLD
+Registrant Postal Code: 4006
+Registrant Country: AU
+Registrant Phone: +61.732573906
+Registrant Phone Ext:
+Registrant Fax: +61.732573907
+Registrant Fax Ext:
+Registrant Email: domains@vision6.com.au
+Registry Admin ID:
+Admin Name: Domain Administrator
+Admin Organization: Vision 6 Holdings Pty Ltd
+Admin Street: 47 Warner St   
+Admin City: Fortitude Valley
+Admin State/Province: QLD
+Admin Postal Code: 4006
+Admin Country: AU
+Admin Phone: +61.732573906
+Admin Phone Ext:
+Admin Fax: +61.732573907
+Admin Fax Ext:
+Admin Email: domains@vision6.com.au
+Registry Tech ID:
+Tech Name: Domain Administrator
+Tech Organization: Vision 6 Holdings Pty Ltd
+Tech Street: 47 Warner St   
+Tech City: Fortitude Valley
+Tech State/Province: QLD
+Tech Postal Code: 4006
+Tech Country: AU
+Tech Phone: +61.732573906
+Tech Phone Ext:
+Tech Fax: +61.732573907
+Tech Fax Ext:
+Tech Email: domains@vision6.com.au
+Name Server: NS-888.AWSDNS-47.NET
+Name Server: NS-471.AWSDNS-58.COM
+Name Server: NS-1102.AWSDNS-09.ORG
+Name Server: NS-1876.AWSDNS-42.CO.UK
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>> Last update of WHOIS database: 2018-04-12T03:43:04Z <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+---WHOIS details provided by TPP Wholesale Pty Ltd.
+
+NOTICE: Access to WHOIS information is provided to assist persons in
+determining the contents of a domain name registration record in the NetRegistry
+registry database. The data in this record is provided by Net Registry
+for informational purposes only, and NetRegistry does not guarantee its
+accuracy. This service is intended only for query-based access. You agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: (a) allow, enable, or otherwise
+support the transmission by e-mail, telephone, or facsimile of mass
+unsolicited, commercial advertising or solicitations to entities other than
+the data recipient's own existing customers; or (b) enable high volume,
+automated, electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as reasonably
+necessary to register domain names or modify existing registrations. All
+rights reserved. NetRegistry reserves the right to modify these terms at any
+time. By submitting this query, you agree to abide by this policy.
+

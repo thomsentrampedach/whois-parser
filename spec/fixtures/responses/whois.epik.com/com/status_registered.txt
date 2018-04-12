@@ -1,0 +1,60 @@
+Domain Name: KYLUM.COM
+Registry Domain ID: 1845767880_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.epik.com
+Registrar URL: http://www.epik.com
+Updated Date: 2018-03-13T02:25:15Z
+Creation Date: 2014-02-07T19:10:54Z
+Registrar Registration Expiration Date: 2019-02-07T19:10:54Z
+Registrar: Epik, Inc.
+Registrar IANA ID: 617
+Registrar Abuse Contact Email: support@epik.com
+Registrar Abuse Contact Phone: +1.4252025160
+Reseller: 
+Domain Status: clientTransferProhibited -- https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Privacy Administrator
+Registrant Organization: Anonymize, Inc.
+Registrant Street: PO Box 742
+Registrant City: Bellevue
+Registrant State/Province: WA
+Registrant Postal Code: 98009
+Registrant Country: US
+Registrant Phone: +1.4253668810
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: kylum.com@anonymize.com
+Registry Admin ID: 
+Admin Name: Privacy Administrator
+Admin Organization: Anonymize, Inc.
+Admin Street: PO Box 742
+Admin City: Bellevue
+Admin State/Province: WA
+Admin Postal Code: 98009
+Admin Country: US
+Admin Phone: +1.4253668810
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: kylum.com@anonymize.com
+Registry Tech ID: 
+Tech Name: Privacy Administrator
+Tech Organization: Anonymize, Inc.
+Tech Street: PO Box 742
+Tech City: Bellevue
+Tech State/Province: WA
+Tech Postal Code: 98009
+Tech Country: US
+Tech Phone: +1.4253668810
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: kylum.com@anonymize.com
+Name Server: NS1.PARKINGCREW.NET
+Name Server: NS2.PARKINGCREW.NET
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-03-13T09:25:15Z <<<
+
+All registrar data, including registrant WHOIS data, is provided for public, non-commerical use only.  Any information made available by InTrust Domains and its affiliate registrars shall not be collected, distributed or used for any commercial activity.  Third parties to agree not to use the data to allow, enable, or otherwise support any marketing activities, regardless of the medium used. Such media include but are not limited to e-mail, telephone, facsimile, postal mail, SMS, and wireless alerts.
+
