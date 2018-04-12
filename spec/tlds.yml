@@ -272,7 +272,7 @@ ag:
     status_available: u34jedzcq.ag
     status_registered: google.ag
 ai:
-    _server: whois.ai
+    _server: whois.nic.ai
     status_available: u34jedzcq.ai
     status_registered: google.ai
 al:
@@ -538,7 +538,9 @@ fj:
 fk:
     _adapter: none
 fm:
-    _adapter: web
+    _server: whois.nic.fm
+    status_available: u34jedzcq.fm
+    status_registered: google.fm
 fo:
     _server: whois.nic.fo
     status_available: u34jedzcq.fo

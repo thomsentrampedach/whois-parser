@@ -3,7 +3,7 @@
 #
 # An intelligent pure Ruby WHOIS client and parser.
 #
-# Copyright (c) 2009-2015 Simone Carletti <weppos@weppos.net>
+# Copyright (c) 2009-2018 Simone Carletti <weppos@weppos.net>
 #++
 
 
@@ -25,7 +25,7 @@ module Whois
           super()
         else
           registrar ? :registered : :available
-          # Whois.bug!(ParserError, "Unable to parse status.")
+          # Whois::Parser.bug!(ParserError, "Unable to parse status.")
         end
       end
     end

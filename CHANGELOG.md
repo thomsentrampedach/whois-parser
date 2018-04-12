@@ -3,9 +3,18 @@
 This project uses [Semantic Versioning 2.0.0](http://semver.org/).
 
 
-#### master
+#### Release 1.1.0
+
+- NEW: Added .FM parser (GH-74). [Thanks @thomas07vt]
+- NEW: Added .BR parser contacts (GH-31). [Thanks @forain]
+
+- CHANGED: Updated WhoisAi to WhoisNicAi.
+- CHANGED: WhoizBiz to the new response (GH-73). [Thanks @thomas07vt]
+- CHANGED: WhoizNicSt to the new response (GH-72). [Thanks @fturmel]
+- CHANGED: WhoisRegistryNetZa to the new response (GH-43). [Thanks @sheldonh]
 
 - FIXED: Bug where .EU domain property had double .eu suffix (GH-63).
+- FIXED: Fix scanning issue with .ca when keys have no value (GH-36).
 
 
 #### Release 1.0.1

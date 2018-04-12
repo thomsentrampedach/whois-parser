@@ -3,7 +3,7 @@
 #
 # An intelligent pure Ruby WHOIS client and parser.
 #
-# Copyright (c) 2009-2015 Simone Carletti <weppos@weppos.net>
+# Copyright (c) 2009-2018 Simone Carletti <weppos@weppos.net>
 #++
 
 
@@ -29,7 +29,7 @@ module Whois
           case $1.downcase
             when "ok" then :registered
             else
-              Whois.bug!(ParserError, "Unknown status `#{$1}'.")
+              Whois::Parser.bug!(ParserError, "Unknown status `#{$1}'.")
           end
         else
           :available

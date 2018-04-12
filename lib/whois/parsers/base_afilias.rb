@@ -3,7 +3,7 @@
 #
 # An intelligent pure Ruby WHOIS client and parser.
 #
-# Copyright (c) 2009-2015 Simone Carletti <weppos@weppos.net>
+# Copyright (c) 2009-2018 Simone Carletti <weppos@weppos.net>
 #++
 
 
@@ -72,7 +72,7 @@ module Whois
       property_supported :registrar do
         node("Sponsoring Registrar") do |value|
           id, name = decompose_registrar(value) ||
-              Whois.bug!(ParserError, "Unknown registrar format `#{value}'")
+              Whois::Parser.bug!(ParserError, "Unknown registrar format `#{value}'")
 
           Parser::Registrar.new(
               id:           id,

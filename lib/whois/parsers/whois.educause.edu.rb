@@ -3,7 +3,7 @@
 #
 # An intelligent pure Ruby WHOIS client and parser.
 #
-# Copyright (c) 2009-2015 Simone Carletti <weppos@weppos.net>
+# Copyright (c) 2009-2018 Simone Carletti <weppos@weppos.net>
 #++
 
 
@@ -27,7 +27,7 @@ module Whois
         if content_for_scanner =~ /\A((.*\n)+)\n--------------------------\n/
           $1
         else
-          Whois.bug!(ParserError, "Unable to parse disclaimer.")
+          Whois::Parser.bug!(ParserError, "Unable to parse disclaimer.")
         end
       end
 
