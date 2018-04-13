@@ -58,6 +58,10 @@ module Whois
           end
         end
       end
+
+      tokenizer :skip_provider_aggregated_block do
+        @input.skip(/^[\s]*Provider Aggregated Block\n/)
+      end
     end
   end
 end
