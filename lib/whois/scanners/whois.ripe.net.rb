@@ -12,6 +12,7 @@ module Whois
         :scan_abuse_email,
         :skip_comment,
         :scan_keyvalue,
+        :skip_provider_aggregated_block,
       ]
 
       tokenizer :scan_disclaimer do
