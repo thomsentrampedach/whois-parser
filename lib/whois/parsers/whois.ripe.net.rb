@@ -77,7 +77,8 @@ module Whois
       property_supported :nameservers do
         content_for_scanner.scan(/nserver:\s+(.+)\n/).flatten.map do |line|
           name, ipv4 = line.split(/\s+/)
-          Parser::Nameserver.new(:name => name.downcase, :ipv4 => ipv4)
+          name = [name].flatten.map(&:downcase).join(',')
+          Parser::Nameserver.new(:name => name, :ipv4 => ipv4)
         end
       end
 
