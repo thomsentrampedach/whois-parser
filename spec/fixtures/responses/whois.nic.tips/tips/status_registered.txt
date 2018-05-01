@@ -1,0 +1,64 @@
+Domain Name: mdaemon.tips
+Registry Domain ID: c4fb1d36147c47468f98553f07976e5d-DONUTS
+Registrar WHOIS Server: whois.tucows.com
+Registrar URL: http://www.tucows.com
+Updated Date: 2018-03-24T18:15:47Z
+Creation Date: 2014-02-26T16:00:14Z
+Registry Expiry Date: 2019-02-26T16:00:14Z
+Registrar: Tucows Domains Inc.
+Registrar IANA ID: 69
+Registrar Abuse Contact Email: domainabuse@tucows.com
+Registrar Abuse Contact Phone: 416.535.0123x1283
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 16bbc86a370541f7a26d7618a026a33d-DONUTS
+Registrant Name: Dave Warren
+Registrant Organization: DJW Computers Ltd
+Registrant Street: 9-3151 Lakeshore Rd Suite #435
+Registrant City: Kelowna
+Registrant State/Province: BC
+Registrant Postal Code: V1W 3S9
+Registrant Country: CA
+Registrant Phone: +1.4037751700
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: whois@hireahit.com
+Registry Admin ID: ef2dd3c389e3479e8aa8d236a714be0a-DONUTS
+Admin Name: Dave Warren
+Admin Organization: DJW Computers Ltd
+Admin Street: 9-3151 Lakeshore Rd Suite #435
+Admin City: Kelowna
+Admin State/Province: BC
+Admin Postal Code: V1W 3S9
+Admin Country: CA
+Admin Phone: +1.4037751700
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: whois@hireahit.com
+Registry Tech ID: 7b610c35ea4c405e8fd41f7f6b8ee050-DONUTS
+Tech Name: Dave Warren
+Tech Organization: DJW Computers Ltd
+Tech Street: 9-3151 Lakeshore Rd Suite #435
+Tech City: Kelowna
+Tech State/Province: BC
+Tech Postal Code: V1W 3S9
+Tech Country: CA
+Tech Phone: +1.4037751700
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: whois@hireahit.com
+Name Server: ns1.razx.com
+Name Server: ns4.razx.com
+Name Server: ns5.razx.com
+Name Server: ns2.razx.com
+Name Server: ns3.razx.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-05-01T13:50:49Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Users accessing the Donuts WHOIS service must agree to use the data only for lawful purposes, and under under no circumstances use the data to: Allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers. Enable high volume, automated, electronic processes that send queries or data to the systems of Donuts or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Donuts Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access.

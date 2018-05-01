@@ -1,0 +1,62 @@
+Domain Name: jmt.email
+Registry Domain ID: 1d8a6dcb541b47a195400298310c8a3d-DONUTS
+Registrar WHOIS Server: whois.namecheap.com
+Registrar URL: https://www.namecheap.com/
+Updated Date: 2018-04-23T19:46:16Z
+Creation Date: 2018-04-18T19:45:27Z
+Registry Expiry Date: 2019-04-18T19:45:27Z
+Registrar: NameCheap, Inc.
+Registrar IANA ID: 1068
+Registrar Abuse Contact Email: abuse@namecheap.com
+Registrar Abuse Contact Phone: +1.6613102107
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: c9915541e7be4c1aa6c49e7aef13db60-DONUTS
+Registrant Name: WhoisGuard Protected
+Registrant Organization: WhoisGuard, Inc.
+Registrant Street: P.O. Box 0823-03411
+Registrant City: Panama
+Registrant State/Province: Panama
+Registrant Postal Code: 
+Registrant Country: PA
+Registrant Phone: +507.8365503
+Registrant Phone Ext: 
+Registrant Fax: +51.17057182
+Registrant Fax Ext: 
+Registrant Email: d22255c7dd65430c8022a99a56b115f5.protect@whoisguard.com
+Registry Admin ID: 2bcc9cdb852e4620a9d0cf2b815e7a37-DONUTS
+Admin Name: WhoisGuard Protected
+Admin Organization: WhoisGuard, Inc.
+Admin Street: P.O. Box 0823-03411
+Admin City: Panama
+Admin State/Province: Panama
+Admin Postal Code: 
+Admin Country: PA
+Admin Phone: +507.8365503
+Admin Phone Ext: 
+Admin Fax: +51.17057182
+Admin Fax Ext: 
+Admin Email: d22255c7dd65430c8022a99a56b115f5.protect@whoisguard.com
+Registry Tech ID: c996e270603b4d438c5c6d2ac5397132-DONUTS
+Tech Name: WhoisGuard Protected
+Tech Organization: WhoisGuard, Inc.
+Tech Street: P.O. Box 0823-03411
+Tech City: Panama
+Tech State/Province: Panama
+Tech Postal Code: 
+Tech Country: PA
+Tech Phone: +507.8365503
+Tech Phone Ext: 
+Tech Fax: +51.17057182
+Tech Fax Ext: 
+Tech Email: d22255c7dd65430c8022a99a56b115f5.protect@whoisguard.com
+Name Server: ns1.dnsimple.com
+Name Server: ns4.dnsimple.com
+Name Server: ns3.dnsimple.com
+Name Server: ns2.dnsimple.com
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-05-01T13:52:53Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: Users accessing the Donuts WHOIS service must agree to use the data only for lawful purposes, and under under no circumstances use the data to: Allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the registrar's own existing customers. Enable high volume, automated, electronic processes that send queries or data to the systems of Donuts or any ICANN-accredited registrar, except as reasonably necessary to register domain names or modify existing registrations. When using the Donuts Whois service, please consider the following: The Whois service is not a replacement for standard EPP commands to the SRS service. Whois is not considered authoritative for registered domain objects. The Whois service may be scheduled for downtime during production or OT&E maintenance periods. Queries to the Whois services are throttled. If too many queries are received from a single IP address within a specified time, the service will begin to reject further queries for a period of time to prevent disruption of Whois service access.
