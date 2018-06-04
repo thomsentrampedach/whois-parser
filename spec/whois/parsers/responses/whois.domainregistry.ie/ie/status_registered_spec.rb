@@ -65,7 +65,7 @@ describe Whois::Parsers::WhoisDomainregistryIe, "status_registered.expected" do
   describe "#expires_on" do
     it do
       expect(subject.expires_on).to be_a(Time)
-      expect(subject.expires_on).to eq(Time.parse("2015-03-21"))
+      expect(subject.expires_on).to eq(Time.parse("2019-03-21"))
     end
   end
   describe "#registrar" do
@@ -76,31 +76,19 @@ describe Whois::Parsers::WhoisDomainregistryIe, "status_registered.expected" do
   describe "#registrant_contacts" do
     it do
       expect(subject.registrant_contacts).to be_a(Array)
-      expect(subject.registrant_contacts.size).to eq(1)
-      expect(subject.registrant_contacts[0]).to be_a(Whois::Parser::Contact)
-      expect(subject.registrant_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_REGISTRANT)
-      expect(subject.registrant_contacts[0].id).to eq(nil)
-      expect(subject.registrant_contacts[0].name).to eq("Google, Inc")
+      expect(subject.registrant_contacts.size).to eq(0)
     end
   end
   describe "#admin_contacts" do
     it do
       expect(subject.admin_contacts).to be_a(Array)
-      expect(subject.admin_contacts.size).to eq(1)
-      expect(subject.admin_contacts[0]).to be_a(Whois::Parser::Contact)
-      expect(subject.admin_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_ADMINISTRATIVE)
-      expect(subject.admin_contacts[0].id).to eq("AAV410-IEDR")
-      expect(subject.admin_contacts[0].name).to eq("Christina Chiou")
+      expect(subject.admin_contacts.size).to eq(0)
     end
   end
   describe "#technical_contacts" do
     it do
       expect(subject.technical_contacts).to be_a(Array)
-      expect(subject.technical_contacts.size).to eq(1)
-      expect(subject.technical_contacts[0]).to be_a(Whois::Parser::Contact)
-      expect(subject.technical_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_TECHNICAL)
-      expect(subject.technical_contacts[0].id).to eq("CCA7-IEDR")
-      expect(subject.technical_contacts[0].name).to eq("Markmonitor Inc")
+      expect(subject.technical_contacts.size).to eq(0)
     end
   end
   describe "#nameservers" do

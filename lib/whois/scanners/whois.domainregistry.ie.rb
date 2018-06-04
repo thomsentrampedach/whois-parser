@@ -13,6 +13,7 @@ module Whois
           :scan_keyvalue,
           :scan_available,
           :skip_application_pending,
+          :skip_notice,
       ]
 
       tokenizer :scan_available do
@@ -38,6 +39,12 @@ module Whois
         if @input.match?(/^% Application Pending/)
           _scan_lines_to_array(/^%(.+)\n/)
           @ast["status:pending"] = true
+        end
+      end
+
+      tokenizer :skip_notice do
+        if @input.match?(/^% Important Notice/)
+          _scan_lines_to_array(/^%(.+)\n/)
         end
       end
 
