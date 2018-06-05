@@ -60,6 +60,10 @@ module Whois
         end
       end
 
+      tokenizer :skip_gdpr_message do
+        @input.skip(/^Please query the RDDS.+\n/)
+      end
+
     protected
 
       def _scan_lines_to_array(pattern)

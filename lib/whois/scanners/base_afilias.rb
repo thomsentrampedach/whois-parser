@@ -13,6 +13,7 @@ module Whois
           :scan_throttled,
           :scan_disclaimer,
           :scan_keyvalue,
+          :skip_gdpr_message,
       ]
 
 
