@@ -23,7 +23,7 @@ describe Whois::Parsers::WhoisNicAsia, "status_available.expected" do
 
   describe "#disclaimer" do
     it do
-      expect(subject.disclaimer).to eq(nil)
+      expect(subject.disclaimer).to eq("Access to WHOIS information is provided to assist persons in determining the contents of a domain name registration record in the registry database. The data in this record is provided by The Registry Operator for informational purposes only, and accuracy is not guaranteed.  This service is intended only for query-based access. You agree that you will use this data only for lawful purposes and that, under no circumstances will you use this data to (a) allow, enable, or otherwise support the transmission by e-mail, telephone, or facsimile of mass unsolicited, commercial advertising or solicitations to entities other than the data recipient's own existing customers; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Registry Operator, a Registrar, or Afilias except as reasonably necessary to register domain names or modify existing registrations. All rights reserved. Registry Operator reserves the right to modify these terms at any time. By submitting this query, you agree to abide by this policy.")
     end
   end
   describe "#domain" do
@@ -38,7 +38,7 @@ describe Whois::Parsers::WhoisNicAsia, "status_available.expected" do
   end
   describe "#status" do
     it do
-      expect(subject.status).to eq([])
+      expect(subject.status).to eq(:available)
     end
   end
   describe "#available?" do

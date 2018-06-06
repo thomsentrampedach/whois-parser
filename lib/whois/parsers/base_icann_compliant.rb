@@ -64,11 +64,11 @@ module Whois
       end
 
       property_supported :expires_on do
-        node("Registrar Registration Expiration Date") do |value|
-          parse_time(value)
-        end
-      end
+        key = ["Registry Expiry Date", "Registrar Registration Expiration Date"]
+          .find { |k| node?(k) }
 
+        node(key) { |value| parse_time(value) }
+      end
 
       property_supported :registrar do
         return unless node("Registrar")

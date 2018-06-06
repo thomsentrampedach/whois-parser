@@ -7,7 +7,7 @@
 #++
 
 
-require_relative 'base_afilias'
+require_relative 'base_icann_compliant'
 
 
 module Whois
@@ -18,89 +18,28 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisNicAsia < BaseAfilias
-
-      self.scanner = Scanners::BaseAfilias, {
-          pattern_reserved: /^Reserved by DotAsia\n/,
+    class WhoisNicAsia < BaseIcannCompliant
+      self.scanner = Scanners::BaseIcannCompliant, {
+          pattern_available: /^NOT FOUND\n/,
+          pattern_disclaimer: /^Access to/
       }
 
+      property_supported :disclaimer do
+        node("field:disclaimer")
+      end
 
       property_supported :status do
         if reserved?
           :reserved
         else
-          Array.wrap(node("Domain Status"))
+          super()
         end
       end
-
-
-      property_supported :created_on do
-        node("Domain Create Date") do |value|
-          parse_time(value)
-        end
-      end
-
-      property_supported :updated_on do
-        node("Domain Last Updated Date") do |value|
-          parse_time(value)
-        end
-      end
-
-      property_supported :expires_on do
-        node("Domain Expiration Date") do |value|
-          parse_time(value)
-        end
-      end
-
-
-      property_supported :admin_contacts do
-        build_contact("Administrative", Parser::Contact::TYPE_ADMINISTRATIVE)
-      end
-
-      property_supported :technical_contacts do
-        build_contact("Technical", Parser::Contact::TYPE_TECHNICAL)
-      end
-
-
-      property_supported :nameservers do
-        Array.wrap(node("Nameservers")).reject(&:empty?).map do |name|
-          Parser::Nameserver.new(:name => name.downcase)
-        end
-      end
-
 
       # NEWPROPERTY
       def reserved?
-        !!node("status:reserved")
+        !!content_for_scanner.match(/^Reserved by DotAsia\n/)
       end
-
-
-      private
-
-      def build_contact(element, type)
-        node("#{element} ID") do
-          address = ["", "2", "3"].
-              map { |i| node("#{element} Address#{i}") }.
-              delete_if(&:empty?).
-              join("\n")
-
-          Parser::Contact.new(
-              :type         => type,
-              :id           => node("#{element} ID"),
-              :name         => node("#{element} Name"),
-              :organization => node("#{element} Organization"),
-              :address      => address,
-              :city         => node("#{element} City"),
-              :zip          => node("#{element} Postal Code"),
-              :state        => node("#{element} State/Province"),
-              :country_code => node("#{element} Country/Economy"),
-              :phone        => node("#{element} Phone"),
-              :fax          => node("#{element} FAX"),
-              :email        => node("#{element} E-mail")
-          )
-        end
-      end
-
     end
 
   end

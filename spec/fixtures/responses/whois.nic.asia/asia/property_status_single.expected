@@ -1,5 +1,5 @@
 #status
-  %s == ["OK"]
+  %s == :registered
 
 #available?
   %s == false

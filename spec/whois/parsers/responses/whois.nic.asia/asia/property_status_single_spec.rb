@@ -23,7 +23,7 @@ describe Whois::Parsers::WhoisNicAsia, "property_status_single.expected" do
 
   describe "#status" do
     it do
-      expect(subject.status).to eq(["OK"])
+      expect(subject.status).to eq(:registered)
     end
   end
   describe "#available?" do
