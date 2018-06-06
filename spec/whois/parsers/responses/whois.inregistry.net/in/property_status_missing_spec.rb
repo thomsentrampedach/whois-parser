@@ -23,7 +23,7 @@ describe Whois::Parsers::WhoisInregistryNet, "property_status_missing.expected" 
 
   describe "#status" do
     it do
-      expect(subject.status).to eq([])
+      expect(subject.status).to eq(:available)
     end
   end
 end

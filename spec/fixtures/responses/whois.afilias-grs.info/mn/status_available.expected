@@ -10,7 +10,7 @@
 
 
 #status
-  %s == []
+  %s == :available
 
 #available?
   %s == true

@@ -34,6 +34,8 @@ module Whois
       end
 
       def node(key)
+        key = key.find { |k| ast.key?(k) } if key.is_a?(Array)
+
         if block_given?
           value = ast[key]
           value = yield(value) unless value.nil?

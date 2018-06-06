@@ -15,6 +15,9 @@ module Whois
 
     # Parser for the whois.afilias-grs.info server.
     class WhoisAfiliasGrsInfo < BaseAfilias
+      self.scanner = Scanners::BaseAfilias, {
+        pattern_disclaimer: /^Access to/,
+      }
     end
 
   end
