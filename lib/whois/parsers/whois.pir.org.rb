@@ -7,16 +7,34 @@
 #++
 
 
-require_relative 'base_afilias'
-require 'whois/scanners/whois.pir.org.rb'
+require_relative 'base_icann_compliant'
 
 module Whois
   class Parsers
 
     # Parser for the whois.pir.org server.
-    class WhoisPirOrg < BaseAfilias
+    class WhoisPirOrg < BaseIcannCompliant
 
-      self.scanner = Scanners::WhoisPirOrg
+      self.scanner = Scanners::BaseIcannCompliant, {
+          pattern_available: /^NOT FOUND\n/,
+          pattern_disclaimer: /^Access to/
+      }
+
+      property_supported :disclaimer do
+        node("field:disclaimer")
+      end
+
+      property_supported :registrar do
+        return unless node("Registrar")
+        Parser::Registrar.new({
+            id:           node("Registrar IANA ID"),
+            name:         node("Registrar"),
+            organization: node("Registrar"),
+            url:          node("Registrar URL"),
+            email:        node("Registrar Abuse Contact Email"),
+            phone:        node("Registrar Abuse Contact Phone")
+        })
+      end
 
       # Checks whether the response has been throttled.
       #
@@ -27,61 +45,6 @@ module Whois
       #
       def response_throttled?
         !!node("response:throttled")
-      end
-
-      property_supported :status do
-        Array.wrap(node("Domain Status"))
-      end
-
-      property_supported :registrar do
-        node('Sponsoring Registrar') do |name|
-          Parser::Registrar.new(
-              id:           node('Sponsoring Registrar IANA ID'),
-              name:         node('Sponsoring Registrar')
-          )
-        end
-      end
-
-      property_supported :created_on do
-        node("Creation Date") do |value|
-          parse_time(value)
-        end
-      end
-
-      property_supported :updated_on do
-        node("Updated Date") do |value|
-          parse_time(value)
-        end
-      end
-
-      property_supported :expires_on do
-        node("Registry Expiry Date") do |value|
-          parse_time(value)
-        end
-      end
-
-      def build_contact(element, type)
-        node("#{element} ID") do
-          address = [node("#{element} Street")]
-          address = (address + (1..3).map { |i| node("#{element} Street#{i}") }).
-            delete_if { |i| i.nil? || i.empty? }.
-            join("\n")
-
-          Parser::Contact.new(
-              :type         => type,
-              :id           => node("#{element} ID"),
-              :name         => node("#{element} Name"),
-              :organization => node("#{element} Organization"),
-              :address      => address,
-              :city         => node("#{element} City"),
-              :zip          => node("#{element} Postal Code"),
-              :state        => node("#{element} State/Province"),
-              :country_code => node("#{element} Country"),
-              :phone        => node("#{element} Phone"),
-              :fax          => node("#{element} Fax"),
-              :email        => node("#{element} Email")
-          )
-        end
       end
 
     end
