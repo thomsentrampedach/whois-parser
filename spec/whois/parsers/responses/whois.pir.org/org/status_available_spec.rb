@@ -38,7 +38,7 @@ describe Whois::Parsers::WhoisPirOrg, "status_available.expected" do
   end
   describe "#status" do
     it do
-      expect(subject.status).to eq([])
+      expect(subject.status).to eq(:available)
     end
   end
   describe "#available?" do

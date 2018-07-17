@@ -17,7 +17,8 @@ module Whois
 
       self.scanner = Scanners::BaseIcannCompliant, {
           pattern_available: /^NOT FOUND\n/,
-          pattern_disclaimer: /^Access to/
+          pattern_disclaimer: /^Access to/,
+          pattern_throttled: /^WHOIS LIMIT EXCEEDED/,
       }
 
       property_supported :disclaimer do
