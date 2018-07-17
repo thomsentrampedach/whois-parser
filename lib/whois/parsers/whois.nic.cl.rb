@@ -26,6 +26,12 @@ module Whois
     #
     class WhoisNicCl < Base
 
+      property_supported :domain do
+        if content_for_scanner =~ /Domain name:\s(.+?)\n/
+          $1
+        end
+      end
+
       property_supported :status do
         if available?
           :available
@@ -35,7 +41,7 @@ module Whois
       end
 
       property_supported :available? do
-         !!(content_for_scanner =~ /^(.+?): no existe$/)
+         !!(content_for_scanner =~ /^(.+?): no entries found.$/)
       end
 
       property_supported :registered? do
@@ -43,26 +49,63 @@ module Whois
       end
 
 
-      property_not_supported :created_on
+      property_supported :created_on do
+        if content_for_scanner =~ /Creation date:\s(.+?)\n/
+          parse_time($1)
+        end
+      end
 
-      # TODO: custom date format with foreign month names
-      # property_supported :updated_on do
-      #   if content_for_scanner =~ /changed:\s+(.*)\n/
-      #     parse_time($1.split(" ", 2).last)
-      #   end
-      # end
+      property_supported :expires_on do
+        if content_for_scanner =~ /Expiration date:\s+(.+?)\n/
+          parse_time($1)
+        end
+      end
 
-      property_not_supported :expires_on
-
+      property_not_supported :updated_on
 
       property_supported :nameservers do
-        if content_for_scanner =~ /Servidores de nombre \(Domain servers\):\n((.+\n)+)\n/
-          $1.split("\n").map do |line|
-            line.strip!
-            line =~ /(.+) \((.+)\)/
-            Parser::Nameserver.new(:name => $1, :ipv4 => $2)
-          end
+        content_for_scanner.scan(/Name server:\s(.+?)\n/).flatten.map do |line|
+          name, ipv4 = line.split(/\s+/)
+          Parser::Nameserver.new(:name => name, :ipv4 => ipv4)
         end
+      end
+
+      property_supported :registrant_contacts do
+        content_for_scanner =~ /Registrant name:\s+(.+?)\n/
+        name = $1
+        content_for_scanner =~ /Registrant organisation:\s+(.+?)\n/
+        org = $1
+
+        Parser::Contact.new(
+          :type         => Parser::Contact::TYPE_REGISTRANT,
+          :id           => nil,
+          :name         => name,
+          :organization => org,
+          :address      => nil,
+          :city         => nil,
+          :zip          => nil,
+          :state        => nil,
+          :country      => nil,
+          :phone        => nil,
+          :fax          => nil,
+          :email        => nil
+        )
+      end
+
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+
+      property_supported :registrar do
+        content_for_scanner =~ /Registrar name:\s+(.+?)\n/
+        name = $1
+        content_for_scanner =~ /Registrar URL:\s+(.+?)\n/
+        url = $1
+
+        Parser::Registrar.new({
+            id:           nil,
+            name:         name,
+            url:          url
+        })
       end
 
     end

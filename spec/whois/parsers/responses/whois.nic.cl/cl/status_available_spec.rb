@@ -36,16 +36,6 @@ describe Whois::Parsers::WhoisNicCl, "status_available.expected" do
       expect(subject.registered?).to eq(false)
     end
   end
-  describe "#created_on" do
-    it do
-      expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
-    end
-  end
-  describe "#expires_on" do
-    it do
-      expect { subject.expires_on }.to raise_error(Whois::AttributeNotSupported)
-    end
-  end
   describe "#nameservers" do
     it do
       expect(subject.nameservers).to be_a(Array)

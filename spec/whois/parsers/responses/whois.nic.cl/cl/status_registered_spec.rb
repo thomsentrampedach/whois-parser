@@ -36,32 +36,18 @@ describe Whois::Parsers::WhoisNicCl, "status_registered.expected" do
       expect(subject.registered?).to eq(true)
     end
   end
-  describe "#created_on" do
-    it do
-      expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
-    end
-  end
-  describe "#expires_on" do
-    it do
-      expect { subject.expires_on }.to raise_error(Whois::AttributeNotSupported)
-    end
-  end
   describe "#nameservers" do
     it do
       expect(subject.nameservers).to be_a(Array)
       expect(subject.nameservers.size).to eq(4)
       expect(subject.nameservers[0]).to be_a(Whois::Parser::Nameserver)
-      expect(subject.nameservers[0].name).to eq("ns3.google.com")
-      expect(subject.nameservers[0].ipv4).to eq("216.239.36.10")
+      expect(subject.nameservers[0].name).to eq("ns1.google.com")
       expect(subject.nameservers[1]).to be_a(Whois::Parser::Nameserver)
-      expect(subject.nameservers[1].name).to eq("ns4.google.com")
-      expect(subject.nameservers[1].ipv4).to eq("216.239.38.10")
+      expect(subject.nameservers[1].name).to eq("ns2.google.com")
       expect(subject.nameservers[2]).to be_a(Whois::Parser::Nameserver)
-      expect(subject.nameservers[2].name).to eq("ns1.google.com")
-      expect(subject.nameservers[2].ipv4).to eq("216.239.32.10")
+      expect(subject.nameservers[2].name).to eq("ns3.google.com")
       expect(subject.nameservers[3]).to be_a(Whois::Parser::Nameserver)
-      expect(subject.nameservers[3].name).to eq("ns2.google.com")
-      expect(subject.nameservers[3].ipv4).to eq("216.239.34.10")
+      expect(subject.nameservers[3].name).to eq("ns4.google.com")
     end
   end
 end
