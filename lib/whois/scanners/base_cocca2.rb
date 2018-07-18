@@ -17,7 +17,7 @@ module Whois
       DISCLAIMER_MATCHES = [
         "TERMS OF USE:", # global
         "Terminos de Uso:", # whois.nic.hn
-        "The data in the WHOIS database of Meridian", # whois.meridiantld.net
+        "The data in the WHOIS database of", # whois.meridiantld.net
         "This information is provided", # whois.gg
       ]
 
