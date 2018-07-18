@@ -33,12 +33,12 @@ describe Whois::Parsers::WhoisAudnsNetAu, "status_registered.expected" do
   end
   describe "#domain_id" do
     it do
-      expect { subject.domain_id }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.domain_id).to eq('D407400000001774763-AU')
     end
   end
   describe "#status" do
     it do
-      expect(subject.status).to eq(["clientDeleteProhibited", "clientUpdateProhibited", "serverDeleteProhibited (Protected by .auLOCKDOWN)", "serverUpdateProhibited (Protected by .auLOCKDOWN)"])
+      expect(subject.status).to eq(:registered)
     end
   end
   describe "#available?" do
@@ -53,24 +53,23 @@ describe Whois::Parsers::WhoisAudnsNetAu, "status_registered.expected" do
   end
   describe "#created_on" do
     it do
-      expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.created_on).to eq(nil)
     end
   end
   describe "#updated_on" do
     it do
-      expect(subject.updated_on).to be_a(Time)
-      expect(subject.updated_on).to eq(Time.parse("2014-11-05 10:35:59 UTC"))
+      expect(subject.updated_on).to eq(nil)
     end
   end
   describe "#expires_on" do
     it do
-      expect { subject.expires_on }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.expires_on).to eq(nil)
     end
   end
   describe "#registrar" do
     it do
       expect(subject.registrar).to be_a(Whois::Parser::Registrar)
-      expect(subject.registrar.name).to eq("MarkMonitor Inc.")
+      expect(subject.registrar.name).to eq("MarkMonitor Corporate Services Inc")
       expect(subject.registrar.organization).to eq(nil)
       expect(subject.registrar.url).to eq(nil)
     end
@@ -92,7 +91,7 @@ describe Whois::Parsers::WhoisAudnsNetAu, "status_registered.expected" do
       expect(subject.registrant_contacts[0].country_code).to eq(nil)
       expect(subject.registrant_contacts[0].phone).to eq(nil)
       expect(subject.registrant_contacts[0].fax).to eq(nil)
-      expect(subject.registrant_contacts[0].email).to eq("Visit whois.ausregistry.com.au for Web based WhoIs")
+      expect(subject.registrant_contacts[0].email).to eq(nil)
       expect(subject.registrant_contacts[0].created_on).to eq(nil)
       expect(subject.registrant_contacts[0].updated_on).to eq(nil)
     end
@@ -119,7 +118,7 @@ describe Whois::Parsers::WhoisAudnsNetAu, "status_registered.expected" do
       expect(subject.technical_contacts[0].country_code).to eq(nil)
       expect(subject.technical_contacts[0].phone).to eq(nil)
       expect(subject.technical_contacts[0].fax).to eq(nil)
-      expect(subject.technical_contacts[0].email).to eq("Visit whois.ausregistry.com.au for Web based WhoIs")
+      expect(subject.technical_contacts[0].email).to eq(nil)
       expect(subject.technical_contacts[0].created_on).to eq(nil)
       expect(subject.technical_contacts[0].updated_on).to eq(nil)
     end

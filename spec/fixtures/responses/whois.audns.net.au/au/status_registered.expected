@@ -6,11 +6,11 @@
   %s == "google.com.au"
 
 #domain_id
-  %s %ERROR{AttributeNotSupported}
+  %s 'D407400000001774763-AU'
 
 
 #status
-  %s == ["clientDeleteProhibited", "clientUpdateProhibited", "serverDeleteProhibited (Protected by .auLOCKDOWN)", "serverUpdateProhibited (Protected by .auLOCKDOWN)"]
+  %s == :registered
 
 #available?
   %s == false
@@ -20,11 +20,10 @@
 
 
 #created_on
-  %s %ERROR{AttributeNotSupported}
+  %s nil
 
 #updated_on
-  %s %CLASS{time}
-  %s %TIME{2014-11-05 10:35:59 UTC}
+  %s nil
 
 #expires_on
   %s %ERROR{AttributeNotSupported}
@@ -32,7 +31,7 @@
 
 #registrar
   %s %CLASS{registrar}
-  %s.name         == "MarkMonitor Inc."
+  %s.name         == "MarkMonitor Corporate Services Inc"
   %s.organization == nil
   %s.url          == nil
 
@@ -52,7 +51,7 @@
   %s[0].country_code  == nil
   %s[0].phone         == nil
   %s[0].fax           == nil
-  %s[0].email         == "Visit whois.ausregistry.com.au for Web based WhoIs"
+  %s[0].email         == nil
   %s[0].created_on    == nil
   %s[0].updated_on    == nil
 
@@ -75,7 +74,7 @@
   %s[0].country_code  == nil
   %s[0].phone         == nil
   %s[0].fax           == nil
-  %s[0].email         == "Visit whois.ausregistry.com.au for Web based WhoIs"
+  %s[0].email         == nil
   %s[0].created_on    == nil
   %s[0].updated_on    == nil
 

@@ -31,14 +31,9 @@ describe Whois::Parsers::WhoisAudnsNetAu, "status_available.expected" do
       expect(subject.domain).to eq(nil)
     end
   end
-  describe "#domain_id" do
-    it do
-      expect { subject.domain_id }.to raise_error(Whois::AttributeNotSupported)
-    end
-  end
   describe "#status" do
     it do
-      expect(subject.status).to eq([])
+      expect(subject.status).to eq(:available)
     end
   end
   describe "#available?" do
@@ -49,21 +44,6 @@ describe Whois::Parsers::WhoisAudnsNetAu, "status_available.expected" do
   describe "#registered?" do
     it do
       expect(subject.registered?).to eq(false)
-    end
-  end
-  describe "#created_on" do
-    it do
-      expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
-    end
-  end
-  describe "#updated_on" do
-    it do
-      expect(subject.updated_on).to eq(nil)
-    end
-  end
-  describe "#expires_on" do
-    it do
-      expect { subject.expires_on }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#registrar" do

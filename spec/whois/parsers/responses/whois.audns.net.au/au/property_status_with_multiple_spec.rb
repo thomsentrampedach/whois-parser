@@ -23,7 +23,7 @@ describe Whois::Parsers::WhoisAudnsNetAu, "property_status_with_multiple.expecte
 
   describe "#status" do
     it do
-      expect(subject.status).to eq(["serverHold (Expired)", "serverUpdateProhibited (Expired)"])
+      expect(subject.status).to eq(:registered)
     end
   end
 end

@@ -6,10 +6,7 @@
 # Copyright (c) 2009-2018 Simone Carletti <weppos@weppos.net>
 #++
 
-
-require_relative 'base'
-require 'whois/scanners/whois.audns.net.au.rb'
-
+require_relative 'base_icann_compliant'
 
 module Whois
   class Parsers
@@ -19,48 +16,16 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisAudnsNetAu < Base
-      include Scanners::Scannable
-
-      self.scanner = Scanners::WhoisAudnsNetAu
-
+    class WhoisAudnsNetAu < BaseIcannCompliant
+      self.scanner = Scanners::BaseIcannCompliant, {
+          pattern_available: /^NOT FOUND\n/,
+      }
 
       property_not_supported :disclaimer
-
-
-      property_supported :domain do
-        node("Domain Name")
-      end
-
-      property_not_supported :domain_id
-
-
-      # == Values for Status
-      #
-      # @see http://www.auda.org.au/policies/auda-2002-28/
-      # @see http://www.auda.org.au/policies/auda-2006-07/
-      #
-      property_supported :status do
-        Array.wrap(node("Status"))
-      end
-
-      property_supported :available? do
-        !!node("status:available")
-      end
-
-      property_supported :registered? do
-        !available?
-      end
-
-
-      property_not_supported :created_on
 
       property_supported :updated_on do
         node("Last Modified") { |value| parse_time(value) }
       end
-
-      property_not_supported :expires_on
-
 
       property_supported :registrar do
         node("Registrar Name") do |str|
@@ -81,13 +46,6 @@ module Whois
 
       property_supported :technical_contacts do
         build_contact("Tech Contact", Parser::Contact::TYPE_TECHNICAL)
-      end
-
-
-      property_supported :nameservers do
-        Array.wrap(node("Name Server")).map do |name|
-          Parser::Nameserver.new(name: name)
-        end
       end
 
 
