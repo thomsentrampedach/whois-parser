@@ -38,6 +38,11 @@ module Whois
         !available?
       end
 
+      property_supported :registrar do
+        if content_for_scanner =~ /^\s*Registrar:\s+(.*)\n/
+          Parser::Registrar.new(name: $1)
+        end
+      end
 
       property_supported :created_on do
         if content_for_scanner =~ /^\s+Creation Date:\s+(.*)\n/
@@ -51,6 +56,18 @@ module Whois
         if content_for_scanner =~ /^\s+Expiration Date:\s+(.*)\n/
           parse_time($1)
         end
+      end
+
+      property_supported :registrant_contacts do
+        build_contact("Registrant", Parser::Contact::TYPE_REGISTRANT)
+      end
+
+      property_supported :admin_contacts do
+        build_contact("Administrative Contact", Parser::Contact::TYPE_ADMINISTRATIVE)
+      end
+
+      property_supported :technical_contacts do
+        build_contact("Technical Contact", Parser::Contact::TYPE_TECHNICAL)
       end
 
 
@@ -81,7 +98,20 @@ module Whois
         end
       end
 
-    end
+      def build_contact(element, type)
+        if content_for_scanner =~ /#{element}:\n\s*\n((\s+\S+:\s+[^\n]+\n)+)/
+          pairs = $1
+            .split("\n")
+            .map { |l| l.split(':', 2).map(&:strip).map(&:downcase) }
+            .to_h
 
+          Parser::Contact.new(
+            :type         => type,
+            :name         => pairs['name'],
+            :email        => pairs['email']
+          )
+        end
+      end
+    end
   end
 end
