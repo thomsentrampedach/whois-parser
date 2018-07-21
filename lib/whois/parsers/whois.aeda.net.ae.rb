@@ -58,7 +58,40 @@ module Whois
         end
       end
 
+      property_supported :registrar do
+        Parser::Registrar.new({
+            id:   node("Registrar ID"),
+            name: node("Registrar Name"),
+        })
+      end
+
+      property_supported :registrant_contacts do
+        build_contact('Registrant Contact', Parser::Contact::TYPE_REGISTRANT)
+      end
+
+      property_supported :admin_contacts do
+        build_contact('Admin Contact', Parser::Contact::TYPE_ADMINISTRATIVE)
+      end
+
+      property_supported :technical_contacts do
+        build_contact('Tech Contact', Parser::Contact::TYPE_TECHNICAL)
+      end
+
+      private
+
+      def node(match)
+        content_for_scanner[/#{match}:\s*(.+)\s*$/, 1]
+      end
+
+      def build_contact(element, type)
+        Parser::Contact.new(
+            type:         type,
+            id:           node("#{element} ID"),
+            name:         node("#{element} Name"),
+            email:        node("#{element} Email")
+        )
+      end
     end
 
-end
+  end
 end
