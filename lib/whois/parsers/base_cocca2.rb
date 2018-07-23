@@ -39,10 +39,8 @@ module Whois
         case
         when list.include?("no object found")
           :available
-        when list.include?("ok")
-          :registered
         else
-          Whois::Parser.bug!(ParserError, "Unknown status `#{list.join(", ")}'.")
+          :registered
         end
       end
 

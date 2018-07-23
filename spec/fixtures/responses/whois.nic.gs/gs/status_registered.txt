@@ -7,10 +7,12 @@ Creation Date: 2004-07-08T12:00:00.000Z
 Registry Expiry Date: 2014-07-08T12:00:00.000Z
 Sponsoring Registrar: MarkMonitor
 Sponsoring Registrar IANA ID: 
-Domain Status: ok
-Domain Status: clientTransferProhibited
-Domain Status: clientUpdateProhibited
-Domain Status: clientDeleteProhibited
+Domain Status: serverUpdateProhibited (Secured by CoCCA SuperLock) https://icann.org/epp#serverUpdateProhibited
+Domain Status: serverTransferProhibited (Secured by CoCCA SuperLock) https://icann.org/epp#serverTransferProhibited
+Domain Status: serverDeleteProhibited (Secured by CoCCA SuperLock) https://icann.org/epp#serverDeleteProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
 
 Registrant ID: 955923-CoCCA
 
