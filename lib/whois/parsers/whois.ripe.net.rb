@@ -111,7 +111,7 @@ module Whois
       def build_contact(element, type)
         block_id = node(element) do |contact_id|
           pair = @ast.find do |k, v|
-            k.match?(/nic-hdl/) && v.downcase == contact_id.downcase
+            k.match?(/nic-hdl/) && v && v.downcase == contact_id.downcase
           end
 
           pair.first.split(':').first if pair && pair.first
