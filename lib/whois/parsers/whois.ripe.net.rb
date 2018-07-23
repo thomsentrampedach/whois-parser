@@ -109,9 +109,10 @@ module Whois
       # "OrgNOCEmail"=>"amzn-noc-contact@amazon.com",
       # "OrgNOCRef"=>"https://whois.arin.net/rest/poc/AANO1-ARIN",
       def build_contact(element, type)
-        block_id = node(element) do |contact_id|
+        block_id = node(element) do |contact_ids|
+           contact_id = [contact_ids].flatten.first
           pair = @ast.find do |k, v|
-            k.match?(/nic-hdl/) && v && v.downcase == contact_id.downcase
+            k.match?(/nic-hdl/) && v && [v].flatten.first.downcase == contact_id.downcase
           end
 
           pair.first.split(':').first if pair && pair.first
