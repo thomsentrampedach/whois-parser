@@ -49,7 +49,6 @@ module Whois
         end
       end
 
-      property_not_supported :updated_on
 
       property_supported :expires_on do
         if content_for_scanner =~ /Record expires on ([^ ]+) .+\n/
@@ -66,6 +65,12 @@ module Whois
         end
       end
 
+      property_not_supported :updated_on
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
     end
 
   end
