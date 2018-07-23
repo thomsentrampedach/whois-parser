@@ -26,7 +26,7 @@ module Whois
       end
 
       tokenizer :scan_disclaimer do
-        if @input.match?(/^% WHOIS LEGAL STATEMENT/)
+        if @input.match?(/^%/)
           @ast["field:disclaimer"] = _scan_lines_to_array(/%(.*)\n/).map(&:strip).join("\n")
         end
       end
