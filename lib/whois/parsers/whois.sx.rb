@@ -41,11 +41,11 @@ module Whois
 
       property_supported :status do
         case (s = node("Domain Status", &:downcase))
-        when "available"
+        when /^available/
           :available
-        when "ok"
+        when /^ok/
           :registered
-        when "premium name"
+        when /^premium name/
           :unavailable
         else
           Whois::Parser.bug!(ParserError, "Unknown status `#{s}'.")
