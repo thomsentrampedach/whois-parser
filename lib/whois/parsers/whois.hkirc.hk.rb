@@ -64,6 +64,51 @@ module Whois
         end
       end
 
+      property_supported :registrant_contacts do
+        build_contact('Registrant', Parser::Contact::TYPE_REGISTRANT)
+      end
+
+      property_supported :admin_contacts do
+        build_contact('Administrative', Parser::Contact::TYPE_ADMINISTRATIVE)
+      end
+
+      property_supported :technical_contacts do
+        build_contact('Technical', Parser::Contact::TYPE_TECHNICAL)
+      end
+
+      property_supported :registrar do
+        Parser::Registrar.new({
+            name:         node("Registrar Name"),
+            organization: "HKIRC-Accredited Registrars",
+            url:          'https://www.hkirc.hk',
+            email:        node("Email", node("Registrar Contact Information")),
+            phone:        node("Phone number", node("Registrar Contact Information"))
+        })
+      end
+
+      private
+
+      def node(match, content=content_for_scanner)
+        content[/#{match}:\s*(.+)\s*$/, 1]
+      end
+
+      def build_contact(element, type)
+        if content_for_scanner =~ /#{element} Contact Information:\n\n((.+\n)+)\n/
+          Parser::Contact.new(
+            type:         type,
+            name:         contact_name($1),
+            address:      node('Address', $1),
+            country_code: node('Country', $1),
+            phone:        node('Phone', $1),
+            fax:          node('Fax', $1),
+            email:        node('Email', $1)
+          )
+        end
+      end
+
+      def contact_name(content)
+        node('Company English Name (It should be the same as the registered/corporation name on your Business Register Certificate or relevant documents)', content) || "#{node('Given name', content)} #{node('Family name', content)}".strip
+      end
     end
 
   end
