@@ -69,7 +69,15 @@ module Whois
         end
       end
 
-    end
+      property_supported :registrar do
+        Parser::Registrar.new(
+          name: content_for_scanner[/registrar name:\s+(.+)\n/, 1],
+        )
+      end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+    end
   end
 end
