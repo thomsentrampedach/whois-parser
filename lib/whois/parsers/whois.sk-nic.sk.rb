@@ -32,36 +32,10 @@ module Whois
       # @see http://www.inwx.de/en/sk-domain.html
       #
       property_supported :status do
-        if content_for_scanner =~ /^Domain-status\s+(.+)\n/
-          case $1.downcase
-          # The domain is registered and paid.
-          when  "dom_ok"
-            :registered
-          # The domain is registered and registration fee has to be payed (14 days).
-          # Replacement 14-day period for domain payment.
-          when  "dom_ta"
-            :registered
-          # 28 days before the expiration of one year's notice is sent to the first call for an extension of domains.
-          # The domain is still fully functional (14 days).
-          when  "dom_dakt"
-            :registered
-          # 14 days before the expiration of one year's notice is sent to the second call to the extension of domains.
-          # The domain is still fully functional (14 days).
-          when  "dom_warn"
-            :registered
-          # The domain is expired and has not been renewed (14 days).
-          when  "dom_lnot"
-            :registered
-          when  "dom_exp"
-            :registered
-          # The domain losts its registrar (28 days).
-          when  "dom_held"
-            :redemption
-          else
-            Whois::Parser.bug!(ParserError, "Unknown status `#{$1}'.")
-          end
-        else
+        if available?
           :available
+        else
+          :registered
         end
       end
 
@@ -74,28 +48,35 @@ module Whois
       end
 
 
-      property_not_supported :created_on
+      property_supported :created_on do
+        if time = content_for_scanner.scan(/Created:\s+(.+)\n/).flatten.first
+          parse_time(time)
+        end
+      end
 
       property_supported :updated_on do
-        if content_for_scanner =~ /^Last-update\s+(.+)\n/
-          parse_time($1)
+        if time = content_for_scanner.scan(/Updated:\s+(.+)\n/).flatten.first
+          parse_time(time)
         end
       end
 
       property_supported :expires_on do
-        if content_for_scanner =~ /^Valid-date\s+(.+)\n/
-          parse_time($1)
+        if time = content_for_scanner.scan(/Valid Until:\s+(.+)\n/).flatten.first
+          parse_time(time)
         end
       end
 
 
       property_supported :nameservers do
-        content_for_scanner.scan(/dns_name\s+(.+)\n/).flatten.map do |name|
+        content_for_scanner.scan(/Nameserver:\s+(.+)\n/).flatten.map do |name|
           Parser::Nameserver.new(:name => name)
         end
       end
 
+      property_not_supported :registrar
+      property_not_supported :technical_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :registrant_contacts
     end
-
   end
 end

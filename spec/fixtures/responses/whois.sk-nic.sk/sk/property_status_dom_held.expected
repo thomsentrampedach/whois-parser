@@ -1,5 +1,5 @@
 #status
-  %s == :redemption
+  %s == :registered
 
 #available?
   %s == false

@@ -23,7 +23,7 @@ describe Whois::Parsers::WhoisSkNicSk, "property_status_dom_held.expected" do
 
   describe "#status" do
     it do
-      expect(subject.status).to eq(:redemption)
+      expect(subject.status).to eq(:registered)
     end
   end
   describe "#available?" do

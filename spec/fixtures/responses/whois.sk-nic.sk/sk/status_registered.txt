@@ -1,27 +1,39 @@
-%
-% whois.sk-nic.sk - whois server for TLD .sk
-%
+Domain:                       google.sk
+Registrant:                   Google
+Admin Contact:                Google
+Tech Contact:                 Google
+Registrar:                    FAJN-0002
+Created:                      2003-07-24
+Updated:                      2018-07-03
+Valid Until:                  2019-07-24
+Nameserver:                   ns1.google.com
+Nameserver:                   ns2.google.com
+Nameserver:                   ns3.google.com
+Nameserver:                   ns4.google.com
+EPP Status:                   ok
 
+Registrar:                    FAJN-0002
+Name:                         FAJNOR IP s. r. o.
+Organization:                 FAJNOR IP s. r. o.
+Organization ID:              46039201
+Phone:                        +421.263811927
+Email:                        domains@fajnor.sk
+Street:                       Krasovského 13
+City:                         Bratislava
+Postal Code:                  851 01
+Country Code:                 SK
+Created:                      2017-09-01
+Updated:                      2018-07-24
 
-Domain-name         google.sk
-Admin-id            MFAJ-0001
-Admin-name          Maria Fajnorova, Patentova a znamkova kancelaria
-Admin-legal-form    zivnost
-Admin-org.-ID       30816173
-Admin-address       Lietavska 9, Bratislava 851 06
-Admin-telephone     02/63811927, 02/63810092
-Admin-email         mfajnorova@fabap.sk
-Tech-id             MFAJ-0001
-Tech-name           Maria Fajnorova, Patentova a znamkova kancelaria
-Tech-org.-ID        30816173
-Tech-address        Lietavska 9, Bratislava 851 06
-Tech-telephone      02/63811927, 02/63810092
-Tech-email          mfajnorova@fabap.sk
-dns_name            ns1.google.com
-dns_name            ns2.google.com
-dns_name            ns3.google.com
-dns_name            ns4.google.com
-Last-update         2010-06-28
-Valid-date          2011-07-23
-Domain-status       DOM_OK
-
+Contact:                      Google
+Name:                         Domain Administrator
+Organization:                 Google Ireland Holdings Unlimited Company
+Phone:                        +353.14361000
+Email:                        dns-admin@google.com
+Street:                       70 Sir John Rogerson's Quay
+City:                         Dublin
+Postal Code:                  2
+Country Code:                 IE
+Registrar:                    FAJN-0002
+Created:                      2018-01-26
+Updated:                      2018-07-16
