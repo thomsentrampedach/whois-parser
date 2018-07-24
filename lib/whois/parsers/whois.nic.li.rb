@@ -49,6 +49,11 @@ module Whois
 
       property_not_supported :expires_on
 
+      property_not_supported :registrar
+      property_not_supported :technical_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :registrant_contacts
+
 
       property_supported :nameservers do
         if content_for_scanner =~ /Name servers:\n((.+\n)+)(?:\n|\z)/
