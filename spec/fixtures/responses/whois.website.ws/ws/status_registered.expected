@@ -10,15 +10,15 @@
 
 #created_on
   %s %CLASS{time}
-  %s %TIME{2002-03-03}
+  %s %TIME{2002-03-03T17:00:26Z}
 
 #updated_on
   %s %CLASS{time}
-  %s %TIME{2008-12-08}
+  %s %TIME{2018-01-30T09:34:45Z}
 
 #expires_on
   %s %CLASS{time}
-  %s %TIME{2010-03-03}
+  %s %TIME{2019-03-03T23:00:26Z}
 
 
 #nameservers
