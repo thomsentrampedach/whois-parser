@@ -83,6 +83,9 @@ module Whois
         parse_contact("tech-c", Parser::Contact::TYPE_TECHNICAL)
       end
 
+      property_supported :registrar do
+        parse_registrar
+      end
 
       property_supported :nameservers do
         content_for_scanner.scan(/nserver:\s+(.+)\n/).flatten.map do |line|
@@ -149,6 +152,18 @@ module Whois
           :fax          => values["fax-no"],
           :email        => values["e-mail"],
           :updated_on   => updated_on,
+        })
+      end
+
+      def parse_registrar
+        content_for_scanner.scan(/\n\n(registrar:\s*.*?)\n\n/m)
+        values = build_hash($1.scan(/(.+?):\s+(.+?)\n/))
+
+        Parser::Registrar.new({
+          name:         values['registrar'],
+          url:          values['website'],
+          email:        values['e-mail'],
+          phone:        values['phone']
         })
       end
 
