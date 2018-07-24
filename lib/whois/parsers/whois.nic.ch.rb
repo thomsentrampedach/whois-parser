@@ -103,6 +103,12 @@ module Whois
           order.map { |name| list[name] }
         end
       end
+
+      property_supported :registrar do
+        if content_for_scanner =~ /Registrar:\n(.+?)\n\n/m
+          Parser::Registrar.new(name: $1)
+        end
+      end
     end
 
   end
