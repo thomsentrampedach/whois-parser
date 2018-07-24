@@ -25,14 +25,10 @@ module Whois
     class WhoisAedaNetAe < Base
 
       property_supported :status do
-        if content_for_scanner =~ /Status:\s+(.+?)\n/
-          case $1.downcase
-            when "ok", "clientupdateprohibited" then :registered
-            else
-              Whois::Parser.bug!(ParserError, "Unknown status `#{$1}'.")
-          end
-        else
+        if available?
           :available
+        else
+          :registered
         end
       end
 
