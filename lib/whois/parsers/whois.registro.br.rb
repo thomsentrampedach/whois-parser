@@ -72,6 +72,7 @@ module Whois
         parse_contact("tech-c", Parser::Contact::TYPE_TECHNICAL)
       end
 
+      property_not_supported :registrar
 
       property_supported :nameservers do
         content_for_scanner.scan(/nserver:\s+(.+)\n/).flatten.map do |line|
