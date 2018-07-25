@@ -1,0 +1,25 @@
+Domain ID:PANDI-DO615153
+Domain Name:BOOKMYSHOW.CO.ID
+Created On:22-Jun-2015 17:08:36 UTC
+Last Updated On:12-Jun-2018 17:12:09 UTC
+Expiration Date:22-Jun-2019 23:59:59 UTC
+Status:clientTransferProhibited
+Status:clientUpdateProhibited
+Status:clientDeleteProhibited
+Status:serverTransferProhibited
+=======================================================
+Sponsoring Registrar Organization:Merekmu
+Sponsoring Registrar City:Jakarta DKI
+Sponsoring Registrar Postal Code:12950
+Sponsoring Registrar Country:ID
+Sponsoring Registrar Phone:0215764270
+Sponsoring Registrar Website:http://www.merekmu.co.id
+Sponsoring Registrar Contact Email:support@merekmu.id
+Name Server:NS-1890.AWSDNS-44.CO.UK
+Name Server:NS-661.AWSDNS-18.NET
+Name Server:NS-430.AWSDNS-53.COM
+Name Server:NS-1045.AWSDNS-02.ORG
+DNSSEC:Unsigned
+
+
+
