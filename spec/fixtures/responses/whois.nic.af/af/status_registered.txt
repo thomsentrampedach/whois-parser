@@ -5,8 +5,10 @@ Referral URL:
 Updated Date: 2014-01-16T06:50:48.226Z
 Creation Date: 2009-10-05T03:51:17.979Z
 Registry Expiry Date: 2014-05-05T03:51:17.974Z
-Sponsoring Registrar: MarkMonitor
-Sponsoring Registrar IANA ID: 
+Registrar: MarkMonitor
+Registrar Abuse Phone: +1.2083895740
+Registrar Abuse Email: ccops@markmonitor.com
+Registrar URL: http://www.markmonitor.com
 Domain Status: ok
 
 Registrant ID: 969675-CoCCA

@@ -5,8 +5,7 @@ Referral URL:
 Updated Date: 2013-09-29T05:19:04.997Z
 Creation Date: 2010-10-03T21:00:00.000Z
 Registry Expiry Date: 2014-10-02T21:00:00.000Z
-Sponsoring Registrar: CMC Registrar
-Sponsoring Registrar IANA ID: 
+Registrar: CMC Registrar
 Domain Status: ok
 
 Registrant ID: 1443-cmc

@@ -28,7 +28,7 @@ module Whois
         end
       end
 
+      property_not_supported :registrar
     end
-
   end
 end

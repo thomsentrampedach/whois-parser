@@ -5,7 +5,13 @@ Referral URL:
 Updated Date: 2014-06-28T09:18:02.516Z
 Creation Date: 2010-07-29T18:15:42.056Z
 Registry Expiry Date: 2015-07-29T18:15:42.158Z
-Sponsoring Registrar: MarkMonitor
+Registrar: MarkMonitor
+Registrar Abuse Phone: +1.2083895740
+Registrar Abuse Email: ccops@markmonitor.com
+Registrar Address: MarkMonitor Inc.  3540 East Longwing Lane  Suite 300  Meridian, Idaho 83646
+Registrar Country: US
+Registrar Phone: +1.2083895740
+Registrar Fax: +1.2083895771
 Domain Status: clientUpdateProhibited
 Domain Status: clientTransferProhibited
 Domain Status: ok

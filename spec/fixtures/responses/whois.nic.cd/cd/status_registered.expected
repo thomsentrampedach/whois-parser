@@ -24,15 +24,6 @@
 #expires_on
   %s == nil
 
-
-#registrar
-  %s %CLASS{registrar}
-  %s.id           == nil
-  %s.name         == "MARKMONITOR"
-  %s.organization == nil
-  %s.url          == nil
-
-
 #nameservers
   %s %CLASS{array}
   %s %SIZE{0}

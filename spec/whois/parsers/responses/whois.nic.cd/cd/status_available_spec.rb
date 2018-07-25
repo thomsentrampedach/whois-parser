@@ -61,11 +61,6 @@ describe Whois::Parsers::WhoisNicCd, "status_available.expected" do
       expect(subject.expires_on).to eq(nil)
     end
   end
-  describe "#registrar" do
-    it do
-      expect(subject.registrar).to eq(nil)
-    end
-  end
   describe "#nameservers" do
     it do
       expect(subject.nameservers).to be_a(Array)

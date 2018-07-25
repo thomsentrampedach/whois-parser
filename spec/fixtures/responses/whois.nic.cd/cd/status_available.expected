@@ -25,10 +25,6 @@
   %s == nil
 
 
-#registrar
-  %s == nil
-
-
 #nameservers
   %s %CLASS{array}
   %s == []
