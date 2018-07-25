@@ -45,15 +45,14 @@ module Whois
         !!(content_for_scanner =~ /Domain Name:/)
       end
 
-
       property_not_supported :created_on
-
       property_not_supported :updated_on
-
       property_not_supported :expires_on
-
-
       property_not_supported :nameservers
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
 
     end
 
