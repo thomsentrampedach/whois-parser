@@ -38,7 +38,20 @@ r.parts.each do |part|
   puts "Response: #{target}"
 
   target = File.expand_path("../../lib/whois/parsers/#{part.host}.rb", __FILE__)
-  text = "require_relative 'base_icann_compliant'\n\nmodule Whois\n  class Parsers\n\n    class #{classify(part.host)} < BaseIcannCompliant\n    end\n  end\nend"
+  text = <<~EOF
+require_relative 'base_icann_compliant'
+module Whois
+  class Parsers
+    class #{classify(part.host)} < BaseIcannCompliant
+      # self.scanner = Scanners::BaseIcannCompliant, {
+      #   pattern_available: /DOMAIN NOT FOUND/
+      #   pattern_disclaimer: /^Access to/,
+      #   pattern_throttled: /^WHOIS LIMIT EXCEEDED/,
+      # }
+    end
+  end
+end
+  EOF
   File.open(target, "w+") { |f| f.write(text) }
   puts "Parser File: #{target}"
 end
