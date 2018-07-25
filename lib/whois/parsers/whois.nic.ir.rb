@@ -51,7 +51,11 @@ module Whois
         end
       end
 
-      property_not_supported :expires_on
+      property_supported :expires_on do
+        if content_for_scanner =~ /expire-date:\s+(.*)\n/
+          parse_time($1)
+        end
+      end
 
       property_supported :nameservers do
         content_for_scanner.scan(/nserver:\s+(.+)\n/).flatten.map do |name|

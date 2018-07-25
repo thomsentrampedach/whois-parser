@@ -49,7 +49,8 @@ describe Whois::Parsers::WhoisNicIr, "status_registered.expected" do
   end
   describe "#expires_on" do
     it do
-      expect { subject.expires_on }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.expires_on).to be_a(Time)
+      expect(subject.expires_on).to eq(Time.parse("2014-12-22"))
     end
   end
   describe "#nameservers" do

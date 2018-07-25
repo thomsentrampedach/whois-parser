@@ -16,7 +16,8 @@
   %s %TIME{2014-02-17}
 
 #expires_on
-  %s %ERROR{AttributeNotSupported}
+  %s %CLASS{time}
+  %s %TIME{2014-12-22}
 
 
 #nameservers
