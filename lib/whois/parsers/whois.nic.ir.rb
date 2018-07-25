@@ -53,14 +53,16 @@ module Whois
 
       property_not_supported :expires_on
 
-
       property_supported :nameservers do
         content_for_scanner.scan(/nserver:\s+(.+)\n/).flatten.map do |name|
           Parser::Nameserver.new(:name => name)
         end
       end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
     end
-
   end
 end
