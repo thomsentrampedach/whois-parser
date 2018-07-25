@@ -1,0 +1,64 @@
+Domain Name: snpp.com
+Registry Domain ID: 52001_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.62.com
+Registrar URL: http://www.62.com
+Updated Date: 2018-07-14T17:25:22Z
+Creation Date: 1995-08-13T04:00:00Z
+Registrar Registration Expiration Date: 2019-08-12T04:00:00Z
+Registrar: Shenzhen Internet Works Online Technology Co.,Ltd.( 62.com)
+Registrar IANA ID: 1916
+Registrar Abuse Contact Email: whois@62.net
+Registrar Abuse Contact Phone: +86.075588818888
+Domain Status: ok https://www.icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: yushugui
+Registrant Organization: yushugui
+Registrant Street: futianshenzhenshi futian
+Registrant City: shenzhen
+Registrant State/Province: GD
+Registrant Postal Code: 518000
+Registrant Country: CN
+Registrant Phone: +86.13415107777
+Registrant Fax: +86.13415107777
+Registrant Email: 973039@qq.com
+Registry Admin ID: Not Available From Registry
+Admin Name: yushugui
+Admin Organization: yushugui
+Admin Street: futianshenzhenshi futian
+Admin City: shenzhen
+Admin State/Province: GD
+Admin Postal Code: 518000
+Admin Country: CN
+Admin Phone: +86.13415107777
+Admin Fax: +86.13415107777
+Admin Email: 973039@qq.com
+Registry Tech ID: Not Available From Registry
+Tech Name: yushugui
+Tech Organization: yushugui
+Tech Street: futianshenzhenshi futian
+Tech City: shenzhen
+Tech State/Province: GD
+Tech Postal Code: 518000
+Tech Country: CN
+Tech Phone: +86.13415107777
+Tech Fax: +86.13415107777
+Tech Email: 973039@qq.com
+Registry Billing ID: Not Available From Registry
+Billing Name: yushugui
+Billing Organization: yushugui
+Billing Street: futianshenzhenshi futian
+Billing City: shenzhen
+Billing State/Province: GD
+Billing Postal Code: 518000
+Billing Country: CN
+Billing Phone: +86.13415107777
+Billing Fax: +86.13415107777
+Billing Email: 973039@qq.com
+Name Server: 62NS1.DNS.COM
+Name Server: 62NS2.DNS.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-07-26T00:49:48Z <<<
+
+
+For more information on WHOIS status codes, please visit:https://www.icann.org/resources/pages/epp-status-codes-list2014-06-18-en

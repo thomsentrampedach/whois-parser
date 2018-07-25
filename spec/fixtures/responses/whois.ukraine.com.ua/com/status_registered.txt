@@ -1,0 +1,29 @@
+
+
+Domain Name: 8ALLOCATE.COM
+Registry Domain ID: 
+Registrar WHOIS Server: whois.ukraine.com.ua
+Registrar URL: https://www.ukraine.com.ua
+Updated Date: 
+Creation Date: 2017-02-28T13:43:27Z
+Registrar Registration Expiration Date: 2019-02-28T13:43:27Z
+Registrar: HOSTING UKRAINE LLC
+Registrar IANA ID: 2374
+Registrar Abuse Contact Email: abuse@ukraine.com.ua
+Registrar Abuse Contact Phone: +380.443927433
+Domain Status: ok http://www.icann.org/epp#ok
+Registrant Organization: Hosting Ukraine LLC
+Registrant State/Province: Kiev Region
+Registrant Country: UA
+Name Server: NS14.INHOSTEDNS.COM
+Name Server: NS24.INHOSTEDNS.NET
+Name Server: NS34.INHOSTEDNS.ORG
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-07-25T16:51:01Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Notes:
+Since May, 25 2018 whois provides only the ICANN-required minimum data set.
+Visit https://privacyprotected.net/ to contact Domain Registrant.

@@ -1,0 +1,28 @@
+Domain Name: yseq.net
+Registry Domain ID: 1828671700_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.puredomain.com
+Registrar URL: http://www.puredomain.com
+Updated Date: 2013-09-24T06:45:43Z
+Creation Date: 2013-09-24T00:00:00Z
+Registry Expiry Date: 2018-09-24T06:45:43Z
+Registrar: Variomedia AG dba puredomain.com
+Registrar IANA ID: 1257
+Registrar Abuse Contact Email: abuse@variomedia.de
+Registrar Abuse Contact Phone: +49.331237890
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: C7633-VRMD
+Registrant Country: DE
+Registry Admin ID:  C7633-VRMD
+Admin Country: DE
+Registry Tech ID:  C12845-VRMD
+Tech Organization: Variomedia AG
+Tech Country: DE
+Name Server: ns1.variomedia.de
+Name Server: ns2.variomedia.de
+DNSSEC: unsigned
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of WHOIS database: 2018-07-25T14:44:04Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Query 1 of 100 allowed queries per hour.

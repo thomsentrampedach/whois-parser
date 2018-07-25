@@ -1,0 +1,75 @@
+Domain Name: CLOUDFLARE.COM
+Registry Domain ID: 1542998887_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.cloudflare.com
+Registrar URL: http://www.cloudflare.com/registrar
+Updated Date: 2018-02-12T14:43:14
+Creation Date: 2009-02-17T22:07:54
+Registrar Registration Expiration Date: 2024-02-17T22:07:54
+Registrar: CloudFlare, Inc.
+Registrar IANA ID: 1910
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Data Protected Data Protected
+Registrant Organization: Data Protected
+Registrant Street: 123 Data Protected 
+Registrant City: Toronto
+Registrant State/Province: ON
+Registrant Postal Code: M6K 3M1
+Registrant Country: CA
+Registrant Phone: +1.0000000000
+Registrant Phone Ext: 
+Registrant Fax: +1.0000000000
+Registrant Fax Ext: 
+Registrant Email: noreply@data-protected.net
+Registry Admin ID: 
+Admin Name: Data Protected Data Protected
+Admin Organization: Data Protected
+Admin Street: 123 Data Protected 
+Admin City: Toronto
+Admin State/Province: ON
+Admin Postal Code: M6K 3M1
+Admin Country: CA
+Admin Phone: +1.0000000000
+Admin Phone Ext: 
+Admin Fax: +1.0000000000
+Admin Fax Ext: 
+Admin Email: noreply@data-protected.net
+Registry Tech ID: 
+Tech Name: Data Protected Data Protected
+Tech Organization: Data Protected
+Tech Street: 123 Data Protected 
+Tech City: Toronto
+Tech State/Province: ON
+Tech Postal Code: M6K 3M1
+Tech Country: CA
+Tech Phone: +1.0000000000
+Tech Phone Ext: 
+Tech Fax: +1.0000000000
+Tech Fax Ext: 
+Tech Email: noreply@data-protected.net
+Name Server: ns3.cloudflare.com
+Name Server: ns5.cloudflare.com
+Name Server: ns4.cloudflare.com
+Name Server: ns7.cloudflare.com
+Name Server: ns6.cloudflare.com
+
+Registrar Abuse Contact Email: registrar-abuse@cloudflare.com
+Registrar Abuse Contact Phone: +1.6503198930
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-02-12T14:43:14 <<<
+
+"For more information on Whois status codes, please visit https://icann.org/epp"
+
+Data in the CloudFlare Registrar WHOIS database is provided to you by CloudFlare
+under the terms and conditions at https://www.cloudflare.com/registrar-terms
+
+By submitting this query, you agree to abide by these terms.
+
+CloudFlare Registrar protects websites from domain hijacking and provides
+a secure foundation, using strict, offline-only change control
+for high-value domains.

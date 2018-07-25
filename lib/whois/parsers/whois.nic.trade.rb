@@ -1,9 +1,9 @@
 require_relative 'base_icann_compliant'
 module Whois
   class Parsers
-    class WhoisNicJobs < BaseIcannCompliant
+    class WhoisNicTrade < BaseIcannCompliant
       self.scanner = Scanners::BaseIcannCompliant, {
-        pattern_available: /^No match for/
+        pattern_available: /^No Data Found/
       # pattern_disclaimer: /^Access to/,
       # pattern_throttled: /^WHOIS LIMIT EXCEEDED/,
       }

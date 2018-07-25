@@ -1,0 +1,19 @@
+Domain Name: UPPERLIPLIFT.COM
+Registrar WHOIS Server: whois.101domain.com
+Registrar URL: https://www.101domain.com/
+Updated Date: 2018-05-24T23:45:20Z
+Creation Date: 2012-07-13T18:21:39Z
+Registrar Registration Expiration Date: 2019-07-13T18:21:39Z
+Registrar: https://www.101domain.com/
+Registrar IANA ID: 1011
+Registrar Abuse Contact Email: abuse@101domain.com
+Registrar Abuse Contact Phone: +1.7604448674
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant State/Province: CA
+Registrant Country: US
+TO CONTACT REGISTRANT, COMPLETE THIS FORM: https://my.101domain.com/contact-registrant/UPPERLIPLIFT.COM.html
+Name Server: DNS1.STABLETRANSIT.COM
+Name Server: DNS2.STABLETRANSIT.COM
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+>>> Last update of WHOIS database: 2018-07-25T16:40:52Z <<<

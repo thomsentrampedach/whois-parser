@@ -1,0 +1,83 @@
+Domain Name: jjory.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.nordnet.net
+Registrar URL: http://www.nordnet.net
+Updated Date: 2017-09-13T03:42:25.0Z
+Creation Date: 2002-09-23T03:29:57.0Z
+Registrar Registration Expiration Date: 2022-09-22T22:00:00.0Z
+Sponsoring Registrar: NORDNET
+Sponsoring Registrar IANA ID: 68
+Registrar Abuse Contact Email: abuse-registrar@nordnet.net
+Registrar Abuse Contact Phone: +33.969360360
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:Not Available From Registry
+Registrant Name:  
+Registrant Organization: Cabinet Ory
+Registrant Street: 18 Rue Jasmin
+Registrant City: Paris 16
+Registrant State/Province: 
+Registrant Postal Code: 75016
+Registrant Country: FR
+Registrant Phone: 
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: 
+Registry Admin ID:Not Available From Registry
+Admin Name: Khelifa Reda
+Admin Organization: Cabinet Ory
+Admin Street: 6 Rue du General Camou
+Admin City: Paris 07
+Admin State/Province: 
+Admin Postal Code: 75007
+Admin Country: FR
+Admin Phone: +33.144308888
+Admin Phone Ext: 
+Admin Fax: +33.145258266
+Admin Fax Ext: 
+Admin Email: r.khelifa@jjory.com
+Registry Tech ID:Not Available From Registry
+Tech Name: Contact Technique Lri
+Tech Organization: Nordnet
+Tech Street: 111 Rue de Croix
+Tech City: Hem
+Tech State/Province: 
+Tech Postal Code: 59510
+Tech Country: FR
+Tech Phone: +33.892702033
+Tech Phone Ext: 
+Tech Fax: +33.320665669
+Tech Fax Ext: 
+Tech Email: technical@lerelaisinternet.com
+Name Server: ns1.lerelaisinternet.com
+Name Server: ns2.lerelaisinternet.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: 
+http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-07-25T16:49:18.801Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp.
+
+**************************************************
+* Base de Donnees des domaines COM, NET et ORG   *
+* enregistres par NORDNET.                       *
+* Ces informations sont affichees par le serveur *
+* Whois de NORDNET, le Registrar du              *
+* Groupe ORANGE.                                 *
+* Elles ne peuvent etre utilisees sans l accord  *
+* prealable de NORDNET.                          *
+*                                                *
+* Database of registration for COM, NET and      *
+* ORG by NORDNET.                                *
+* This informations is from NORDNET s Whois      *
+* Server, the Registrar for the                  *
+* Group ORANGE.                                  *
+* Use of this data is strictly prohibited with   *
+* out proper authorisation of NORDNET.           *
+**************************************************
+Deposez votre domaine sur le site http://www.nordnet.net
+
+
+Copyright Nordnet Registrar
+
+Serveur Whois version 5.0

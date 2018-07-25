@@ -1,0 +1,50 @@
+Domain Name: MILITARY2DRIVER.JOBS
+Registry Domain ID: 122283906_DOMAIN_JOBS-VRSN
+Registrar WHOIS Server: whois-jobs.nameshare.com
+Registrar URL: http://www.nameshare.com
+Updated Date: 2018-02-15T07:57:35Z
+Creation Date: 2016-04-22T20:45:45Z
+Registrar Registration Expiration Date: 2019-04-22T20:45:45Z
+Registrar: NameShare, Inc.
+Registrar IANA ID: 667
+Registrar Abuse Contact Email: abuse-2014-2@encirca.com
+Registrar Abuse Contact Phone: +1.7819429975
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant Organization: Holland New Penn Reddaway
+Registrant State/Province: OH
+Registrant Country: United States
+Name Server: NS-1186.AWSDNS-20.ORG
+Name Server: NS-614.AWSDNS-12.NET
+Name Server: NS-342.AWSDNS-42.COM
+Name Server: NS-1555.AWSDNS-02.CO.UK
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>> Last update of WHOIS database: 2018-07-25T16:42:44Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+
+
+
+NOTICE AND TERMS OF USE: You are not authorized to access or query our
+WHOIS database through the use of high-volume, automated, electronic
+processes. The Data in Name Share Inc's WHOIS database is provided by
+Name Share Inc for information purposes only, and to assist persons in
+obtaining information about or related to a domain name registration
+record. Name Share Inc does not guarantee its accuracy. By submitting
+a WHOIS query, you agree to abide by the following terms of use: You
+agree that you may use this Data only for lawful purposes and that
+under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail,
+telephone, or facsimile; or
+(2) enable high volume, automated, electronic processes that apply to
+Name Share Inc (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of Name Share Inc. Name
+Share Inc reserves the right to terminate your access to the WHOIS
+database in its sole discretion, including without limitation, for
+excessive querying of the WHOIS database or for failure to otherwise
+abide by this policy. Name Share Inc reserves the right to modify
+these terms at any time.

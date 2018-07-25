@@ -1,0 +1,59 @@
+Domain Name: bygfx.com
+Registry Domain ID: 
+Registrar WHOIS Server: whois.55hl.com
+Registrar URL: http://www.55hl.com
+Updated Date: 2017-10-30T03:51:00Z
+Creation Date: 2017-10-29T02:34:16Z
+Registrar Registration Expiration Date: 2018-10-29T02:34:16Z
+Registrar: JIANGSU BANGNING SCIENCE & TECHNOLOGY CO. LTD
+Registrar IANA ID: 1469
+Registrar Abuse Contact Email: abuse@55hl.com
+Registrar Abuse Contact Phone: +86.2586883426 ext 1009
+Reseller: 
+Domain Status: ok https://www.icann.org/epp#OK  
+Registry Registrant ID: 
+Registrant Name: guanping zhang
+Registrant Organization: zhangguanping
+Registrant Street: chaoyangqu,taiyanggongzhonglu,jia6haolin1hao
+Registrant City: beijing
+Registrant State/Province: beijing
+Registrant Postal Code: 100000
+Registrant Country: CN
+Registrant Phone: +86.1087654909
+Registrant Phone Ext: 
+Registrant Fax: +86.1087654909
+Registrant Fax Ext: 
+Registrant Email: ux908@outlook.com
+Registry Admin ID: 
+Admin Name: guanping zhang
+Admin Organization: zhangguanping
+Admin Street: chaoyangqu,taiyanggongzhonglu,jia6haolin1hao
+Admin City: beijing
+Admin State/Province: beijing
+Admin Postal Code: 100000
+Admin Country: CN
+Admin Phone: +86.1087654909
+Admin Phone Ext: 
+Admin Fax: +86.1087654909
+Admin Fax Ext: 
+Admin Email: ux908@outlook.com
+Registry Tech ID: 
+Tech Name: guanping zhang
+Tech Organization: zhangguanping
+Tech Street: chaoyangqu,taiyanggongzhonglu,jia6haolin1hao
+Tech City: beijing
+Tech State/Province: beijing
+Tech Postal Code: 100000
+Tech Country: CN
+Tech Phone: +86.1087654909
+Tech Phone Ext: 
+Tech Fax: +86.1087654909
+Tech Fax Ext: 
+Tech Email: ux908@outlook.com
+Name Server: f1g1ns1.dnspod.net
+Name Server: f1g1ns2.dnspod.net
+DNSSEC: Unsigned
+
+>>> Last update of WHOIS database: 2018-07-26T12:39:29Z <<< 
+
+For more information on Whois status codes, please visit https://icann.org/epp
