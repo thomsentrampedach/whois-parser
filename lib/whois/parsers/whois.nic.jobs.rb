@@ -3,8 +3,7 @@ module Whois
   class Parsers
     class WhoisNicJobs < BaseIcannCompliant
       self.scanner = Scanners::BaseIcannCompliant, {
-        pattern_available: /^No match for/
-      # pattern_disclaimer: /^Access to/,
+        pattern_available: /^No match for/,
       # pattern_throttled: /^WHOIS LIMIT EXCEEDED/,
       }
     end

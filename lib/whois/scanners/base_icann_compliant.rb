@@ -13,6 +13,7 @@ module Whois
           :skip_empty_line,
           :skip_blank_line,
           :scan_keyvalue,
+          #:scan_notice,
           :scan_disclaimer,
           :skip_end,
       ]
@@ -35,6 +36,12 @@ module Whois
           @ast["Domain Name"] = @input[1].strip
         end
       end
+
+      # tokenizer :scan_notice do
+      #   if settings[:pattern_notice] && @input.match?(settings[:pattern_notice])
+      #     @ast["field:notice"] = _scan_lines_to_array(/(.+)\n/).join(" ")
+      #   end
+      # end
 
       tokenizer :scan_disclaimer do
         if settings[:pattern_disclaimer] && @input.match?(settings[:pattern_disclaimer])

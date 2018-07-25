@@ -21,14 +21,9 @@ describe Whois::Parsers::WhoisNicJobs, "status_available.expected" do
     described_class.new(part)
   end
 
-  describe "#disclaimer" do
-    it do
-      expect(subject.disclaimer).to eq("TERMS OF USE: You are not authorized to access or query our Whois database through the use of electronic processes that are high-volume and automated except as reasonably necessary to register domain names or modify existing registrations; the Data in VeriSign's (\"VeriSign\") Whois database is provided by VeriSign for information purposes only, and to assist persons in obtaining information about or related to a domain name registration record. VeriSign does not guarantee its accuracy. By submitting a Whois query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to VeriSign (or its computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited without the prior written consent of VeriSign. You agree not to use electronic processes that are automated and high-volume to access or query the Whois database except as reasonably necessary to register domain names or modify existing registrations. VeriSign reserves the right to restrict your access to the Whois database in its sole discretion to ensure operational stability.  VeriSign may restrict or terminate your access to the Whois database for failure to abide by these terms of use. VeriSign reserves the right to modify these terms at any time.")
-    end
-  end
   describe "#domain" do
     it do
-      expect(subject.domain).to eq("u34jedzcq.jobs")
+      expect(subject.domain).to eq(nil)
     end
   end
   describe "#domain_id" do
@@ -75,16 +70,6 @@ describe Whois::Parsers::WhoisNicJobs, "status_available.expected" do
     it do
       expect(subject.nameservers).to be_a(Array)
       expect(subject.nameservers).to eq([])
-    end
-  end
-  describe "#referral_whois" do
-    it do
-      expect(subject.referral_whois).to eq(nil)
-    end
-  end
-  describe "#referral_url" do
-    it do
-      expect(subject.referral_url).to eq(nil)
     end
   end
 end
