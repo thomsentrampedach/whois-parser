@@ -7,7 +7,7 @@
 #++
 
 
-require_relative 'base'
+require_relative 'base_icann_compliant'
 
 
 module Whois
@@ -22,41 +22,10 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisNicAi < Base
-
-      property_supported :status do
-        if available?
-          :available
-        else
-          :registered
-        end
-      end
-
-      property_supported :available? do
-        !!(content_for_scanner =~ /Domain (.+?) not registred/)
-      end
-
-      property_supported :registered? do
-        !available?
-      end
-
-
-      property_not_supported :created_on
-
-      property_not_supported :updated_on
-
-      property_not_supported :expires_on
-
-
-      property_supported :nameservers do
-        if content_for_scanner =~ /Nameservers\n((.+\n)+)\n/
-          $1.split("\n").select { |e| e =~ /Server Hostname/ }.map do |line|
-            Parser::Nameserver.new(:name => line.split(":").last.strip)
-          end
-        end
-      end
-
+    class WhoisNicAi < BaseIcannCompliant
+      self.scanner = Scanners::BaseIcannCompliant, {
+        pattern_available: /Domain Status: No Object Found/
+      }
     end
-
   end
 end

@@ -1,59 +1,67 @@
-DOMAIN INFORMATION
+Domain Name: google.ai
+Domain ID: 325702_nic_ai
+WHOIS Server: whois.nic.ai
+Updated Date: 2018-02-28T23:55:33.196Z
+Creation Date: 2017-12-16T05:37:20.801Z
+Registry Expiry Date: 2019-09-25T05:37:20.856Z
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Registrar: Markmonitor
+Registrar Abuse Phone: +1.2083895740
+Registrar Abuse Email: ccops@markmonitor.com
+Registrant ID: 526771_nic_ai
+Registrant Name: Domain Administrator
+Registrant Organization: Google LLC
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant City: Mountain View
+Registrant State/Province: CA
+Registrant Postal Code: 94043
+Registrant Country: US
+Registrant Phone: +1.6502530000
+Registrant Fax: +1.6502530001
+Registrant Email: dns-admin@google.com
+Admin ID: 526771_nic_ai
+Admin Name: Domain Administrator
+Admin Organization: Google LLC
+Admin Street: 1600 Amphitheatre Parkway
+Admin City: Mountain View
+Admin State/Province: CA
+Admin Postal Code: 94043
+Admin Country: US
+Admin Phone: +1.6502530000
+Admin Fax: +1.6502530001
+Admin Email: dns-admin@google.com
+Billing ID: 514507_nic_ai
+Billing Name: CCOPS Billing
+Billing Organization: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane
+Billing Street: Suite 300
+Billing City: Meridian
+Billing State/Province: Idaho
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Fax: +1.2083895771
+Billing Email: ccopsbilling@markmonitor.com
+Tech ID: 526771_nic_ai
+Tech Name: Domain Administrator
+Tech Organization: Google LLC
+Tech Street: 1600 Amphitheatre Parkway
+Tech City: Mountain View
+Tech State/Province: CA
+Tech Postal Code: 94043
+Tech Country: US
+Tech Phone: +1.6502530000
+Tech Fax: +1.6502530001
+Tech Email: dns-admin@google.com
+Name Server: ns1.zdns.google
+Name Server: ns2.zdns.google
+Name Server: ns3.zdns.google
+Name Server: ns4.zdns.google
+DNSSEC: unsigned
+>>> Last update of WHOIS database: 2018-07-25T01:42:03.152Z <<<
 
- Complete Domain Name........: google.ai
-Organization Using Domain Name
- Organization Name..........: Google Inc.
- Street Address.............: 1600 Amphitheatre Parkway
- City.......................: Mountain View
- State......................: CA
- Postal Code................: 94043
- Country....................: US
-Administrative Contact
- NIC Handle (if known)......: 
- (I)ndividual (R)ole........: R
- Name (Last, First).........: DNS Admin
- Organization Name..........: Google Inc.
- Street Address.............: 1600 Amphitheatre Parkway
- City.......................: Mountain View
- State......................: CA
- Postal Code................: 94043
- Country....................: US
- Phone Number...............: +1.6502530000
- Fax Number.................: +1.6506188571
- E-Mailbox..................: dns-admin@google.com
-Technical Contact
- NIC Handle (if known)......: 
- (I)ndividual (R)ole........: R
- Name (Last, First).........: Administrator, Domain
- Organization Name..........: MarkMonitor
- Street Address.............: 391 N. Ancestor Pl
- City.......................: Boise
- State......................: ID
- Postal Code................: 83704
- Country....................: US
- Phone Number...............: +1.2083895740
- Fax Number.................: +1.2083895771
- E-Mailbox..................: ccops@markmonitor.com
-Billing Contact
- NIC Handle (if known)......: 
- (I)ndividual (R)ole........: R
- Name (Last, First).........: CCOPSBilling
- Organization Name..........: MarkMonitor
- Street Address.............: 391 N. Ancestor Pl
- City.......................: Boise
- State......................: ID
- Postal Code................: 83704
- Country....................: US
- Phone Number...............: +1.2083895740
- Fax Number.................: +1.2083895771
- E-Mailbox..................: ccopsbilling@markmonitor.com
-Nameservers
- Primary Server Hostname....: ns1.google.com
- Primary Server Netaddress..: 
- Secondary Server Hostname..: ns2.google.com
- Secondary Server Netaddress: 
- Third Server Hostname......: ns3.google.com
- Fourth Server Hostname.....: ns4.google.com
+TERMS OF USE: You are not authorized to access or query our WHOIS database through the use of electronic processes that are high-volume and automated.  THis WHOIS database is provided by as a service to the internet community.
 
-
-Last paid by: ccops@markmonitor.com
+The data is for information purposes only. We do not guarantee its accuracy. By submitting a WHOIS query, you agree to abide by the following terms of use: You agree that you may use this Data only for lawful purposes and that under no circumstances will you use this Data to: (1) allow, enable, or otherwise support the transmission of mass unsolicited, commercial advertising or solicitations via e-mail, telephone, or facsimile; or (2) enable high volume, automated, electronic processes that apply to CoCCA it's members (or CoCCA or member computer systems). The compilation, repackaging, dissemination or other use of this Data is expressly prohibited.
