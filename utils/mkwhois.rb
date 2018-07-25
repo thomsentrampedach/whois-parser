@@ -19,8 +19,9 @@ end
 
 d = ARGV.shift || raise("Missing domain")
 n = ARGV.shift || raise("Missing file name")
+h = ARGV.shift
 
-r = Whois.lookup(d)
+r = Whois::Client.new(host: h).lookup(d)
 tld = r.server.allocation
 
 def classify(string)

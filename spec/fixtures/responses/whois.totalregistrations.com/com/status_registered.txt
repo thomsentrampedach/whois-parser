@@ -1,0 +1,87 @@
+Domain Name: qxltd.com
+Registry Domain ID: 106139406_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.totalregistrations.com
+Registrar URL: http://www.totalregistrations.com
+Updated Date: 2017-11-05T01:56:00Z
+Creation Date: 2003-11-05T17:04:00Z
+Registrar Registration Expiration Date: 2018-11-05T00:00:00Z
+Registrar: Total Registrations
+Registrar IANA ID: 131
+Registrar Abuse Contact Email: abuse@totalregistrations.com
+Registrar Abuse Contact Phone: +44.8448475838
+Reseller: Total Registrations
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization: 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: REDACTED FOR PRIVACY
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: 
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: https://partners.totalregistrations.com/whoiscontact/
+Registry Admin ID: 
+Admin Organization: REDACTED FOR PRIVACY
+Admin Name: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province: REDACTED FOR PRIVACY
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: 
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: https://partners.totalregistrations.com/whoiscontact/
+Registry Tech ID:: 
+Tech Organization: REDACTED FOR PRIVACY
+Tech Name: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province: REDACTED FOR PRIVACY
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: 
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: https://partners.totalregistrations.com/whoiscontact/
+Name Server: dns1.name-services.com
+Name Server: dns4.name-services.com
+Name Server: dns5.name-services.com
+Name Server: dns2.name-services.com
+Name Server: dns3.name-services.com
+DNSSEC: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-07-25T15:28:54Z <<<
+
+Registration Service Provider:
+    Total Registrations, trsupport@totalregistrations.com
+    Phone: +44.08448560681
+    http://tr3.totalregistrations.com
+    This company may be contacted for domain login/passwords,
+    DNS/Nameserver changes, and general domain support questions
+
+For more information on Whois status codes, please visit https://icann.org/epp
+The Data in TotalRegistrations' WHOIS database is provided by
+TotalRegistrations for information purposes and to assist persons
+in obtaining information about or related to a domain name
+registration record. TotalRegistrations does not guarantee its
+accuracy. By submitting a WHOIS query, you agree that you will
+use this Data only for lawful purposes and that, under no
+circumstances will you use this Data to: (1) allow,
+enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via e-mail (spam); or  (2)
+enable high volume, automated, electronic processes that apply to
+TotalRegistrations (or its systems).  TotalRegistrations reserves
+the right to modify these terms at any time.  By submitting this
+query, you agree to abide by this policy
