@@ -77,6 +77,10 @@ module Whois
         end
       end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+
 
       property_supported :nameservers do
         if content_for_scanner =~ /Nameservers:\s((.+\n)+)\n/
