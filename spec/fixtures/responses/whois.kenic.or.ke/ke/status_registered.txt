@@ -1,77 +1,41 @@
-% Copyright KENIC
+Domain Name: google.co.ke
+Domain ID: 1625-Kenic
+WHOIS Server: whois.kenic.or.ke
+Referral URL: 
+Updated Date: 2017-12-05T19:55:33.58Z
+Creation Date: 2003-04-17T21:00:00.0Z
+Registry Expiry Date: 2018-12-31T21:00:00.0Z
+Sponsoring Registrar: Afriregister Limited
+Domain Status: clientUpdateProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientDeleteProhibited
+Registrant ID: 118429-KENIC
+Registrant Name: DNS Admin
+Registrant Organization: Google Inc.
+Registrant Street: 1600 Amphitheatre Parkway
+Registrant City: Mountain View
+Registrant State/Province: 
+Registrant Postal Code: 94043
+Registrant Country: US
+Billing Name: MarkMonitor Inc.
+Billing Street: 3540 East Longwing Lane
+Billing Street: Suite 300
+Billing City: Meridian
+Billing State/Province: ID
+Billing Postal Code: 83646
+Billing Country: US
+Billing Phone: +1.2083895740
+Billing Phone Ext: 
+Billing Fax: +1.2083895771
+Billing Fax Ext: 
+Billing Email: ccopsbilling@markmonitor.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+DNSSEC: unsigned
+Additional Section
+Redemption Expiry Date:
+>>> Last update of WHOIS database: 2018-07-26T03:34:28.161Z <<<
 
-%  The data below is provided for information purposes
-%  and to assist persons in obtaining information about or
-%  related to domain name registrations.
-%  By submitting a whois query, you agree to use this data
-%  only for lawful purposes.
-
-
-% remarks:     Security issues should also be addressed to noc@kenic.or.ke
-% remarks:     Mail abuse issues should also be addressed to abuse@kenic.or.ke
- 
-% whois.kenic.or.ke accepts only direct match queries.
-% Types of queries are: domains (.KE) and POCs.
-
-
-Domain Information
-Query: google.co.ke
-Status: Active
-Created: 18 Apr 2003 00:00 EAT
-Modified: 16 Dec 2013 12:48 EAT
-Expires: 01 Jan 2015 00:00 EAT
-Name Servers:
-    ns1.google.com
-    ns2.google.com
-    ns3.google.com
-    ns4.google.com
-
-Registrar Information
-Registrar Name: Afriregister Limited
-
-
-
-
-Registrant:
-Name: DNS Admin
-Organisation: Google Inc.
-Address:
-	1600 Amphitheatre Parkway
-	Mountain View, CA 94043
-	US
-Phone Number: +1.6502530000
-
-
-Admin Contact:
-Name: DNS Admin
-Organisation: Google Inc.
-Address:
-	1600 Amphitheatre Parkway
-	Mountain View, CA 94043
-	US
-Email Address: dns-admin@google.com
-Phone Number: +1.6502530000
-
-
-Technical Contact:
-Name: DNS Admin
-Organisation: Google Inc.
-Address:
-	1600 Amphitheatre Parkway
-	Mountain View, CA 94043
-	US
-Email Address: dns-admin@google.com
-Phone Number: +1.6502530000
-
-
-Billing Contact:
-Name: Domain Administrator
-Organisation: MarkMonitor Inc.
-Address:
-	391 N. Ancestor Place
-	Boise, ID 83704
-	US
-Email Address: ccopsbilling@markmonitor.com
-Phone Number: +1.2083895740
-Fax Number: +1.2083895771
 

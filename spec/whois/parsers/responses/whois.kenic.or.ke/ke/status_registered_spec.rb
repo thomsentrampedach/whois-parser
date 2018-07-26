@@ -39,19 +39,19 @@ describe Whois::Parsers::WhoisKenicOrKe, "status_registered.expected" do
   describe "#created_on" do
     it do
       expect(subject.created_on).to be_a(Time)
-      expect(subject.created_on).to eq(Time.parse("2003-04-18 00:00:00 EAT"))
+      expect(subject.created_on).to eq(Time.parse("2003-04-17T21:00:00Z"))
     end
   end
   describe "#updated_on" do
     it do
       expect(subject.updated_on).to be_a(Time)
-      expect(subject.updated_on).to eq(Time.parse("2013-12-16 12:48:00 EAT"))
+      expect(subject.updated_on).to eq(Time.parse("2017-12-05T19:55:33Z"))
     end
   end
   describe "#expires_on" do
     it do
       expect(subject.expires_on).to be_a(Time)
-      expect(subject.expires_on).to eq(Time.parse("2015-01-01 00:00:00 EAT"))
+      expect(subject.expires_on).to eq(Time.parse("2018-12-31T21:00:00Z"))
     end
   end
   describe "#nameservers" do
