@@ -62,7 +62,23 @@ module Whois
         end
       end
 
-    end
+      property_supported :registrar do
+        content_for_scanner =~ /Registrar:\s+(.*)\n/
+        name = $1
+        content_for_scanner =~ /Registrar website:\s+(.*)\n/
+        url = $1
+        content_for_scanner =~ /Registrar email:\s+(.*)\n/
+        email = $1
+        Parser::Registrar.new(
+          name: name,
+          url: url,
+          email: email,
+        )
+      end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+    end
   end
 end
