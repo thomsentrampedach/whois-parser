@@ -27,14 +27,12 @@ module Whois
       property_supported :status do
         if content_for_scanner =~ /Status:\s+(.+?)\n/
           case $1.downcase
-          when "active"
-            :registered
           when "not registered"
             :available
           when "this whois server does not have any records for that zone."
             :invalid
           else
-            Whois::Parser.bug!(ParserError, "Unknown status `#{$1}'.")
+            :registered
           end
         else
           Whois::Parser.bug!(ParserError, "Unable to parse status.")
