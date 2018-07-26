@@ -1,24 +1,23 @@
-Domain Name: secret-santa.team
-Registry Domain ID: a4bef7c296dc494f90e31af0f3824d06-DONUTS
-Registrar WHOIS Server: whois.ovh.com
-Registrar URL: http://www.ovh.com
-Updated Date: 2018-06-10T22:30:31Z
-Creation Date: 2018-04-10T11:47:08Z
-Registry Expiry Date: 2019-04-10T11:47:08Z
-Registrar: OVH SAS
-Registrar IANA ID: 433
-Registrar Abuse Contact Email: abuse@ovh.net
-Registrar Abuse Contact Phone: 
-Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
-Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Name: tilde.team
+Registry Domain ID: 52ddba6c5cc84977b74e92d2adb7b0ea-DONUTS
+Registrar WHOIS Server: whois.donuts.co
+Registrar URL: http://domains.google.com
+Updated Date: 2018-07-14T20:26:45Z
+Creation Date: 2017-05-30T20:25:48Z
+Registry Expiry Date: 2019-05-30T20:25:48Z
+Registrar: Google Inc.
+Registrar IANA ID: 895
+Registrar Abuse Contact Email: registrar-abuse@google.com
+Registrar Abuse Contact Phone: +1.8772376466
+Domain Status: ok https://icann.org/epp#ok
 Registry Registrant ID: REDACTED FOR PRIVACY
 Registrant Name: REDACTED FOR PRIVACY
-Registrant Organization: JoliCode
+Registrant Organization: Contact Privacy Inc. Customer 1241401709
 Registrant Street: REDACTED FOR PRIVACY
 Registrant City: REDACTED FOR PRIVACY
-Registrant State/Province: 
+Registrant State/Province: ON
 Registrant Postal Code: REDACTED FOR PRIVACY
-Registrant Country: FR
+Registrant Country: CA
 Registrant Phone: REDACTED FOR PRIVACY
 Registrant Phone Ext: REDACTED FOR PRIVACY
 Registrant Fax: REDACTED FOR PRIVACY
@@ -50,11 +49,13 @@ Tech Phone Ext: REDACTED FOR PRIVACY
 Tech Fax: REDACTED FOR PRIVACY
 Tech Fax Ext: REDACTED FOR PRIVACY
 Tech Email: Please query the RDDS service of the Registrar of Record identified in this output for information on how to contact the Registrant, Admin, or Tech contact of the queried domain name.
-Name Server: dns107.ovh.net
-Name Server: ns107.ovh.net
+Name Server: ns-cloud-d4.googledomains.com
+Name Server: ns-cloud-d2.googledomains.com
+Name Server: ns-cloud-d3.googledomains.com
+Name Server: ns-cloud-d1.googledomains.com
 DNSSEC: signedDelegation
 URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
->>> Last update of WHOIS database: 2018-07-25T16:15:53Z <<<
+>>> Last update of WHOIS database: 2018-07-26T01:49:15Z <<<
 
 For more information on Whois status codes, please visit https://icann.org/epp
 
