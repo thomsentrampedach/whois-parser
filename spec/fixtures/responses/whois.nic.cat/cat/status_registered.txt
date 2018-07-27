@@ -1,0 +1,102 @@
+Domain Name: punt.cat
+Registry Domain ID: 330750-D
+Registrar WHOIS Server:
+Registrar URL: http://fundacio.cat
+Updated Date: 2018-06-05T13:19:59.424Z
+Creation Date: 2006-04-21T13:18:54.905Z
+Registry Expiry Date: 2019-04-21T13:18:54.905Z
+Registrar Registration Expiration Date: 
+Registrar: Fundacio puntCAT Administrative Account
+Registrar IANA ID: 9999
+Registrar Abuse Contact Email: suport@domini.cat
+Registrar Abuse Contact Phone: +34.936750354
+Reseller: 
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: 61727-C
+Registrant Name: Fundació puntCAT
+Registrant Organization: Fundació puntCAT
+Registrant Street: Aribau, 240 7e M
+Registrant City: Barcelona
+Registrant State/Province: Catalunya
+Registrant Postal Code: 08006
+Registrant Country: ES
+Registrant Phone: +34.936750354
+Registrant Phone Ext:
+Registrant Fax: +34.936750354
+Registrant Fax Ext:
+Registrant Email: info@domini.cat
+Registry Admin ID: 61727-C
+Admin Name: Fundació puntCAT
+Admin Organization: Fundació puntCAT
+Admin Street: Aribau, 240 7e M
+Admin City: Barcelona
+Admin State/Province: Catalunya
+Admin Postal Code: 08006
+Admin Country: ES
+Admin Phone: +34.936750354
+Admin Phone Ext:
+Admin Fax: +34.936750354
+Admin Fax Ext:
+Admin Email: info@domini.cat
+Registry Tech ID: 61727-C
+Tech Name: Fundació puntCAT
+Tech Organization: Fundació puntCAT
+Tech Street: Aribau, 240 7e M
+Tech City: Barcelona
+Tech State/Province: Catalunya
+Tech Postal Code: 08006
+Tech Country: ES
+Tech Phone: +34.936750354
+Tech Phone Ext:
+Tech Fax: +34.936750354
+Tech Fax Ext:
+Tech Email: info@domini.cat
+Registry Billing ID: 61727-C
+Billing Name: Fundació puntCAT
+Billing Organization: Fundació puntCAT
+Billing Street: Aribau, 240 7e M
+Billing City: Barcelona
+Billing State/Province: Catalunya
+Billing Postal Code: 08006
+Billing Country: ES
+Billing Phone: +34.936750354
+Billing Phone Ext:
+Billing Fax: +34.936750354
+Billing Fax Ext:
+Billing Email: info@domini.cat
+Name Server: ns4.knipp.de
+Name Server: ns8.knipp.net
+Name Server: anycast1.irondns.net
+DNSSEC: signedDelegation
+Canonical Name: punt.cat
+IDN Tag: ca
+URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of Whois database: 2018-07-27T16:21:00.938Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms and Conditions of Use
+
+The data in this record is provided by puntCAT for informational
+purposes only. puntCAT does not guarantee its accuracy and cannot,
+under any circumstances, be held liable in case the stored information would
+prove to be wrong, incomplete or not accurate in any sense.
+
+All the domain data that is visible in the Whois service is protected by
+law. It is not permitted to use it for any purpose other than technical or
+administrative requirements associated with the operation of the Internet.
+It is explicitly forbidden to extract, copy and/or use or re-utilise in any
+form and by any means (electronically or not) the whole or a quantitatively
+or qualitatively substantial part of the contents of the Whois database
+without prior and explicit written permission by puntCAT It is
+prohibited, in particular, to use it for transmission of unsolicited and/or
+commercial and/or advertising by phone, fax, e-mail or for any similar
+purposes.
+
+By maintaining the connection you assure that you have a legitimate interest
+in the data and that you will only use it for the stated purposes. You are
+aware that puntCAT maintains the right to initiate legal
+proceedings against you in the event of any breach of this assurance and to
+bar you from using its Whois service.
+
+End of Whois record.
