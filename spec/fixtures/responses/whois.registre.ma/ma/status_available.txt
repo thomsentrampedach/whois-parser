@@ -1,2 +1,5 @@
-%rwhois V-1.5:003fff:00 whois.iam.net.ma (by Network Solutions, Inc. V-1.5.9.5)
-%error 230 No Objects Found
+Domain Name: uisodiooosi.ma
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2018-07-28T16:12:21.296Z <<<
+
+Le service Whois permet la v?rification de la disponibilit? d?un nom de domaine ? .ma ? et l?identification de son titulaire. La base de donn?es Whois est maintenue ? jour par les prestataires, ? chaque fois qu?une modification sur les donn?es enregistr?es leur est communiqu?e par le titulaire. Tout usage abusif du service WHOIS et des donn?es d?identification qu?il publie engage la responsabilit? des personnes concern?es.

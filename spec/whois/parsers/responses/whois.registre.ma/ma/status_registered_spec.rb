@@ -39,18 +39,19 @@ describe Whois::Parsers::WhoisRegistreMa, "status_registered.expected" do
   describe "#created_on" do
     it do
       expect(subject.created_on).to be_a(Time)
-      expect(subject.created_on).to eq(Time.parse("2009-03-24"))
+      expect(subject.created_on).to eq(Time.parse("2009-03-24T00:00:00.000Z"))
     end
   end
   describe "#updated_on" do
     it do
       expect(subject.updated_on).to be_a(Time)
-      expect(subject.updated_on).to eq(Time.parse("2009-03-24"))
+      expect(subject.updated_on).to eq(Time.parse("2018-02-27T16:47:30Z"))
     end
   end
   describe "#expires_on" do
     it do
-      expect { subject.expires_on }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.expires_on).to be_a(Time)
+      expect(subject.expires_on).to eq(Time.parse('2019-03-24T00:00:00.000Z'))
     end
   end
 end

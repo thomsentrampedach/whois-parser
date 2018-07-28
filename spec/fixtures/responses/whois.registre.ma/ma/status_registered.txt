@@ -1,18 +1,23 @@
-%rwhois V-1.5:003fff:00 whois.iam.net.ma (by Network Solutions, Inc. V-1.5.9.5)
-domain:Class-Name:domain
-domain:ID:333.google.ma
-domain:Auth-Area:google.ma
-domain:Guardian;I:444.google.ma
-domain:Domain-Name:google.ma
-domain:Primary-Server;I:111.google.ma
-domain:Secondary-Server;I:112.google.ma
-domain:Organization;I:777.google.ma
-domain:Owner-Contact;I:221.google.ma
-domain:Admin-Contact;I:222.google.ma
-domain:Tech-Contact;I:223.google.ma
-domain:Billing-Contact;I:222.google.ma
-domain:Created:20090324
-domain:Updated:20090324
-domain:Updated-By:dnsmaster@iam.net.ma
+Domain Name: google.ma
+Updated Date: 2018-02-27T16:47:30.307Z
+Creation Date: 2009-03-24T00:00:00.000Z
+Registry Expiry Date: 2019-03-24T00:00:00.000Z
+Sponsoring Registrar: GENIOUS COMMUNICATION
+Domain Status: clientTransferProhibited
+Domain Status: ok
+Registrant Name: Google Inc
+Admin Name: Genious Communications
+Admin Phone: +212.524291141
+Admin Phone Ext: 
+Admin Email: support@genious.net
+Tech Name: Domain Admin
+Tech Phone: +1.2083895740
+Tech Phone Ext: 
+Tech Email: ccopsbilling@markmonitor.com
+Name Server: ns1.google.com
+Name Server: ns2.google.com
+Name Server: ns3.google.com
+Name Server: ns4.google.com
+>>> Last update of WHOIS database: 2018-07-28T16:12:21.296Z <<<
 
-%ok
+Le service Whois permet la v?rification de la disponibilit? d?un nom de domaine ? .ma ? et l?identification de son titulaire. La base de donn?es Whois est maintenue ? jour par les prestataires, ? chaque fois qu?une modification sur les donn?es enregistr?es leur est communiqu?e par le titulaire. Tout usage abusif du service WHOIS et des donn?es d?identification qu?il publie engage la responsabilit? des personnes concern?es.
