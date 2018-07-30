@@ -9,6 +9,7 @@ module Whois
       self.tokenizers += [
           :skip_empty_line,
           :scan_available,
+          :scan_disclaimer,
           :scan_keyvalue,
       ]
 
@@ -16,6 +17,12 @@ module Whois
       tokenizer :scan_available do
         if @input.skip(/^%ERROR: no entries found\n/)
           @ast["status:available"] = true
+        end
+      end
+
+      tokenizer :scan_disclaimer do
+        if @input.match?(/^%/)
+          @ast["field:disclaimer"] = _scan_lines_to_array(/%(.*)\n/).map(&:strip).join("\n")
         end
       end
 

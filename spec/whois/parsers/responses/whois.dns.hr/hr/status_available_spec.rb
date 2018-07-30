@@ -53,12 +53,12 @@ describe Whois::Parsers::WhoisDnsHr, "status_available.expected" do
   end
   describe "#created_on" do
     it do
-      expect { subject.created_on }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.created_on).to eq(nil)
     end
   end
   describe "#updated_on" do
     it do
-      expect { subject.updated_on }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.updated_on).to eq(nil)
     end
   end
   describe "#expires_on" do
@@ -89,7 +89,7 @@ describe Whois::Parsers::WhoisDnsHr, "status_available.expected" do
   end
   describe "#nameservers" do
     it do
-      expect { subject.nameservers }.to raise_error(Whois::AttributeNotSupported)
+      expect(subject.nameservers).to eq([])
     end
   end
 end

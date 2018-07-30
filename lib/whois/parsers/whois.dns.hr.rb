@@ -24,12 +24,10 @@ module Whois
 
       self.scanner = Scanners::WhoisDnsHr
 
-
       property_not_supported :disclaimer
 
-
       property_supported :domain do
-        node("domain")
+        node("Domain Name")
       end
 
       property_not_supported :domain_id
@@ -52,30 +50,32 @@ module Whois
       end
 
 
-      property_not_supported :created_on
+      property_supported :created_on do
+        node("Creation Date") { |value| parse_time(value) }
+      end
 
-      property_not_supported :updated_on
+      property_supported :updated_on do
+        node("Updated Date") { |value| parse_time(value) }
+      end
 
       property_supported :expires_on do
-        node("expires") { |value| parse_time(value) }
+        node("Registrar Registration Expiration Date") { |value| parse_time(value) }
       end
 
 
       property_not_supported :registrar
 
-
       property_supported :registrant_contacts do
-        node("descr") do |array|
-          _, zip, city = array[2].match(/([\d\s]+) (.+)/).to_a
+        node("Registrant Name") do |name|
           Parser::Contact.new(
             :type         => Parser::Contact::TYPE_REGISTRANT,
             :id           => nil,
-            :name         => array[0],
+            :name         => name,
             :organization => nil,
-            :address      => array[1],
-            :city         => city,
-            :zip          => zip,
-            :state        => nil,
+            :address      => node('Registrant Street'),
+            :city         => node('Registrant City'),
+            :zip          => node('Registrant Postal Code'),
+            :state        => node('Registrant State/Province'),
             :country      => nil,
             :phone        => nil,
             :fax          => nil,
@@ -85,11 +85,13 @@ module Whois
       end
 
       property_not_supported :admin_contacts
-
       property_not_supported :technical_contacts
 
-
-      property_not_supported :nameservers
+      property_supported :nameservers do
+        Array.wrap(node("Name Server") || node("Name Servers")).reject(&:empty?).map do |name|
+          Parser::Nameserver.new(name: name.downcase)
+        end
+      end
 
     end
 
