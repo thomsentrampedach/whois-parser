@@ -25,19 +25,12 @@ module Whois
     class KeroYachayPe < Base
 
       property_supported :status do
-        if content_for_scanner =~ /Status:\s+(.+?)\n/
+        if content_for_scanner =~ /Domain Status:\s+(.+?)\n/
           case $1.downcase
-          when "active"
-            :registered
-          # NEWSTATUS suspended (https://github.com/weppos/whois/issues/5)
-          when "suspended"
-            :registered
-          when "not registered"
+          when "no object found"
             :available
-          when "inactive"
-            :inactive
           else
-            Whois::Parser.bug!(ParserError, "Unknown status `#{$1}'.")
+            :registered
           end
         else
           Whois::Parser.bug!(ParserError, "Unable to parse status.")
@@ -61,10 +54,8 @@ module Whois
 
 
       property_supported :nameservers do
-        if content_for_scanner =~ /Name Servers:\n((.+\n)+)\n/
-          $1.split("\n").map do |name|
-            Parser::Nameserver.new(:name => name.strip)
-          end
+        content_for_scanner.scan(/Name Server:\s*(.+?)\n/).flatten.map do |name|
+          Parser::Nameserver.new(:name => name.strip)
         end
       end
 

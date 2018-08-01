@@ -1,3 +1,7 @@
+Domain Name: googleasdfasdfa.pe
+Domain Status: No Object Found
+>>> Last update of WHOIS database: 2018-08-01T19:55:30.697Z <<<
+
 TERMS OF USE: You are not authorized to access or query our Whois
 database through the use of electronic processes that are high-volume and
 automated.  Whois database is provided as a service to the internet
@@ -13,12 +17,3 @@ or facsimile; or (2) enable high volume, automated, electronic processes.
 
 The compilation, repackaging, dissemination or other use of this Data is
 expressly prohibited.
-
-
-Domain Information
-Query: u34jedzcq.pe
-Status: Not Registered
-
-
-
-
