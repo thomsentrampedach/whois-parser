@@ -25,15 +25,10 @@ module Whois
     class WhoisRegisterSi < Base
 
       property_supported :status do
-        if content_for_scanner =~ /status:\s+(.+)\n/
-          statuses = $1.downcase.split(",").map(&:strip)
-          if statuses.include?("server_update_prohibited")
-            :registered
-          else
-            Whois::Parser.bug!(ParserError, "Unknown status `#{$1}'.")
-          end
-        else
+        if available?
           :available
+        else
+          :registered
         end
       end
 
