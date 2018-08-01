@@ -22,25 +22,25 @@ module Whois
 
 
       property_supported :created_on do
-        if content_for_scanner =~ /Created On:\s+(.*)\n/
+        if content_for_scanner =~ /Created On:\s*(.*)\n/
           parse_time($1)
         end
       end
 
       property_supported :updated_on do
-        if content_for_scanner =~ /Last Updated On:\s+(.*)\n/
+        if content_for_scanner =~ /Last Updated On:\s*(.*)\n/
           parse_time($1)
         end
       end
 
       property_supported :expires_on do
-        if content_for_scanner =~ /Expiration Date:\s+(.*)\n/
+        if content_for_scanner =~ /Expiration Date:\s*(.*)\n/
           parse_time($1)
         end
       end
 
       property_supported :nameservers do
-        content_for_scanner.scan(/Name Server:\s+(.+)\n/).flatten.map do |name|
+        content_for_scanner.scan(/Name Server:\s*(.+)\n/).flatten.map do |name|
           Parser::Nameserver.new(:name => name.chomp("."))
         end
       end
