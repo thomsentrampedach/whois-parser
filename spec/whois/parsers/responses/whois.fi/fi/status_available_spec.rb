@@ -21,11 +21,6 @@ describe Whois::Parsers::WhoisFi, "status_available.expected" do
     described_class.new(part)
   end
 
-  describe "#disclaimer" do
-    it do
-      expect(subject.disclaimer).to eq("More information is available at https://domain.fi/\nCopyright (c) Finnish Communications Regulatory Authority")
-    end
-  end
   describe "#domain" do
     it do
       expect(subject.domain).to eq(nil)
@@ -73,8 +68,7 @@ describe Whois::Parsers::WhoisFi, "status_available.expected" do
   end
   describe "#registrant_contacts" do
     it do
-      expect(subject.registrant_contacts).to be_a(Array)
-      expect(subject.registrant_contacts).to eq([])
+      expect { subject.registrant_contacts }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#admin_contacts" do

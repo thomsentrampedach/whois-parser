@@ -1,13 +1,8 @@
-#disclaimer
-  %s == "More information is available at https://domain.fi/\nCopyright (c) Finnish Communications Regulatory Authority"
-
-
 #domain
   %s == "oogle.fi"
 
 #domain_id
   %s %ERROR{AttributeNotSupported}
-
 
 #status
   %s == :registered

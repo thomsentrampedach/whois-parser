@@ -21,11 +21,6 @@ describe Whois::Parsers::WhoisFi, "status_registered.expected" do
     described_class.new(part)
   end
 
-  describe "#disclaimer" do
-    it do
-      expect(subject.disclaimer).to eq("More information is available at https://domain.fi/\nCopyright (c) Finnish Communications Regulatory Authority")
-    end
-  end
   describe "#domain" do
     it do
       expect(subject.domain).to eq("google.fi")
@@ -60,13 +55,13 @@ describe Whois::Parsers::WhoisFi, "status_registered.expected" do
   describe "#updated_on" do
     it do
       expect(subject.updated_on).to be_a(Time)
-      expect(subject.updated_on).to eq(Time.parse("2013-06-07"))
+      expect(subject.updated_on).to eq(Time.parse("2018-06-02"))
     end
   end
   describe "#expires_on" do
     it do
       expect(subject.expires_on).to be_a(Time)
-      expect(subject.expires_on).to eq(Time.parse("2014-07-04"))
+      expect(subject.expires_on).to eq(Time.parse("2019-07-04 10:15:55"))
     end
   end
   describe "#registrar" do
@@ -76,24 +71,7 @@ describe Whois::Parsers::WhoisFi, "status_registered.expected" do
   end
   describe "#registrant_contacts" do
     it do
-      expect(subject.registrant_contacts).to be_a(Array)
-      expect(subject.registrant_contacts.size).to eq(1)
-      expect(subject.registrant_contacts[0]).to be_a(Whois::Parser::Contact)
-      expect(subject.registrant_contacts[0].type).to eq(Whois::Parser::Contact::TYPE_REGISTRANT)
-      expect(subject.registrant_contacts[0].id).to eq("09073468")
-      expect(subject.registrant_contacts[0].name).to eq("Domain Administrator")
-      expect(subject.registrant_contacts[0].organization).to eq("Google Finland Oy")
-      expect(subject.registrant_contacts[0].address).to eq("Mannerheimintie 12 B")
-      expect(subject.registrant_contacts[0].city).to eq("HELSINKI")
-      expect(subject.registrant_contacts[0].zip).to eq("00100")
-      expect(subject.registrant_contacts[0].state).to eq(nil)
-      expect(subject.registrant_contacts[0].country).to eq(nil)
-      expect(subject.registrant_contacts[0].country_code).to eq(nil)
-      expect(subject.registrant_contacts[0].phone).to eq("35896966890")
-      expect(subject.registrant_contacts[0].fax).to eq(nil)
-      expect(subject.registrant_contacts[0].email).to eq(nil)
-      expect(subject.registrant_contacts[0].created_on).to eq(nil)
-      expect(subject.registrant_contacts[0].updated_on).to eq(nil)
+      expect { subject.registrant_contacts }.to raise_error(Whois::AttributeNotSupported)
     end
   end
   describe "#admin_contacts" do

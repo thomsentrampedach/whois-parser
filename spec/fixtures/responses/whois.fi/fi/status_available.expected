@@ -1,7 +1,3 @@
-#disclaimer
-  %s == "More information is available at https://domain.fi/\nCopyright (c) Finnish Communications Regulatory Authority"
-
-
 #domain
   %s == nil
 
@@ -33,8 +29,7 @@
   %s %ERROR{AttributeNotSupported}
 
 #registrant_contacts
-  %s %CLASS{array}
-  %s == []
+  %s %ERROR{AttributeNotSupported}
 
 #admin_contacts
   %s %ERROR{AttributeNotSupported}

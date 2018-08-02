@@ -25,10 +25,7 @@ module Whois
       self.scanner = Scanners::WhoisFi
 
 
-      property_supported :disclaimer do
-        node("field:disclaimer")
-      end
-
+      property_not_supported :disclaimer
 
       property_supported :domain do
         node("domain")
@@ -38,19 +35,10 @@ module Whois
 
 
       property_supported :status do
-        if reserved?
-          :reserved
-        elsif registered?
-          case node("status", &:downcase)
-          when "granted"
-            :registered
-          when "grace period"
-            :registered
-          else
-            Whois::Parser.bug!(ParserError, "Unknown status `#{node("status")}'.")
-          end
-        else
+        if available?
           :available
+        else
+          :registered
         end
       end
 
@@ -75,36 +63,18 @@ module Whois
         node("expires") { |value| parse_time(value) }
       end
 
-
-      property_not_supported :registrar
-
-      property_supported :registrant_contacts do
-        node("descr") do |array|
-          address = node("address")
-
-          Parser::Contact.new(
-            type:         Parser::Contact::TYPE_REGISTRANT,
-            id:           array[1],
-            name:         address[0],
-            organization: array[0],
-            address:      address[1],
-            zip:          address[2],
-            city:         address[3],
-            phone:        node("phone")
-          )
-        end
-      end
-
-      property_not_supported :admin_contacts
-
-      property_not_supported :technical_contacts
-
-
       property_supported :nameservers do
         Array.wrap(node("nserver")).map do |line|
           Parser::Nameserver.new(name: line.split(" ").first)
         end
       end
+
+      property_not_supported :registrar
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+
+
 
       # NEWPROPERTY
       def reserved?

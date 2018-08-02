@@ -1,22 +1,44 @@
+domain.............: google.fi
+status.............: Registered
+created............: 30.6.2006 00:00:00
+expires............: 4.7.2019 10:15:55
+available..........: 4.8.2019 10:15:55
+modified...........: 2.6.2018
+holder transfer....: 20.10.2016
+RegistryLock.......: no
 
-domain:   google.fi
-descr:    Google Finland Oy
-descr:    09073468
-address:  Domain Administrator
-address:  Mannerheimintie 12 B
-address:  00100
-address:  HELSINKI
-phone:    35896966890
-status:   Granted
-created:  30.6.2006
-modified: 7.6.2013
-expires:  4.7.2014
-nserver:  ns1.google.com [Ok]
-nserver:  ns2.google.com [Ok]
-nserver:  ns3.google.com [Ok]
-nserver:  ns4.google.com [Ok]
-dnssec:   no
+Nameservers
 
-More information is available at https://domain.fi/
+nserver............: ns1.google.com [OK]
+nserver............: ns2.google.com [Technical Error]
+nserver............: ns3.google.com [Technical Error]
+nserver............: ns4.google.com [Technical Error]
+dnssec.............: unsigned delegation
+
+Holder
+
+name...............: Google Inc.
+register number....: 3582691
+address............: 1600 Amphitheatre Parkway
+address............: 94043
+address............: Mountain View
+country............: United States of America
+phone..............: +1.6502530000
+holder email.......: 
+
+Registrar
+
+registrar..........: MarkMonitor Inc.
+www................: www.markmonitor.com
+
+Tech
+
+name...............: Google Inc.
+email..............: ccops@markmonitor.com
+
+>>> Last update of WHOIS database: 2.8.2018 4:15:17 (EET) <<<
+
+
 Copyright (c) Finnish Communications Regulatory Authority
+
 

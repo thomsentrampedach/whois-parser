@@ -9,9 +9,9 @@ module Whois
       self.tokenizers += [
           :skip_empty_line,
           :scan_available,
-          :scan_disclaimer,
           :scan_keyvalue,
-          :scan_reserved
+          :scan_reserved,
+          :ignore_line
       ]
 
 
@@ -27,10 +27,22 @@ module Whois
         end
       end
 
-      tokenizer :scan_disclaimer do
-        if @input.match?(/^More information/)
-          @ast["field:disclaimer"] = @input.scan_until(/(.*)\n\n/).strip
+      tokenizer :scan_keyvalue do
+        if @input.scan(/(.+?):(.*?)(\n|\z)/)
+          key, value = @input[1].tr('.', '').strip, @input[2].strip
+          target = @tmp['_section'] ? (@ast[@tmp['_section']] ||= {}) : @ast
+
+          if target[key].nil?
+            target[key] = value
+          else
+            target[key] = Array.wrap(target[key])
+            target[key] << value
+          end
         end
+      end
+
+      tokenizer :ignore_line do
+        @input.skip(/^([^:]+)\n/)
       end
 
     end
