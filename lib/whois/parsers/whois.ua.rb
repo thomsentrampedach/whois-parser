@@ -163,6 +163,43 @@ module Whois
         end
       end
 
+      class Eunic
+        attr_reader :parent, :content
+
+        def initialize(parent, content)
+          @parent  = parent
+          @content = content
+        end
+
+        def status
+          if parent.available?
+            :available
+          else
+            :registered
+          end
+        end
+
+        def created_on
+          if content =~ /Record created:\s+(.+)\n/
+            Base.parse_time($1)
+          end
+        end
+
+        def updated_on
+          if content =~ /Record last updated:\s+(.+)\n/
+            Base.parse_time($1)
+          end
+        end
+
+        def expires_on
+          if content =~ /Record expires:\s+(.+)\n/
+            Base.parse_time($1)
+          end
+        end
+
+        def build_contact(*args)
+        end
+      end
 
       property_supported :domain do
         if content_for_scanner =~ /domain:\s+(.+)\n/
@@ -228,6 +265,8 @@ module Whois
           source = content_for_scanner.slice(/source:\s+(.+)\n/, 1)
           if source == "UANIC"
             Uanic.new(self, content_for_scanner)
+          elsif source == "EUNIC"
+            Eunic.new(self, content_for_scanner)
           else
             Uaepp.new(self, content_for_scanner)
           end
