@@ -1,0 +1,71 @@
+Domain Name: t-mobile.com
+Registry Domain ID: 17457704_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.registrar.telekom.de
+Registrar URL: http://www.registrar.telekom.de
+Updated Date:  2017-01-30T14:29:55Z 
+Creation Date:  2000-01-13T13:46:53Z 
+Registrar Registration Expiration Date:  2026-01-13T13:46:52Z 
+Registrar: Deutsche Telekom AG
+Registrar IANA ID: 226
+Registrar Abuse Contact Email: sece.leitstellenservice@telekom.de
+Registrar Abuse Contact Phone: +49.70003307345
+Reseller:
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: REDACTED FOR PRIVACY
+Registrant Organization:  Deutsche Telekom AG, Domainmanagement 
+Registrant Street: REDACTED FOR PRIVACY
+Registrant City: REDACTED FOR PRIVACY
+Registrant State/Province: 
+Registrant Postal Code: REDACTED FOR PRIVACY
+Registrant Country: DE
+Registrant Phone: REDACTED FOR PRIVACY
+Registrant Phone Ext:
+Registrant Fax: REDACTED FOR PRIVACY
+Registrant Fax Ext:
+Registrant Email: technik.domainregistrar@telekom.de
+Registry Admin ID: Not Available From Registry
+Admin Name: REDACTED FOR PRIVACY
+Admin Organization:  REDACTED FOR PRIVACY 
+Admin Street: REDACTED FOR PRIVACY
+Admin City: REDACTED FOR PRIVACY
+Admin State/Province:  REDACTED FOR PRIVACY 
+Admin Postal Code: REDACTED FOR PRIVACY
+Admin Country: 
+Admin Phone: REDACTED FOR PRIVACY
+Admin Phone Ext:
+Admin Fax: REDACTED FOR PRIVACY
+Admin Fax Ext:
+Admin Email: technik.domainregistrar@telekom.de
+Registry Tech ID: Not Available From Registry
+Tech Name: REDACTED FOR PRIVACY
+Tech Organization:  REDACTED FOR PRIVACY 
+Tech Street: REDACTED FOR PRIVACY
+Tech City: REDACTED FOR PRIVACY
+Tech State/Province:  REDACTED FOR PRIVACY 
+Tech Postal Code: REDACTED FOR PRIVACY
+Tech Country: 
+Tech Phone: REDACTED FOR PRIVACY
+Tech Phone Ext:
+Tech Fax: REDACTED FOR PRIVACY
+Tech Fax Ext:
+Tech Email: technik.domainregistrar@telekom.de
+Name Server: ns2.customer.level3.net
+Name Server: ns7.customer.level3.net
+Name Server: ns2.t-mobile.com
+Name Server: ns1.t-mobile.com
+Name Server: ns20.zayo.com
+Name Server: ns10.zayo.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T20:13:55Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of use: The data in our WHOIS database is provided by Deutsche Telekom AG for information purposes only. You may not submit queries or data to our database using high-volume, automated, electronic processes. Deutsche Telekom AG does not accept liability for the accuracy of any information provided. By using our WHOIS service, you accept the following terms and conditions: Data provided may be used for any legal purpose. However, it may not be used to: (a) allow, enable, or otherwise support the transmission by e-mail, telephone, postal mail, facsimile or other means of mass unsolicited, commercial advertising or solicitations; or (b) enable high volume, automated, electronic processes that send queries or data to the systems of Deutsche Telekom AG, except as reasonably necessary to register domain names or modify existing registrations.
+Deutsche Telekom AG reserves the right to restrict or terminate your access to the WHOIS database in its sole discretion to ensure operational stability or for failure to abide to these terms of use. Deutsche Telekom AG reserves the right to modify these terms at any time.

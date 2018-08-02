@@ -1,0 +1,55 @@
+
+
+Domain Name: DIGIMART.NET
+Registry Domain ID: 3744125_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.do-reg.jp
+Registrar URL: http://whois.do-reg.jp/DIGIMART.NET
+Updated Date: 2018-01-31T15:16:34Z
+Creation Date: 1999-02-17T05:00:00Z
+Registrar Registration Expiration Date: 2019-02-17T05:00:00Z
+Registrar: FirstServer,Inc.
+Registrar IANA ID: 474
+Registrar Abuse Contact Email: abuse@do-reg.jp
+Registrar Abuse Contact Phone: +81.662613377
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Kenji Arita
+Registrant Organization: Rittor Music,Inc.
+Registrant Street: 1-105, Kanda Jinbo-cho
+Registrant City: Chiyoda-ku
+Registrant State/Province: Tokyo
+Registrant Postal Code: 101-0051
+Registrant Country: JP
+Registrant Phone: +81.368375010
+Registrant Email: nic-notify@impress.co.jp
+Registry Admin ID: Not Available From Registry
+Admin Name: Yahoo Japan Corporation
+Admin Organization: Yahoo Japan Corporation
+Admin Street: 4-29 Yotsuya
+Admin City: Shinjuku-ku
+Admin State/Province: Tokyo
+Admin Postal Code: 160-0004
+Admin Country: JP
+Admin Phone: +81.343540230
+Admin Fax: +81.343540087
+Admin Email: dns-admin@idc.jp
+Registry Tech ID: Not Available From Registry
+Tech Name: Yahoo Japan Corporation
+Tech Organization: Yahoo Japan Corporation
+Tech Street: 4-29 Yotsuya
+Tech City: Shinjuku-ku
+Tech State/Province: Tokyo
+Tech Postal Code: 160-0004
+Tech Country: JP
+Tech Phone: +81.343540230
+Tech Fax: +81.343540087
+Tech Email: dns-admin@idc.jp
+Name Server :NS-1127.AWSDNS-12.ORG
+Name Server :NS-161.AWSDNS-20.COM
+Name Server :NS-1861.AWSDNS-40.CO.UK
+Name Server :NS-960.AWSDNS-56.NET
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T18:06:35Z <<< 
+
+For more information on Whois status codes, please visit https://icann.org/epp

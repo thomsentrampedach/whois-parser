@@ -1,0 +1,72 @@
+Domain Name: vntrades.com
+Registry Domain ID: 138362249_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.pavietnam.vn
+Registrar URL: http://www.pavietnam.vn
+Updated Date: 2017-11-02T04:47:18Z 
+Creation Date: 2004-12-28T16:30:32Z
+Registrar Registration Expiration Date: 2018-12-28T16:30:32Z 
+Registrar: P.A. Viet Nam Company Limited
+Registrar IANA ID: 1649
+Registrar Abuse Contact Email: abuse@pavietnam.vn
+Registrar Abuse Contact Phone: +84.19009477
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not available from Registry
+Registrant Name: Chua co ten 
+Registrant Organization: Chua co ten 
+Registrant Street: Thanh Pho Ho Chi Minh 
+Registrant City: HCM 
+Registrant State/Province:  
+Registrant Postal Code: 70000 
+Registrant Country: VN 
+Registrant Phone: 84862563737 
+Registrant Phone Ext:  
+Registrant Fax: +84862563737 
+Registrant Email: btchau@gmail.com 
+Registry Admin ID: Not available from Registry
+Admin Name: Chua co ten 
+Admin Organization: Chua co ten 
+Admin Street: Thanh Pho Ho Chi Minh 
+Admin City: HCM 
+Admin State/Province:  
+Admin Postal Code: 70000 
+Admin Country: VN 
+Admin Phone: 84862563737 
+Admin Phone Ext:  
+Admin Fax: +84862563737 
+Admin Email: btchau@gmail.com 
+Registry Tech ID: Not available from Registry
+Tech Name: Chua co ten 
+Tech Organization: Chua co ten 
+Tech Street: Thanh Pho Ho Chi Minh 
+Tech City: HCM 
+Tech State/Province:  
+Tech Postal Code: 70000 
+Tech Country: VN 
+Tech Phone: 84862563737 
+Tech Phone Ext:  
+Tech Fax: +84862563737 
+Tech Email: btchau@gmail.com 
+Name Server: ns1.digipowerdns.com
+Name Server: ns2.digipowerdns.comDNSSEC:Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-01-02T02:55:01Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is", 
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no  
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is P.A. Viet Nam Company Limited. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms. 
+

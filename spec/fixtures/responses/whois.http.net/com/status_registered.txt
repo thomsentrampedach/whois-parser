@@ -1,0 +1,51 @@
+Domain Name: joindota.com
+Registry Domain ID: 1620255243_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.http.net
+Registrar URL: https://http.net
+Updated Date: 2017-11-21T06:40:05Z
+Creation Date: 2012-03-30T00:00:00Z
+Registrar Registration Expiration Date: 2018-10-13T21:54:07Z
+Registrar: HTTP.NET INTERNET GMBH
+Registrar IANA ID: 976
+Registrar Abuse Contact Email: abuse @ http.net
+Registrar Abuse Contact Phone: +49.24146314115
+Reseller:
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant Organization: Freaks 4U Gaming GmbH
+Registrant State/Province: 
+Registrant Country: DE
+Registrant Email: i5zffsqyf4mj6h5fuqmxdddzwj6cqto3ywl7bdyqwa6nm@protectedmx.com
+Admin Email: ibtdpbhy2yqzkxjrh4qfozmenm5ghqmqti5n75xyk6mei@protectedmx.com
+Tech Email: iaigugrqz37spufu2uyilnaywdlhmmc7ra364v2andnpa@protectedmx.com
+Name Server: dns1.p05.nsone.net 
+Name Server: ns-cloud-b1.googledomains.com 
+Name Server: dns2.p05.nsone.net 
+Name Server: ns-cloud-b2.googledomains.com 
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T19:12:28Z <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/epp
+
+The data in the http.net WHOIS database is provided by
+http.net Internet GmbH for informational purposes only, to assist you in
+obtaining information. About or related to a domain name registration
+record. http.net provides this information "as is", and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will only use this data for lawful purposes. That,
+under no circumstances will you use this data to:
+
+1. allow, enable, or otherwise support the transmission of mass or bulk unsolicited,
+commercial advertising or solicitations via electronic mail, also known as (SPAM).
+2. enable high volume,
+automated, electronic processes that apply to BulkRegister (or its systems).
+
+The compilation, repackaging, dissemination or any other use of this data
+is expressly prohibited without the prior written agreement of http.net.
+http.net  reserves the right to terminate your access to the http.net WHOIS
+database in its sole discretion. Including without limitation, for excessive
+querying of the WHOIS database or for failure to otherwise abide by this
+policy.
+
+http.net reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

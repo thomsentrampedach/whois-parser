@@ -1,0 +1,80 @@
+
+Domain Name: priceminister.com
+Registry Domain ID: 38527953_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.safebrands.com
+Registrar URL: http:///www.safebrands.com
+Updated Date: 2017-07-18T03:36:24Z
+Creation Date: 2000-10-25T14:33:08+02:00
+Registrar Registration Expiration Date: 2018-10-25T14:33:08+02:00
+Registrar: Safebrands SAS
+Registrar IANA ID: 1290
+Registrar Abuse Contact Email: legal@safebrands.com
+Registrar Abuse Contact Phone: +33.488662222
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registrant Name: Krings Pierre
+Registrant Organization: Priceminister SAS
+Registrant Street: 92 rue de Réaumur  
+Registrant City: Paris
+Registrant State/Province: 
+Registrant Postal Code: 75002 
+Registrant Country: fr
+Registrant Phone: +33.142788054
+Registrant Phone Ext: 
+Registrant Fax: +33 1 42 78 80 61
+Registrant Fax Ext: 
+Registrant Email: hostmaster@priceminister.com
+Admin Name: Krings Pierre
+Admin Organization: Priceminister SAS
+Admin Street: 92 rue de Réaumur  
+Admin City: Paris
+Admin State/Province: 
+Admin Postal Code: 75002 
+Admin Country: fr
+Admin Phone: +33.142788054
+Admin Phone Ext: 
+Admin Fax: +33 1 42 78 80 61
+Admin Fax Ext: 
+Admin Email: hostmaster@priceminister.com
+Tech Name: Host Master
+Tech Organization: SafeBrands
+Tech Street: Pole Media de la Belle de Mai 37 rue Guibal
+Tech City: Marseille cedex 03
+Tech State/Province: 
+Tech Postal Code: 13356
+Tech Country: fr
+Tech Phone: +33.488662222
+Tech Phone Ext: 
+Tech Fax: +33.488662220
+Tech Fax Ext: 
+Tech Email: clientele@safebrands.com
+Name Server: helgi.fast.jmsp.net
+Name Server: ullinn.fast.jmsp.net
+
+DNSSEC: Unsigned
+
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+
+>>>Last update of WHOIS database: 2018/07/19 05:50:55
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: SAFEBRANDS
+
+The data in this whois database is provided to you for information purposes
+only, that is, to assist you in obtaining information about or related to a
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to:
+(1) enable high volume, automated, electronic processes that stress or load
+this whois database system providing you this information; or
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone.
+The compilation, repackaging, dissemination or other use of this data is
+expressly prohibited without prior written consent from us. The Registrar of
+record is Safebrands SAS.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+

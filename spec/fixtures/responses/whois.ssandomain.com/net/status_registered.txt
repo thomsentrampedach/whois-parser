@@ -1,0 +1,78 @@
+
+Domain Name: clien.net
+Registry Domain ID: 79000765_DOMAIN_NET-VRSN
+Registrar WHOIS Server: whois.ssandomain.com
+Registrar URL: http://www.ssandomain.com
+Updated Date: 2012-10-10 13:21:13 KST
+Creation Date: 2001-10-26 15:29:51 KST
+Registrar Registration Expiration Date: 2020-10-26 15:29:51 KST
+Registrar: Koreacenter co.,Ltd
+Registrar IANA ID: 1491
+Registrar Abuse Contact Email: abuse@ssandomain.com
+Registrar Abuse Contact Phone: +82.269039561
+Reseller:
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Koreacenter (privacy_whois)
+Registrant Organization: Koreacenter (privacy_whois)
+Registrant Street: 168 Gasan digital 1-ro Geumcheon-gu Seoul #1401,Section A
+Registrant City: 
+Registrant State/Province: 
+Registrant Postal Code: 08507
+Registrant Country: KR
+Registrant Phone: 269039561
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: privacy_whois@ssandomain.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Koreacenter (privacy_whois)
+Admin Organization: Koreacenter (privacy_whois)
+Admin Street: 168 Gasan digital 1-ro Geumcheon-gu Seoul #1401,Section A
+Admin City: 
+Admin State/Province: 
+Admin Postal Code: 08507
+Admin Country: KR
+Admin Phone: 269039561
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: privacy_whois@ssandomain.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Koreacenter (privacy_whois)
+Tech Organization: Koreacenter (privacy_whois)
+Tech Street: 168 Gasan digital 1-ro Geumcheon-gu Seoul #1401,Section A
+Tech City: 
+Tech State/Province: 
+Tech Postal Code: 08507
+Tech Country: KR
+Tech Phone: 269039561
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: privacy_whois@ssandomain.com
+Name Server: ns-1607.awsdns-08.co.uk
+Name Server: ns-358.awsdns-44.com
+Name Server: ns-704.awsdns-24.net
+Name Server: ns-1132.awsdns-13.org
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-03 03:09:59 <<<
+
+For more information on Whois status codes, please visit https://www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+Welcome to SSANDOMAIN.COM's WHOIS data service.
+
+The Data in Ssandomain's WHOIS database is provided by Ssandomain
+for information purposes, and to assist persons in obtaining
+information about or related to a domain name registration record.
+Ssandomain does not guarantee its accuracy.  By submitting a WHOIS query,
+you agree that you will use this Data only for lawful purposes
+and that, under no circumstances will you use this Data to:
+(1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail(spam);
+or  (2) enable high volume, automated, electronic processes that apply to
+Ssandomain (or its systems).  Ssandomain reserves the right to
+modify these terms at any time.  By submitting this query,
+you agree to abide by this policy.
+

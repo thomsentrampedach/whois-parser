@@ -1,0 +1,79 @@
+Domain Name: ARSENAL-MANIA.COM
+Registry Domain ID: 24750922_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.lcn.com
+Registrar URL: https://www.lcn.com
+Updated Date: 2018-05-18T09:47:32+01:00
+Creation Date: 2000-04-12T10:02:01+01:00
+Registrar Registration Expiration Date: 2019-04-12T10:02:01+01:00
+Registrar: LCN.com Ltd
+Registrar IANA ID: 602
+Registrar Abuse Contact Email: abuse@lcn.com
+Registrar Abuse Contact Phone: +44.1438532000
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Domain Status: clientUpdateProhibited
+Registrant Organisation: Snack Media
+Registrant State: 
+Registrant Country: GB
+Registrant Email: https://www.lcn.com/contact_owner?domain=arsenal-mania.com&type=Registrant
+Admin Email: https://www.lcn.com/contact_owner?domain=arsenal-mania.com&type=Admin
+Registry Tech ID: AI-300624
+Tech Name: LCN Hostmaster
+Tech Organization: LCN.com Ltd
+Tech Street: Units H, J, K, Gateway 1000, Whittle Way
+Tech City: Stevenage
+Tech State/Province: Herts
+Tech Postal Code: SG1 2FP
+Tech Country: GB
+Tech Phone: +44.1438532000
+Tech Fax: +44.1438300137
+Tech Email: support@lcn.com
+Name Server: ns1.wirehive.net 
+Name Server: ns2.wirehive.net 
+DNSSec: Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-05-18T09:47:32+01:00 <<<
+
+Domain Registration Service Provided By: LCN.com
+
+The data in LCN.com's WHOIS database is provided by LCN.com for information
+purposes, and to assist persons in obtaining information about or related to a
+domain name registration record. LCN.com does not guarantee its accuracy.
+
+By submitting a WHOIS query, you agree that you will use the data obtained only
+for lawful purposes and that, under no circumstances will you use this data to:
+
+(a) allow, enable, or otherwise support the transmission by e-mail, telephone,
+or facsimile of mass, unsolicited, commercial advertising or solicitations to
+entities other than the data recipient's own existing customers; or (b) enable
+high volume, automated, electronic processes that send queries or data to the
+systems of LCN.com, except as reasonably necessary to register domain names or
+modify existing registrations.
+
+By submitting this query, you agree to abide by this policy.
+
+LCN.com reserves the right to modify these terms at any time.
+
+
+*******************************************************************************
+*******************************************************************************
+**                                                                           **
+**             Domain Registration Service Provided By: LCN.com              **
+**             ------------------------------------------------              **
+**                                                                           **
+**                                                                           **
+**    - For award winning domain name services visit:                        **
+**                                                                           **
+**        https://www.lcn.com/domain_names                                   **
+**                                                                           **
+**    - For powerful & reliable web hosting backed by a 30 day money         **
+**      backed guarantee visit:                                              **
+**                                                                           **
+**        https://www.lcn.com/web_hosting                                    **
+**                                                                           **
+**    - For support visit:                                                   **
+**                                                                           **
+**        https://www.lcn.com/contact_us                                     **
+**                                                                           **
+*******************************************************************************
+*******************************************************************************

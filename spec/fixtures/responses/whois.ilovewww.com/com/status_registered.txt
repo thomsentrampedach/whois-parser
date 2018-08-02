@@ -1,0 +1,79 @@
+Domain Name: BICYCLEBUYSELL.COM
+Registry Domain ID: 503050330_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.ilovewww.com
+Registrar URL: http://www.ilovewww.com
+Updated Date: 2018-05-31T01:38:21Z
+Creation Date: 2006-06-30T06:40:54Z
+Registrar Registration Expiration Date: 2019-06-30T06:40:54Z
+Registrar: Shinjiru MSC Sdn Bhd
+Registrar IANA ID: 1741
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Kevin Han Khing Siu
+Registrant Organization: 
+Registrant Street: 19 Lorong Burhanuddin Helmi 1   
+Registrant City: Taman Tun Dr Ismail
+Registrant State/Province: Wilayah Persekutuan Kuala Lumpur
+Registrant Postal Code: 60000
+Registrant Country: MY
+Registrant Phone: +601.23547181
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: i@kevinhan.net
+Registry Admin ID: Not Available From Registry
+Admin Name: Kevin Han Khing Siu
+Admin Organization: 
+Admin Street: 19 Lorong Burhanuddin Helmi 1  
+Admin City: Taman Tun Dr Ismail
+Admin State/Province: Wilayah Persekutuan Kuala Lumpur
+Admin Postal Code: 60000
+Admin Country: MY
+Admin Phone: +601.23547181
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: i@kevinhan.net
+Registry Tech ID: Not Available From Registry
+Tech Name: Kevin Han Khing Siu
+Tech Organization: 
+Tech Street: 19 Lorong Burhanuddin Helmi 1  
+Tech City: Taman Tun Dr Ismail
+Tech State/Province: Wilayah Persekutuan Kuala Lumpur
+Tech Postal Code: 60000
+Tech Country: MY
+Tech Phone: +601.23547181
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: i@kevinhan.net
+Name Server: ns1.ipnames.net
+Name Server: ns2.ipnames.net
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@ilovewww.com
+Registrar Abuse Contact Phone: +603 2031 8850
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T18:16:47Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: 
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Shinjiru MSC Sdn Bhd. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

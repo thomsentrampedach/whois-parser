@@ -1,0 +1,77 @@
+
+Domain Name: WIN7GADGETS.COM
+Registry Domain ID: 1714338582_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.danesconames.com
+Registrar URL: https://danesconames.com/
+Updated Date: 2018-06-27 08:25:34.504094
+Creation Date: 2012-04-18
+Registrar Registration Expiration Date: 2019-04-18
+Registrar: DANESCO TRADING LTD
+Registrar IANA ID: 1418
+Registrar Abuse Contact Email: abuse@danesconames.com
+Registrar Abuse Contact Phone: +357.95713635
+Reseller: AHnames.com  https://www.AHnames.com/
+Domain Status: clientUpdateProhibited
+Domain Status: clientDeleteProhibited
+Domain Status: clientTransferProhibited
+Registry Registrant ID: MR_2401477WP
+Registrant Name: WhoisProtectService.net
+Registrant Organization: PROTECTSERVICE, LTD.
+Registrant Street: Agios Fylaxeos 66 and Chr. Perevou 2, Kalia Court, off. 601  
+Registrant City: Limassol
+Registrant State/Province: 
+Registrant Postal Code: 3025
+Registrant Country: Cyprus
+Registrant Phone: +357.95713635
+Registrant Phone Ext: 
+Registrant Fax: +357.95713635
+Registrant Fax Ext: 
+Registrant Email: win7gadgets.com@whoisprotectservice.net
+Registry Admin ID: MR_2401477WP
+Admin Name: WhoisProtectService.net
+Admin Organization: PROTECTSERVICE, LTD.
+Admin Street: Agios Fylaxeos 66 and Chr. Perevou 2, Kalia Court, off. 601  
+Admin City: Limassol
+Admin State/Province: 
+Admin Postal Code: 3025
+Admin Country: Cyprus
+Admin Phone: +357.95713635
+Admin Phone Ext: 
+Admin Fax: +357.95713635
+Admin Fax Ext: 
+Admin Email: win7gadgets.com@whoisprotectservice.net
+Registry Tech ID: MR_2401477WP
+Tech Name: WhoisProtectService.net
+Tech Organization: PROTECTSERVICE, LTD.
+Tech Street: Agios Fylaxeos 66 and Chr. Perevou 2, Kalia Court, off. 601  
+Tech City: Limassol
+Tech State/Province: 
+Tech Postal Code: 3025
+Tech Country: Cyprus
+Tech Phone: +357.95713635
+Tech Phone Ext: 
+Tech Fax: +357.95713635
+Tech Fax Ext: 
+Tech Email: win7gadgets.com@whoisprotectservice.net
+Registry Billing ID: MR_2401477WP
+Billing Name: WhoisProtectService.net
+Billing Organization: PROTECTSERVICE, LTD.
+Billing Street: Agios Fylaxeos 66 and Chr. Perevou 2, Kalia Court, off. 601  
+Billing City: Limassol
+Billing State/Province: 
+Billing Postal Code: 3025
+Billing Country: Cyprus
+Billing Phone: +357.95713635
+Billing Phone Ext: 
+Billing Fax: +357.95713635
+Billing Fax Ext: 
+Billing Email: win7gadgets.com@whoisprotectservice.net
+Name Server: NS1.DIGITALOCEAN.COM
+Name Server: NS2.DIGITALOCEAN.COM
+Name Server: NS3.DIGITALOCEAN.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-07-20 20:20:58 <<<
+
+Abuse email: abuse@ahnames.com
+

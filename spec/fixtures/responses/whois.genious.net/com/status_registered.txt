@@ -1,0 +1,79 @@
+Domain Name: ALYAOUM24.COM
+Registry Domain ID: 1787622382_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.genious.net
+Registrar URL: www.genious.net
+Updated Date: 2018-05-25T02:24:21Z
+Creation Date: 2013-03-20T10:41:49Z
+Registrar Registration Expiration Date: 2024-03-20T10:41:49Z
+Registrar: Genious Communications SARL/AU
+Registrar IANA ID: 1560
+Domain Status: OK https://icann.org/epp#OK
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Hicham BOUACHRINE
+Registrant Organization: ALYAOUM24
+Registrant Street: etage8, Imm Habous, casablanca   
+Registrant City: casablanca
+Registrant State/Province: Grand casablanca
+Registrant Postal Code: 20100
+Registrant Country: MA
+Registrant Phone: +212.664421919
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: alyaoum24@yahoo.es
+Registry Admin ID: Not Available From Registry
+Admin Name: Hicham BOUACHRINE
+Admin Organization: ALYAOUM24
+Admin Street: etage8, Imm Habous, casablanca  
+Admin City: casablanca
+Admin State/Province: Grand casablanca
+Admin Postal Code: 20100
+Admin Country: MA
+Admin Phone: +212.664421919
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: alyaoum24@yahoo.es
+Registry Tech ID: Not Available From Registry
+Tech Name: Hicham BOUACHRINE
+Tech Organization: ALYAOUM24
+Tech Street: etage8, Imm Habous, casablanca  
+Tech City: casablanca
+Tech State/Province: Grand casablanca
+Tech Postal Code: 20100
+Tech Country: MA
+Tech Phone: +212.664421919
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: alyaoum24@yahoo.es
+Name Server: brad.ns.cloudflare.com
+Name Server: mira.ns.cloudflare.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@genious.net
+Registrar Abuse Contact Phone: +212 (05) 22 27 48 69
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T17:34:09Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: GENIOUS COMMUNICATIONS
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Genious Communications SARL/AU. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

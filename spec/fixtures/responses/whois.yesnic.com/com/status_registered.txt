@@ -1,0 +1,61 @@
+Domain Name : yesnic.com
+Registry Domain ID: 12016095_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.yesnic.com
+Registrar URL: http://yesnic.com
+Updated Date: 2016-03-25T01:28:42Z
+Creation Date: 1999-11-02T10:21:35Z
+Registrar Registration Expiration Date: 2020-11-02T09:21:35Z
+Registrar: Whois Networks Co., Ltd.
+Registrar IANA ID: 100
+Registrar Abuse Contact Email: abuse@yesnic.com
+Registrar Abuse Contact Phone: +82.15884259
+Reseller: 
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Registry Registrant ID: 
+Registrant Name: Whois Networks Co., Ltd.
+Registrant Organization: Whois Networks Co., Ltd.
+Registrant Street: #1101 Daerung post tower 182-4 guro3-dong guro-gu
+Registrant City: Seoul
+Registrant State/Province: 
+Registrant Postal Code: 152847
+Registrant Country: KR
+Registrant Phone: +82.7043109797
+Registrant Phone Ext: 
+Registrant Fax: +82.220280020
+Registrant Fax Ext: 
+Registrant Email: dmanager@whois.co.kr
+Registry Admin ID: 
+Admin Name: Whois Networks Co., Ltd.
+Admin Organization: Whois Networks Co., Ltd.
+Admin Street: #1101 Daerung post tower 182-4 guro3-dong guro-gu
+Admin City: Seoul
+Admin State/Province: 
+Admin Postal Code: 152847
+Admin Country: KR
+Admin Phone: +82.7043109797
+Admin Phone Ext: 
+Admin Fax: +82.220280020
+Admin Fax Ext: 
+Admin Email: dmanager@whois.co.kr
+Registry Tech ID: 
+Tech Name: Whois Networks Co., Ltd.
+Tech Organization: Whois Networks Co., Ltd.
+Tech Street: #1101 Daerung post tower 182-4 guro3-dong guro-gu
+Tech City: Seoul
+Tech State/Province: 
+Tech Postal Code: 152847
+Tech Country: KR
+Tech Phone: +82.7043109797
+Tech Phone Ext: 
+Tech Fax: +82.220280020
+Tech Fax Ext: 
+Tech Email: dmanager@whois.co.kr
+Name Server: ns1.yesnic.com
+Name Server: ns00.whoisdns.net
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-03T02:45:06Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

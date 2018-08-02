@@ -1,0 +1,42 @@
+Domain Name: rocket-league.com
+Internationalized Domain Name: rocket-league.com
+Registry Domain ID: 1848255146_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domrobot.com
+Registrar URL: http://www.whois.domrobot.com
+Updated Date: 2017-12-05T00:28:06Z
+Creation Date: 2014-02-26T10:26:18Z
+Registrar Registration Expiration Date: 2021-02-26T10:26:18Z
+Registrar: INWX GmbH & Co. KG
+Registrar IANA ID: 1420
+Registrar Abuse Contact Email: abuse@domrobot.com
+Registrar Abuse Contact Phone: +49.30983212112
+Reseller: INWX GmbH & Co. KG
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registrant Organization: 
+Registrant State/Province: 
+Registrant Country: DE
+Name Server: tani.ns.cloudflare.com
+Name Server: jay.ns.cloudflare.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T17:32:55Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Terms of Use: This data is provided by INWX GmbH & Co. KG
+for information purposes, and to assist persons obtaining information
+about or related to domain name registration records.
+INWX GmbH & Co. KG does not guarantee its accuracy.
+By submitting a WHOIS query, you agree that you will use this data
+only for lawful purposes and that, under no circumstances, you will
+use this data to
+1) allow, enable, or otherwise support the transmission of mass
+   unsolicited, commercial advertising or solicitations via E-mail
+   (spam); or
+2) enable high volume, automated, electronic processes that apply
+   to this WHOIS server.
+These terms may be changed without prior notice.
+By submitting this query, you agree to abide by this policy.
+
+Please register your domains at
+DE310655557

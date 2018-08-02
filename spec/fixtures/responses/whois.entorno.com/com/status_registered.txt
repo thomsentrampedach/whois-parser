@@ -1,0 +1,39 @@
+Domain Name: mundodeportivo.com
+Registry Domain ID: 99094763_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.entorno.com
+Registrar URL: http://www.entorno.es
+Updated Date: 2018-05-15T15:45:20.0Z
+Creation Date: 2003-06-12T18:16:05.0Z
+Registrar Registration Expiration Date: 2019-06-12T18:16:05.0Z
+Registrar: Entorno Digital, S.A.
+Registrar IANA ID: 696
+Registrar Abuse Contact Email: abuse@entorno.es
+Registrar Abuse Contact Phone: +34.935942101
+Domain Status: ok https://www.icann.org/epp#ok
+
+Registrant Organization: EL MUNDO DEPORTIVO, S.A.
+Registrant State/Province: BARCELONA
+Registrant Country: ES
+Registrant Email: https://www.entorno.domains/form-whois.php?tipo=r&dominio=mundodeportivo.com
+Admin Email: https://www.entorno.domains/form-whois.php?tipo=a&dominio=mundodeportivo.com
+Tech Email: https://www.entorno.domains/form-whois.php?tipo=t&dominio=mundodeportivo.com
+Name Server: dns01.grupogodo.com
+Name Server: dns02.grupogodo.com
+Name Server: dns03.grupogodo.com
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T14:46:45.0Z <<<
+
+Entorno Digital's WHOIS database is only for information purposes,
+this information consists on domain name registration records.
+Entorno Digital does not guarantee the accuracy of the information
+contained in the WHOIS. Entorno Digital allows the use of the
+information only for lawful purposes, under no circumstances this data
+will be used for: (a) allow, enable, or otherwise support the transmission
+by e-mail, telephone, or facsimile of mass unsolicited, commercial
+advertising or solicitations to entities other than the data recipient's
+own existing customers; or (b) enable high volume, automated,
+electronic processes that send queries or data to the systems of
+Registry Operator or any ICANN-Accredited Registrar, except as
+reasonably necessary to register domain names or modify existing
+registrations.

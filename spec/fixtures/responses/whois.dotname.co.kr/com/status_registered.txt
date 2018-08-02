@@ -1,0 +1,58 @@
+Domain Name: issuein.com
+Registry Domain ID: 1218073951_DOMAIN_COM-VRSN
+Registrar WHOIS Server:whois.dotname.co.kr
+Registrar URL:http://www.dotname.co.kr
+Updated Date:2007-09-15T17:17:00Z
+Creation Date :2007-09-15T17:17:00Z
+Registrar Registration Expiration Date: 2019-09-15T00:00:00Z
+Registrar: Dotname Korea Corp
+Registrar IANA ID: 1132
+Registrar Abuse Contact Email: doc@dotnamekorea.com
+Registrar Abuse Contact Phone: +82.7070900827
+Domain Status:ok http://www.icann.org/epp#ok
+Registry Registrant ID: 
+Registrant Name: min seo kim
+Registrant Organization: kim min seo
+Registrant Street: Seocho-gu, Seoul, 137-902, korea 1~17, Jamwon-dong    1 - 17
+Registrant City: Gyeonggi-do
+Registrant State/Province: 
+Registrant Postal Code: 137902
+Registrant Country: KR
+Registrant Phone: +82.100000000
+Registrant Phone Ext:
+Registrant Fax: 
+Registrant Fax Ext:
+Registrant Email: bbibbi1128@gmail.com
+Registry Admin ID: 
+Admin Name: min seo kim
+Admin Organization: 
+Admin Street: Seocho-gu, Seoul, 137-902, korea 1~17, Jamwon-dong    1 - 17
+Admin City: Gyeonggi-do
+Admin State/Province: 
+Admin Postal Code: 137902
+Admin Country: KR
+Admin Phone: +82.100000000
+Admin Phone Ext:
+Admin Fax: 
+Admin Fax Ext:
+Admin Email: bbibbi1128@gmail.com
+Registry Tech ID: 
+Tech Name: min seo kim
+Tech Organization: 
+Tech Street: Seocho-gu, Seoul, 137-902, korea 1~17, Jamwon-dong    1 - 17
+Tech City: Gyeonggi-do
+Tech State/Province: 
+Tech Postal Code: 
+Tech Country: KR
+Tech Phone: +82.100000000
+Tech Phone Ext:
+Tech Fax: 
+Tech Fax Ext:
+Tech Email: bbibbi1128@gmail.com
+Name Server:CONNIE.NS.CLOUDFLARE.COM
+Name Server:WEST.NS.CLOUDFLARE.COM
+DNSSEC:          unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net
+>>> Last update of WHOIS database: 2018-08-03T8:00:00Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp

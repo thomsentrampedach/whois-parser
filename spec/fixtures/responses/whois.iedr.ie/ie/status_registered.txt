@@ -1,0 +1,27 @@
+
+% Rights restricted by copyright; http://iedr.ie/index.php/mnudomregs/mnudnssearch/96
+% Do not remove this notice
+
+Domain:                  independent.ie
+Domain Holder:           Independent Newspapers (Ireland) Limited
+Admin-c:                 ALB845-IEDR
+Tech-c:                  ABG704-IEDR
+Account Name:            Letshost.ie
+Registrar Abuse Contact: Service not supported currently
+Registration Date:       12-January-2001
+Renewal Date:            12-January-2019
+Holder-type:             Billable
+Locked status:           NO
+Renewal status:          Active
+In-zone:                 1
+Nserver:                 ns-1190.awsdns-20.org  
+Nserver:                 ns-2024.awsdns-61.co.uk  
+Nserver:                 ns-942.awsdns-53.net  
+Nserver:                 ns-477.awsdns-59.com  
+
+
+% Important Notice
+% If you believe that information published on this page is incorrect, or should not be published, please contact your Registrar, or the IEDR Registration Services Department who will advise you further. 
+% You can also contact your Registrar or the IEDR if your domain holder name isn’t showing and you would like it to be published.
+% Our contact information is available at https://www.iedr.ie/contact-us/ 
+

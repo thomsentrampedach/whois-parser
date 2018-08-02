@@ -1,0 +1,80 @@
+Domain Name: VODIEN.COM
+Registry Domain ID: 85979134_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.vodien.com
+Registrar URL: www.vodien.com
+Updated Date: 2018-07-16T03:53:44Z
+Creation Date: 2002-04-26T00:13:18Z
+Registrar Registration Expiration Date: 2024-04-26T00:13:18Z
+Registrar: Vodien Internet Solutions Pte Ltd
+Registrar IANA ID: 1912
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Vodien Internet Solutions Pte Ltd
+Registrant Organization: Vodien Internet Solutions Pte Ltd
+Registrant Street: 3 Irving Road #09-01   
+Registrant City: Singapore
+Registrant State/Province: Singapore
+Registrant Postal Code: 369522
+Registrant Country: SG
+Registrant Phone: +65.62886264
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: nic@vodien.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Vodien Internet Solutions Pte Ltd
+Admin Organization: Vodien Internet Solutions Pte Ltd
+Admin Street: 3 Irving Road #09-01  
+Admin City: Singapore
+Admin State/Province: Singapore
+Admin Postal Code: 369522
+Admin Country: SG
+Admin Phone: +65.62886264
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: nic@vodien.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Vodien Internet Solutions Pte Ltd
+Tech Organization: Vodien Internet Solutions Pte Ltd
+Tech Street: 3 Irving Road #09-01  
+Tech City: Singapore
+Tech State/Province: Singapore
+Tech Postal Code: 369522
+Tech Country: SG
+Tech Phone: +65.62886264
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: nic@vodien.com
+Name Server: ns1.vodien.com
+Name Server: ns2.vodien.com
+Name Server: ns3.vodien.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: domain@vodien.com
+Registrar Abuse Contact Phone: +65.62886264
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T17:44:32Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: VODIEN
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Vodien Internet Solutions Pte Ltd. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

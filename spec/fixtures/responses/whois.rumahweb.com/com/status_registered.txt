@@ -1,0 +1,87 @@
+Domain Name: 1CAK.COM
+Registry Domain ID:
+Registrar WHOIS Server: whois.rumahweb.com
+Registrar URL: https://www.rumahweb.com
+Creation Date: 2012-09-22T17:15:30+07:00
+Registrar Registration Expiration Date: 2019-09-22T09:15:30+07:00
+Registrar: CV. Rumahweb Indonesia
+Registrar IANA ID: 1675
+Registrar Abuse Contact Email:abuse@rumahweb.co.id
+Registrar Abuse Contact Phone:+62.274882257
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Registry Registrant ID:
+Registrant Name: Aji Ramadhan 
+Registrant Organization: adjiexx dot net
+Registrant Street: Ged F302 ITT Bandung Ged D lantai 2 ITT Bandung 
+Registrant City: Bandung
+Registrant State/Province: jawa barat
+Registrant Postal Code: 40257
+Registrant Country: ID
+Registrant Phone: +62.08562139420
+Registrant Phone Ext:
+Registrant Fax:
+Registrant Fax Ext:
+Registrant Email: info@1cak.com
+Registry Admin ID:
+Admin Name: Aji Ramadhan 
+Admin Organization: adjiexx dot net
+Admin Street: Ged F302 ITT Bandung Ged D lantai 2 ITT Bandung 
+Admin City: Bandung
+Admin State/Province: jawa barat
+Admin Postal Code: 40257
+Admin Country: ID
+Admin Phone: +62.08562139420
+Admin Phone Ext:
+Admin Fax:
+Admin Fax Ext:
+Admin Email: info@1cak.com
+Registry Billing ID:
+Billing Name: Aji Ramadhan 
+Billing Organization: adjiexx dot net
+Billing Street: Ged F302 ITT Bandung Ged D lantai 2 ITT Bandung 
+Billing City: Bandung
+Billing State/Province: jawa barat
+Billing Postal Code: 40257
+Billing Country: ID
+Billing Phone: +62.08562139420
+Billing Phone Ext:
+Billing Fax:
+Billing Fax Ext:
+Billing Email: info@1cak.com
+Registry Tech ID:
+Tech Name: Aji Ramadhan 
+Tech Organization: adjiexx dot net
+Tech Street: Ged F302 ITT Bandung Ged D lantai 2 ITT Bandung 
+Tech City: Bandung
+Tech State/Province: jawa barat
+Tech Postal Code: 40257
+Tech Country: ID
+Tech Phone: +62.08562139420
+Tech Phone Ext:
+Tech Fax:
+Tech Fax Ext:
+Tech Email: info@1cak.com
+Name Server: nsid1.rumahweb.com
+Name Server: nsid2.rumahweb.net
+Name Server: nsid3.rumahweb.biz
+Name Server: nsid4.rumahweb.org
+DNSSEC:Unsigned
+URL of the ICANN WHOIS Data Problem Reporting System:
+http://wdprs.internic.net/
+Registration Service Provided By: RUMAHWEB
+The data in this whois database is provided to you for information purposes
+only, that is, to assist you in obtaining information about or related to a
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree
+that you will use this data only for lawful purposes and that, under no
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited,
+commercial advertising or solicitations via direct mail, electronic mail, or
+by telephone.
+The compilation, repackaging, dissemination or other use of this data is
+expressly prohibited without prior written consent from us. The Registrar of
+record is CV. Rumahweb Indonesia.
+We reserve the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.

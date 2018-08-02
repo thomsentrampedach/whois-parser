@@ -1,0 +1,76 @@
+Domain Name: TRACK-TRACE.COM
+Registry Domain ID: 18155215_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.domainnameshop.com
+Registrar URL: https://domainnameshop.com
+Updated Date: 2018-07-28T17:19:57Z
+Creation Date: 2000-01-21T00:59:42Z
+Registrar Registration Expiration Date: 2019-01-21T00:59:42Z
+Registrar: Domeneshop AS dba domainnameshop.com
+Registrar IANA ID: 1001
+Registrar Abuse Contact Email: abuse@domainnameshop.com
+Registrar Abuse Contact Phone: +47.22943333
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Redacted for Privacy Purposes
+Registrant Organization: Webfokus AS
+Registrant Street: Redacted for Privacy Purposes
+Registrant City: Redacted for Privacy Purposes
+Registrant State/Province: 
+Registrant Postal Code: Redacted for Privacy Purposes
+Registrant Country: NO
+Registrant Phone: Redacted for Privacy Purposes
+Registrant Fax: 
+Registrant Email: pedrgbh9pjeh@privacy-protection.email
+Registry Admin ID: Not Available From Registry
+Admin Name: Redacted for Privacy Purposes
+Admin Organization: Redacted for Privacy Purposes
+Admin Street: Redacted for Privacy Purposes
+Admin City: Redacted for Privacy Purposes
+Admin State/Province: 
+Admin Postal Code: Redacted for Privacy Purposes
+Admin Country: Redacted for Privacy Purposes
+Admin Phone: Redacted for Privacy Purposes
+Admin Fax: 
+Admin Email: ukyqvp6sdzbs@privacy-protection.email
+Registry Tech ID: Not Available From Registry
+Tech Name: Redacted for Privacy Purposes
+Tech Organization: Redacted for Privacy Purposes
+Tech Street: Redacted for Privacy Purposes
+Tech City: Redacted for Privacy Purposes
+Tech State/Province: 
+Tech Postal Code: Redacted for Privacy Purposes
+Tech Country: Redacted for Privacy Purposes
+Tech Phone: Redacted for Privacy Purposes
+Tech Fax: Redacted for Privacy Purposes
+Tech Email: hostmaster@domeneshop.no
+Name Server: NS1.HYP.NET
+Name Server: NS2.HYP.NET
+Name Server: NS3.HYP.NET
+DNSSEC: signedDelegation
+URL of the ICANN Whois Inaccuracy Complaint Form: https://icann.org/wicf
+>>> Last update of WHOIS database: 2018-07-28T17:19:57Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+The data contained in this whois database is provided to you for
+information purposes only, and may be used to assist you in obtaining
+information about a domain name registration record.  The information
+is provided "as is", with no guarantee or warranties regarding its
+accuracy.  By submitting a whois query, you agree that you will use
+this data only for lawful purposes and that, under no circumstances
+will you use this data to allow, enable, or otherwise support the
+transmission of mass unsolicited, commercial advertising or
+solicitations via e-mail, postal mail, telephone, facsimile, SMS or
+any other media.  The compilation, repackaging, dissemination or other
+use of this data is expressly prohibited without prior written consent
+from us.  You agree not to use high-volume, automated, electronic
+processes to access or query the whois database.  We reserve the right
+to terminate your access to the whois database at our sole discretion,
+including without limitation, for excessive querying of the whois
+database or for failure to otherwise abide by this policy.  We reserve
+the right to modify these terms at any time.  By submitting this query,
+you agree to these terms of usage and limitations of warranty.
+
+NOTE: THE WHOIS DATABASE IS A CONTACT DATABASE ONLY.  LACK OF A DOMAIN
+RECORD DOES NOT SIGNIFY DOMAIN AVAILABILITY.
+

@@ -1,0 +1,81 @@
+Domain Name: UPTODOWN.COM
+Registry Domain ID: 93291750_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.primalstore.com
+Registrar URL: http://www.interdominios.com
+Updated Date: 2017-06-26T08:14:50Z
+Creation Date: 2002-12-20T00:09:31Z
+Registrar Registration Expiration Date: 2027-06-24T16:46:53Z
+Registrar: Interdominios, Inc.
+Registrar IANA ID: 818
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: GDPR Masked
+Registrant Organization: GDPR Masked
+Registrant Street: GDPR Masked GDPR Masked GDPR Masked 
+Registrant City: GDPR Masked
+Registrant State/Province: GDPR Masked
+Registrant Postal Code: 00000
+Registrant Country: GDPR Masked
+Registrant Phone: +0.00000000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: gdpr-masking@gdpr-masked.com
+Registry Admin ID: Not Available From Registry
+Admin Name: GDPR Masked
+Admin Organization: GDPR Masked
+Admin Street: GDPR Masked GDPR Masked GDPR Masked 
+Admin City: GDPR Masked
+Admin State/Province: GDPR Masked
+Admin Postal Code: 00000
+Admin Country: GDPR Masked
+Admin Phone: +0.00000000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: gdpr-masking@gdpr-masked.com
+Registry Tech ID: Not Available From Registry
+Tech Name: GDPR Masked
+Tech Organization: GDPR Masked
+Tech Street: GDPR Masked GDPR Masked GDPR Masked 
+Tech City: GDPR Masked
+Tech State/Province: GDPR Masked
+Tech Postal Code: 00000
+Tech Country: GDPR Masked
+Tech Phone: +0.00000000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: gdpr-masking@gdpr-masked.com
+Name Server: a1-134.akam.net
+Name Server: a11-65.akam.net
+Name Server: a14-66.akam.net
+Name Server: a2-67.akam.net
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: info@interdominios.com
+Registrar Abuse Contact Phone: +34.902727202
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T18:17:59Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: INTERDOMINIOS.COM
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Interdominios, Inc.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

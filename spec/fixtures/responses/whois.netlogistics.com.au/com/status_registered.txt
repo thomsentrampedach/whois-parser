@@ -1,0 +1,80 @@
+Domain Name: VIETJACK.COM
+Registry Domain ID: 1943324610_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.netlogistics.com.au
+Registrar URL: 
+Updated Date: 2017-06-28T03:07:14Z
+Creation Date: 2015-06-30T07:11:25Z
+Registrar Registration Expiration Date: 2022-06-30T07:11:25Z
+Registrar: Net Logistics Pty. Ltd.
+Registrar IANA ID: 1676
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Nguyen Thanh Tuyen
+Registrant Organization: 
+Registrant Street: 66 kim hoa, dong da,   
+Registrant City: Ha Noi
+Registrant State/Province: Ha Noi
+Registrant Postal Code: 12345
+Registrant Country: VN
+Registrant Phone: +84.01689933602
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: traigiaoyen@gmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Nguyen Thanh Tuyen
+Admin Organization: 
+Admin Street: 66 kim hoa, dong da,  
+Admin City: Ha Noi
+Admin State/Province: Ha Noi
+Admin Postal Code: 12345
+Admin Country: VN
+Admin Phone: +84.01689933602
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: traigiaoyen@gmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Nguyen Thanh Tuyen
+Tech Organization: 
+Tech Street: 66 kim hoa, dong da,  
+Tech City: Ha Noi
+Tech State/Province: Ha Noi
+Tech Postal Code: 12345
+Tech Country: VN
+Tech Phone: +84.01689933602
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: traigiaoyen@gmail.com
+Name Server: ns1.viettelidc.com.vn
+Name Server: ns2.viettelidc.com.vn
+Name Server: ns.viettelidc.com.vn
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: 
+Registrar Abuse Contact Phone: 
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-02T18:03:52Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: VIETTEL IDC
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Net Logistics Pty. Ltd.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+
