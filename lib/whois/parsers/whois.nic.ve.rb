@@ -51,13 +51,13 @@ module Whois
 
 
       property_supported :created_on do
-        if content_for_scanner =~ /Fecha de Creacion: (.+?)\n/
+        if content_for_scanner =~ /Fecha de Creac.+?: (.+?)\n/
           parse_time($1)
         end
       end
 
       property_supported :updated_on do
-        if content_for_scanner =~ /Ultima Actualizacion: (.+?)\n/
+        if content_for_scanner =~ /Ultima Actualizac.+?: (.+?)\n/
           parse_time($1)
         end
       end
@@ -76,12 +76,14 @@ module Whois
         end
       end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
 
       # NEWPROPERTY
       # def suspended?
       # end
-
     end
-
   end
 end

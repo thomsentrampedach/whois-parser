@@ -55,14 +55,25 @@ module Whois
         end
       end
 
-
       property_supported :nameservers do
         content_for_scanner.scan(/Name Server:\s+(.+)\n/).flatten.map do |name|
           Parser::Nameserver.new(:name => name.downcase)
         end
       end
 
-    end
+      property_supported :registrar do
+        Parser::Registrar.new({
+          id:           content_for_scanner[/Registrar IANA ID:\s+(.+)\n/, 1],
+          name:         content_for_scanner[/Registrar:\s+(.+)\n/, 1],
+          organization: content_for_scanner[/Registrar:\s+(.+)\n/, 1],
+          email:        content_for_scanner[/Registrar Abuse Contact Email:\s+(.+)\n/, 1],
+          phone:        content_for_scanner[/Registrar Abuse Contact Phone:\s+(.+)\n/, 1],
+        })
+      end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+    end
   end
 end

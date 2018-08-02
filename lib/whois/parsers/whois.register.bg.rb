@@ -45,7 +45,6 @@ module Whois
         !available?
       end
 
-
       property_supported :created_on do
         if content_for_scanner =~ /activated on:\s+(.*?)\n/
           # Time.parse("30/06/2003 00:00:00")
@@ -64,7 +63,6 @@ module Whois
         end
       end
 
-
       property_supported :nameservers do
         if content_for_scanner =~ /NAME SERVER INFORMATION:\n((.+\n)+)\s+\n/
           $1.split("\n").map do |line|
@@ -77,7 +75,10 @@ module Whois
         end
       end
 
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
     end
-
   end
 end

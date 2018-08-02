@@ -59,6 +59,17 @@ module Whois
         end
       end
 
+      property_supported :admin_contacts do
+        Parser::Contact.new(
+          type:         Parser::Contact::TYPE_ADMINISTRATIVE,
+          name:         content_for_scanner[/Admin Name:\s+(.+)\n/, 1],
+          email:        content_for_scanner[/Admin Email:\s+(.+)\n/, 1]
+        )
+      end
+
+      property_not_supported :registrant_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
 
       # Checks whether the response has been throttled.
       #
