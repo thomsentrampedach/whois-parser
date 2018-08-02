@@ -23,12 +23,7 @@ describe Whois::Parsers::WhoisGg, "status_available.expected" do
 
   describe "#domain" do
     it do
-      expect(subject.domain).to eq("u34jedzcq.gg")
-    end
-  end
-  describe "#domain_id" do
-    it do
-      expect(subject.domain_id).to eq(nil)
+      expect(subject.domain).to eq(nil)
     end
   end
   describe "#status" do
@@ -44,26 +39,6 @@ describe Whois::Parsers::WhoisGg, "status_available.expected" do
   describe "#registered?" do
     it do
       expect(subject.registered?).to eq(false)
-    end
-  end
-  describe "#created_on" do
-    it do
-      expect(subject.created_on).to eq(nil)
-    end
-  end
-  describe "#updated_on" do
-    it do
-      expect(subject.updated_on).to eq(nil)
-    end
-  end
-  describe "#expires_on" do
-    it do
-      expect(subject.expires_on).to eq(nil)
-    end
-  end
-  describe "#registrar" do
-    it do
-      expect(subject.registrar).to eq(nil)
     end
   end
   describe "#nameservers" do

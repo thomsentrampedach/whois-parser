@@ -7,8 +7,7 @@
 #++
 
 
-require_relative 'base_cocca2'
-
+require_relative 'base'
 
 module Whois
   class Parsers
@@ -18,13 +17,54 @@ module Whois
     # @see Whois::Parsers::Example
     #   The Example parser for the list of all available methods.
     #
-    class WhoisGg < BaseCocca2
+    class WhoisGg < Base
 
-      property_supported :status do
-        list = Array.wrap(node("Domain Status")).map(&:downcase)
-        list.include?("available") ? :available : super()
+      property_supported :domain do
+        node('Domain').first
       end
 
+      property_supported :status do
+        if available?
+          :available
+        else
+          :registered
+        end
+      end
+
+      property_supported :available? do
+        !!(content_for_scanner =~ /NOT FOUND/)
+      end
+
+      property_supported :registered? do
+        !available?
+      end
+
+      property_supported :nameservers do
+        node('Name servers').map do |name|
+          Parser::Nameserver.new(:name => name)
+        end
+      end
+
+      property_not_supported :domain_id
+      property_not_supported :created_on
+      property_not_supported :updated_on
+      property_not_supported :expires_on
+      property_not_supported :registrant_contacts
+      property_not_supported :admin_contacts
+      property_not_supported :technical_contacts
+      property_not_supported :registrar
+
+      private
+
+      def node(key)
+        content_for_scanner
+          .scan(/#{key}:\n\s*(.+?)\n\s*?\n/m)
+          .flatten
+          .map { |a| a.split("\n") }
+          .flatten
+          .map(&:strip)
+          .compact
+      end
     end
 
   end

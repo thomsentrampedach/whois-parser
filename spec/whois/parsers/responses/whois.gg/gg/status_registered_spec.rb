@@ -26,11 +26,6 @@ describe Whois::Parsers::WhoisGg, "status_registered.expected" do
       expect(subject.domain).to eq("google.gg")
     end
   end
-  describe "#domain_id" do
-    it do
-      expect(subject.domain_id).to eq("24221-CI")
-    end
-  end
   describe "#status" do
     it do
       expect(subject.status).to eq(:registered)
@@ -44,22 +39,6 @@ describe Whois::Parsers::WhoisGg, "status_registered.expected" do
   describe "#registered?" do
     it do
       expect(subject.registered?).to eq(true)
-    end
-  end
-  describe "#created_on" do
-    it do
-      expect(subject.created_on).to be_a(Time)
-      expect(subject.created_on).to eq(Time.parse("2003-04-30 00:00:00 UTC"))
-    end
-  end
-  describe "#updated_on" do
-    it do
-      expect(subject.updated_on).to eq(nil)
-    end
-  end
-  describe "#expires_on" do
-    it do
-      expect(subject.expires_on).to eq(nil)
     end
   end
   describe "#nameservers" do

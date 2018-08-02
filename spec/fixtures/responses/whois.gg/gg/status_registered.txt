@@ -1,64 +1,51 @@
-Domain Name: google.gg
-Domain ID: 24221-CI
-WHOIS Server: whois.gg
-Referral URL: 
-Creation Date: 2003-04-30T00:00:00.000Z
-Sponsoring Registrar: MarkMonitor Inc.
-Sponsoring Registrar IANA ID: 
-Domain Status: clientDeleteProhibited
-Domain Status: ok
-Domain Status: clientTransferProhibited
-Domain Status: clientUpdateProhibited
+Domain:
+     google.gg
 
-Registrant ID: 32764-CI
+Domain Status:
+     Active
+     Update Prohibited by Registrar
+     Delete Prohibited by Registrar
+     Transfer Prohibited by Registrar
 
-Admin ID: 32764-CI
+Registrant:
+     Google Inc.
 
-Billing ID: 32762-CI
+Registrar:
+     MarkMonitor Inc. (http://www.markmonitor.com)
 
-Tech ID: 32764-CI
+Relevant dates:
+     Registered on 30th April 2003
+     Registry fee due on 30th April each year
 
-Name Server: ns1.google.com
-Name Server: ns2.google.com
-Name Server: ns4.google.com
-Name Server: ns3.google.com
+Registration status:
+     Registered until cancelled
 
-DNSSEC: unsigned
+Name servers:
+     ns1.google.com
+     ns2.google.com
+     ns4.google.com
+     ns3.google.com
+     
 
+WHOIS lookup made on Wed, 1 Aug 2018 at 20:12:58 UTC
 
-Additional Section
+This WHOIS information is provided for free by CIDR, operator of
+the backend registry for domain names ending in GG, JE, and AS.
 
+Copyright (c) and database right Island Networks 1996 - 2018.
 
-Sponsoring Registrar URL: http://www.markmonitor.com
+You may not access this WHOIS server or use any data from it except
+as permitted by our Terms and Conditions which are published
+at http://www.channelisles.net/legal/whoisterms
 
+They include restrictions and prohibitions on
 
-This information is provided free of charge from the Channel Islands' 
-Register of Internet Names. The copyright  and database rights in this
-information and in the contents are owned by Island Networks Ltd
-whose Registered Office is at 12 Victoria St, St Anne's GY9 3UF
+- using or re-using the data for advertising;
+- using or re-using the service for commercial purposes without a licence;
+- repackaging, recompilation, redistribution or reuse;
+- obscuring, removing or hiding any or all of this notice;
+- exceeding query rate or volume limits.
 
-WHOIS query results shown may lag behind the Register.
+The data is provided on an 'as-is' basis and may lag behind the
+register. Access may be withdrawn or restricted at any time. 
 
-You may not access this server or use any data obtained from it 
-without written licence except for private, non-commercial use for the 
-purpose(s) of determining availability of, or confirming the registration of 
-a domain name on the Register. 
-
-Any other use constitutes unauthorised access to a computer, 
-which is a statutory offence under the Computer Misuse 
-(Bailiwick of Guernsey) Law 1991, and/or similar legislation 
-in other parts of the British Islands and elsewhere.
-
-Furthermore, you may never do any of the following
-
-(a) use data obtained from this server for advertising; 
-(b) repackage, reuse or redistribute the data;
-(c) obscure, remove or hide any or all of this notice; or 
-(d) make excessive queries. 
-
-Access may be withdrawn or restricted at any time 
-without notice. 
-
-
-
->>> Last update of WHOIS database: 2014-05-13T07:47:04.784Z <<<
