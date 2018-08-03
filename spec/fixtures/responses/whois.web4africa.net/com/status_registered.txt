@@ -1,0 +1,79 @@
+Domain Name: MATXAC.COM
+Registry Domain ID: 1486860273_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.web4africa.net
+Registrar URL: http://www.web4africa.net
+Updated Date: 2018-03-10T04:07:17Z
+Creation Date: 2008-06-04T21:09:53Z
+Registrar Registration Expiration Date: 2019-06-04T21:09:53Z
+Registrar: Web4Africa Inc.
+Registrar IANA ID: 664
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: stv
+Registrant Organization: Truong Van Tong
+Registrant Street: Hanoi   
+Registrant City: 9199999999
+Registrant State/Province: Ha Noi
+Registrant Postal Code: 08404
+Registrant Country: VN
+Registrant Phone: +84.9199999999
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: ngongonghech@gmail.com
+Registry Admin ID: Not Available From Registry
+Admin Name: stv
+Admin Organization: Truong Van Tong
+Admin Street: Hanoi  
+Admin City: 9199999999
+Admin State/Province: Ha Noi
+Admin Postal Code: 08404
+Admin Country: VN
+Admin Phone: +84.9199999999
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ngongonghech@gmail.com
+Registry Tech ID: Not Available From Registry
+Tech Name: stv
+Tech Organization: Truong Van Tong
+Tech Street: Hanoi  
+Tech City: 9199999999
+Tech State/Province: Ha Noi
+Tech Postal Code: 08404
+Tech Country: VN
+Tech Phone: +84.9199999999
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ngongonghech@gmail.com
+Name Server: rachel.ns.cloudflare.com
+Name Server: tom.ns.cloudflare.com
+DNSSEC: Unsigned
+Registrar Abuse Contact Email: abuse@web4africa.net
+Registrar Abuse Contact Phone: +1-646-666-9664
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2018-08-03T02:44:42Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+Registration Service Provided By: WEB4AFRICA
+
+The data in this whois database is provided to you for information purposes 
+only, that is, to assist you in obtaining information about or related to a 
+domain name registration record. We make this information available "as is",
+and do not guarantee its accuracy. By submitting a whois query, you agree 
+that you will use this data only for lawful purposes and that, under no 
+circumstances will you use this data to: 
+(1) enable high volume, automated, electronic processes that stress or load 
+this whois database system providing you this information; or 
+(2) allow, enable, or otherwise support the transmission of mass unsolicited, 
+commercial advertising or solicitations via direct mail, electronic mail, or 
+by telephone. 
+The compilation, repackaging, dissemination or other use of this data is 
+expressly prohibited without prior written consent from us. The Registrar of 
+record is Web4Africa Inc.. 
+We reserve the right to modify these terms at any time. 
+By submitting this query, you agree to abide by these terms.
+
+

@@ -1,0 +1,61 @@
+Welcome to Korea Server Hosting Inc. WHOIS Service
+
+Domain Name: dogdrip.com
+Registry Domain ID: 1598926119_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.ksdom.kr
+Registrar URL: http://ksdom.kr
+Updated Date: 2018-02-03T00:37:13Z
+Creation Date: 2010-05-25T16:10:36Z
+Registrar Registration Expiration Date: 2019-05-25T16:10:36Z
+Registrar: KOREA SERVER HOSTING INC.
+Registrar IANA ID: 1542
+Registrar Abuse Contact Email: Abuse@ksidc.net
+Registrar Abuse Contact Phone: +82.25938320
+Reseller:
+Domain Status: ok https://icann.org/epp#ok
+Registry Registrant ID: Not Available From Registry
+Registrant Name: KOREA SERVER HOSTING INC. (hidden by whois privacy protection service)
+Registrant Organization: KOREA SERVER HOSTING INC. (hidden by whois privacy protection service)
+Registrant Street: , 6, Beobwon-ro 1-gil, Seocho-gu, Seoul, Republic of Korea
+Registrant City: Seoul
+Registrant State/Province:
+Registrant Postal Code: 06595
+Registrant Country: KR
+Registrant Phone: +82.25938320
+Registrant Phone Ext:
+Registrant Fax: +82.262648321
+Registrant Fax Ext:
+Registrant Email: privacyservice@ksidc.net
+Registry Admin ID: Not Available From Registry
+Admin Name: KOREA SERVER HOSTING INC. (hidden by whois privacy protection service)
+Admin Organization: KOREA SERVER HOSTING INC. (hidden by whois privacy protection service)
+Admin Street: , 6, Beobwon-ro 1-gil, Seocho-gu, Seoul, Republic of Korea
+Admin City: Seoul
+Admin State/Province:
+Admin Postal Code: 06595
+Admin Country: KR
+Admin Phone: +82.25938320
+Admin Phone Ext:
+Admin Fax: +82.262648321
+Admin Fax Ext:
+Admin Email: privacyservice@ksidc.net
+Registry Tech ID: Not Available From Registry
+Tech Name: KOREA SERVER HOSTING INC. (hidden by whois privacy protection service)
+Tech Organization: KOREA SERVER HOSTING INC. (hidden by whois privacy protection service)
+Tech Street: , 6, Beobwon-ro 1-gil, Seocho-gu, Seoul, Republic of Korea
+Tech City: Seoul
+Tech State/Province:
+Tech Postal Code: 06595
+Tech Country: KR
+Tech Phone: +82.25938320
+Tech Phone Ext:
+Tech Fax: +82.262648321
+Tech Fax Ext:
+Tech Email: privacyservice@ksidc.net
+Name Server: NS1.DOGDRIP.COM
+Name Server: NS2.DOGDRIP.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of whois database: 2018-08-03T10:53:27Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
