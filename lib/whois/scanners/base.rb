@@ -61,7 +61,7 @@ module Whois
       end
 
       tokenizer :skip_gdpr_message do
-        @input.skip(/^Please query the RDDS.+\n/)
+        @input.skip(/^Please query the RDDS.+\n?|^The Registrar of Record.+\n?/)
       end
 
     protected
