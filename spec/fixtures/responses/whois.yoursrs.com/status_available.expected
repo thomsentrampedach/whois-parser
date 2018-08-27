@@ -2,11 +2,11 @@
   %s == nil
 
 #domain_id
-  %s %ERROR{AttributeNotSupported}
+  %s == nil
 
 
 #status
-  %s == []
+  %s == :available
 
 #available?
   %s == true
